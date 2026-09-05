@@ -101,6 +101,8 @@ def execute_job_search(queries: list[str], location: str = "", is_remote: bool =
                 hours_old=HOURS_OLD,
                 country_indeed="USA",
                 description_format="markdown",
+                linkedin_fetch_description=True,  # LinkedIn only returns a snippet
+                # unless this is set -- without it, jobspy leaves `description` blank.
             )
         except Exception as e:
             print(f"  -> Error on query {i+1}: {e}")
