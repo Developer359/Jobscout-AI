@@ -692,39 +692,6 @@
             "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4444320751",
-            "title": "AI Software Engineer | Remote",
-            "description": "",
-            "tags": [
-                "Software",
-                "Engineer",
-                "Remote"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Crossing Hurdles",
-            "website_name": "linkedin",
-            "posted_days_ago": 2,
-            "location": "",
-            "query_index": 2,
-            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4463392760",
-            "title": "Software Engineer",
-            "description": "",
-            "tags": [
-                "Software",
-                "Engineer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Motion Recruitment",
-            "website_name": "linkedin",
-            "posted_days_ago": 2,
-            "location": "",
-            "query_index": 2,
-            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
-        },
-        {
             "url": "https://www.linkedin.com/jobs/view/4405506034",
             "title": "AI Engineer",
             "description": "",
@@ -736,6 +703,23 @@
             "website_name": "linkedin",
             "posted_days_ago": 2,
             "location": "Chicago, IL",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463195575",
+            "title": "Machine Learning Engineer",
+            "description": "",
+            "tags": [
+                "Machine",
+                "Learning",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "TEKsystems",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Raleigh, NC",
             "query_index": 2,
             "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
         },
@@ -759,66 +743,65 @@
             "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4463638262",
-            "title": "Software Engineer - AI Automation",
+            "url": "https://www.linkedin.com/jobs/view/4462317795",
+            "title": "AI Process Engineer",
+            "description": "",
+            "tags": [
+                "Process",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Contech Systems Inc.",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Newark, NJ",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461411073",
+            "title": "Senior AI engineer",
+            "description": "",
+            "tags": [
+                "Senior",
+                "engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Dew Software",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Washington, United States",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463398788",
+            "title": "Senior Software Engineer",
+            "description": "",
+            "tags": [
+                "Senior",
+                "Software",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Premier Staffing Solution",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Palo Alto, CA",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4444320751",
+            "title": "AI Software Engineer | Remote",
             "description": "",
             "tags": [
                 "Software",
                 "Engineer",
-                "Automation"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Coalition, Inc.",
-            "website_name": "linkedin",
-            "posted_days_ago": 2,
-            "location": "",
-            "query_index": 2,
-            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4463365717",
-            "title": "Generative AI Engineer",
-            "description": "",
-            "tags": [
-                "Generative",
-                "Engineer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "MeeBoss",
-            "website_name": "linkedin",
-            "posted_days_ago": 2,
-            "location": "",
-            "query_index": 2,
-            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4460601289",
-            "title": "AI Solutions Engineer",
-            "description": "",
-            "tags": [
-                "Solutions",
-                "Engineer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Delta System & Software, Inc.",
-            "website_name": "linkedin",
-            "posted_days_ago": 2,
-            "location": "",
-            "query_index": 2,
-            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4453548061",
-            "title": "Artificial Intelligence Engineer | Remote",
-            "description": "",
-            "tags": [
-                "Artificial",
-                "Intelligence",
-                "Engineer",
                 "Remote"
             ],
             "pay_info": "Not specified",
-            "company_name": "CodeGeniusRecruit",
+            "company_name": "Crossing Hurdles",
             "website_name": "linkedin",
             "posted_days_ago": 2,
             "location": "",
@@ -844,56 +827,35 @@
             "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4463168251",
-            "title": "Data Platform Engineer (Python)",
+            "url": "https://www.linkedin.com/jobs/view/4450800275",
+            "title": "GenAI Engineer",
             "description": "",
             "tags": [
-                "Data",
-                "Platform",
-                "Engineer",
-                "(Python)"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Alignerr",
-            "website_name": "linkedin",
-            "posted_days_ago": 2,
-            "location": "Seattle, WA",
-            "query_index": 2,
-            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4463169242",
-            "title": "Backend Developer - Data Annotation Systems",
-            "description": "",
-            "tags": [
-                "Backend",
-                "Developer",
-                "Data",
-                "Annotation",
-                "Systems"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Alignerr",
-            "website_name": "linkedin",
-            "posted_days_ago": 2,
-            "location": "Seattle, WA",
-            "query_index": 2,
-            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4463195575",
-            "title": "Machine Learning Engineer",
-            "description": "",
-            "tags": [
-                "Machine",
-                "Learning",
+                "GenAI",
                 "Engineer"
             ],
             "pay_info": "Not specified",
-            "company_name": "TEKsystems",
+            "company_name": "Global Technical Talent, an Inc. 5000 Company",
             "website_name": "linkedin",
             "posted_days_ago": 2,
-            "location": "Raleigh, NC",
+            "location": "San Francisco, CA",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463398521",
+            "title": "Artificial Intelligence Engineer",
+            "description": "",
+            "tags": [
+                "Artificial",
+                "Intelligence",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Amtex Systems Inc",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
             "query_index": 2,
             "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
         },
@@ -916,17 +878,54 @@
             "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4463738817",
-            "title": "AI Engineer",
+            "url": "https://www.linkedin.com/jobs/view/4459227731",
+            "title": "Machine Learning Engineer - Remote",
             "description": "",
             "tags": [
-                "Engineer"
+                "Machine",
+                "Learning",
+                "Engineer",
+                "Remote"
             ],
             "pay_info": "Not specified",
-            "company_name": "Pokee AI",
+            "company_name": "YO HR Consultancy",
             "website_name": "linkedin",
             "posted_days_ago": null,
             "location": "",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461463266",
+            "title": "Software Engineer [SK-16420]",
+            "description": "",
+            "tags": [
+                "Software",
+                "Engineer",
+                "[SK-16420]"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Skill",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "Folsom, CA",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4449028329",
+            "title": "Artificial Intelligence Consultant",
+            "description": "",
+            "tags": [
+                "Artificial",
+                "Intelligence",
+                "Consultant"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Mindlance",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "Concord, CA",
             "query_index": 2,
             "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
         },
@@ -1020,37 +1019,70 @@
             "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4461328134",
-            "title": "React/ Next.js Accessibility Developer",
+            "url": "https://www.linkedin.com/jobs/view/4462366401",
+            "title": "Software Engineer II",
             "description": "",
             "tags": [
-                "React/",
-                "Next.js",
-                "Accessibility",
-                "Developer"
+                "Software",
+                "Engineer"
             ],
             "pay_info": "Not specified",
-            "company_name": "Transcend Softech LLC",
+            "company_name": "Suralink",
             "website_name": "linkedin",
             "posted_days_ago": 2,
-            "location": "Southlake, TX",
+            "location": "",
             "query_index": 3,
             "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4461190880",
-            "title": "Full Stack Engineer",
+            "url": "https://www.linkedin.com/jobs/view/4434683843",
+            "title": "Software Engineer, Product (Frontend-leaning)",
+            "description": "",
+            "tags": [
+                "Software",
+                "Engineer,",
+                "Product",
+                "(Frontend-leaning)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Assembled",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4386564158",
+            "title": "Software Engineer (AI Focus)",
+            "description": "",
+            "tags": [
+                "Software",
+                "Engineer",
+                "Focus)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Raft",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Honolulu, HI",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4462312742",
+            "title": "Full Stack Developer",
             "description": "",
             "tags": [
                 "Full",
                 "Stack",
-                "Engineer"
+                "Developer"
             ],
             "pay_info": "Not specified",
-            "company_name": "GeorgiaTEK Systems Inc.",
+            "company_name": "Eccalon, LLC",
             "website_name": "linkedin",
             "posted_days_ago": 2,
-            "location": "Charlotte, NC",
+            "location": "Detroit, MI",
             "query_index": 3,
             "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
         },
@@ -1140,17 +1172,17 @@
             "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4461400750",
-            "title": "Full Stack Software Engineer - AI",
+            "url": "https://www.linkedin.com/jobs/view/4463757024",
+            "title": "Full Stack Engineer -AI & React JS",
             "description": "",
             "tags": [
                 "Full",
                 "Stack",
-                "Software",
-                "Engineer"
+                "Engineer",
+                "React"
             ],
             "pay_info": "Not specified",
-            "company_name": "blueStone Solutions Group",
+            "company_name": "Headway Tek Inc",
             "website_name": "linkedin",
             "posted_days_ago": null,
             "location": "Austin, TX",
