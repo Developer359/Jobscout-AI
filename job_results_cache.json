@@ -1,0 +1,1161 @@
+{
+    "jobs": [
+        {
+            "url": "https://www.indeed.com/viewjob?jk=656dd6f138c6cccf",
+            "title": "AI-Native Marketing Lead (Growth)",
+            "description": "**AI\\-Native Head of Marketing — RestauNax**\n\nLocation: Remote (United States preferred; must overlap US Eastern business hours)\n\nType: Full\\-time\n\nReports to: Founder\n\nCompensation: Salary \\+ equity in the company \\+ performance bonus tied to qualified demo volume\n\nABOUT RESTAUNAX\n\nRestauNax is an all\\-in\\-one platform for independent restaurants and home\\-based food businesses: point of sale, online ordering, restaurant websites and apps, in\\-store menu TVs, self\\-order kiosks, AI voice ordering, and built\\-in marketing tools. We are a founder\\-led, early\\-stage company based in Tampa, Florida, and we sell to owners who are too busy running a kitchen to sit through a sales cycle. Our marketing has to earn its own attention.\n\nWe already run a 150\\+ page SEO site with programmatic city and state guides, a blog, competitor comparison pages, free tools for restaurant owners, paid campaigns on Google, Meta, and Microsoft, and an affiliate/partner program. What we do not have yet is one person who owns all of it and runs it the way a modern team should: with AI doing the heavy lifting and a human making the calls.\n\nTHE ROLE\n\nYou will own marketing end to end: brand, social media, content, SEO, paid, email, PR, partners, and everything in between. Not \"manage an agency,\" not \"write briefs for freelancers.\" You run it. If a marketing team would normally do it, it is yours.\n\nWe are specifically looking for someone who has already rebuilt their own workflow around AI. If you still draft every piece of content by hand, build every ad variant manually, or pull reports into a spreadsheet on Friday afternoons, this is not the role for you. If you have spent the last couple of years figuring out what AI is actually good at in marketing, and what it is not, we want to talk.\n\nWHAT YOU WILL DO\n\n* Own the full funnel from first impression to booked demo: brand, social, SEO, content, paid, email, partners, and conversion.\n* Run our social media presence. Own Instagram, TikTok, Facebo",
+            "tags": [
+                "AI-Native",
+                "Marketing",
+                "Lead",
+                "(Growth)"
+            ],
+            "pay_info": "$15 - $25 / hourly",
+            "company_name": "RestauNax",
+            "website_name": "indeed",
+            "posted_days_ago": 1,
+            "location": "Remote, US",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=217108e366f54824",
+            "title": "Staff Software Engineer — Returns & Logistics",
+            "description": "About Redo\n\nRedo is the ecommerce post\\-purchase platform for returns, managed returns, shipping/fulfillment, OMS, warranties, and AI support \\- used by 4,500\\+ brands. We're hiring for our Reverse Logistics Cloud.\n\nWe're not looking for someone who wants a normal engineering job. We want people who push to find out what they're capable of, who want to be surrounded by teammates who make them question if they can keep up, who set goals other people would laugh at and get fired up instead of scared off. If you want outsized rewards for outsized contribution, and you run at hard problems instead of away from them, you might be a Redo person.\n\nAbout the role\n\nSet technical direction for the Reverse Logistics Cloud. Staff means architecture for returns, managed returns, and logistics integrations \\- plus unblocking seniors and making the GM's roadmap executable. We hire for root\\-cause thinkers who make the right tradeoffs, not surface patches.\n\nHow we work\n\nIn\\-office in Draper, 5 days/week. High\\-output culture: long days, tight collaboration, occasional weekend push when shipping matters. We want people who lean into that.\n\nWhat you'll do\n\n\\- Own architecture for return lifecycle, disposition, WMS/3PL sync, inventory correctness with OMS\n\n\\- Lead high\\-stakes integrations where correctness and latency both matter\n\n\\- Break ambiguous problems into work other engineers can execute\n\n\\- Raise quality across the cloud: standards, reviews, reliability\n\n\\- Mentor seniors; multiply the team through design docs and clear decisions\n\n\\- Grow leadership capacity as we scale eng teams\n\nWhat we're looking for\n\n\\- 7\\-10\\+ years building production systems; senior\\+ scope for several years\n\n\\- Deep full\\-stack \\+ backend (TypeScript / Node.js / React / AWS or equivalent)\n\n\\- Complex multi\\-system integrations (WMS, 3PL, ERP/OMS, ecommerce)\n\n\\- Architecture ownership across a product area\n\n\\- Strong written communication\n\n\\- Bonus: reverse logistics, high\\-volume ecommerce ops, prior",
+            "tags": [
+                "Staff",
+                "Software",
+                "Engineer",
+                "Returns",
+                "Logistics"
+            ],
+            "pay_info": "$200,000 - $260,000 / yearly",
+            "company_name": "Redo Tech Inc",
+            "website_name": "indeed",
+            "posted_days_ago": 1,
+            "location": "Draper, UT, US",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=f93d6805c134d6dc",
+            "title": "Senior Software Engineer — Returns & Logistics",
+            "description": "About Redo\n\nRedo is the ecommerce post\\-purchase platform for returns, managed returns, shipping/fulfillment, OMS, warranties, and AI support \\- used by 4,500\\+ brands. We're hiring for our Reverse Logistics Cloud.\n\nWe're not looking for someone who wants a normal engineering job. We want people who push to find out what they're capable of, who want to be surrounded by teammates who make them question if they can keep up, who set goals other people would laugh at and get fired up instead of scared off. If you want outsized rewards for outsized contribution, and you run at hard problems instead of away from them, you might be a Redo person.\n\nAbout the role\n\nYou'll build the systems behind returns, exchanges, managed returns, and warehouse/3PL integrations. Senior IC seat: own features end\\-to\\-end, ship reliably, mentor others, and grow toward tech lead as we scale from \\~4 eng teams toward \\~10\\.\n\nHow we work\n\nIn\\-office in Draper, 5 days/week. High\\-output culture: long days, tight collaboration, occasional weekend push when shipping matters. We want people who lean into that.\n\nWhat you'll do\n\n\\- Design and ship full\\-stack product for returns flows, RMAs, disposition, and logistics workflows\n\n\\- Build/harden API integrations with WMS, 3PL, OMS, and merchant platforms (e.g. Shopify)\n\n\\- Own quality in your area: tests, observability, incidents, sensible tradeoffs\n\n\\- Partner with product and design; mentor mid\\-level engineers\n\nWhat we're looking for\n\n\\- 4\\-7\\+ years building production web apps\n\n\\- Strong full\\-stack (TypeScript / Node.js / React or equivalent)\n\n\\- Real API integration experience\n\n\\- High ownership, clear communication, low ego\n\n\\- Bonus: AWS, ecommerce/Shopify, logistics/WMS, high\\-volume transactional systems\n\nCompensation: $140K\\-$200K (Senior L1\\-L3\\), plus equity, and benefits (flexible PTO, HSA contributions, Redo merchant perks, on\\-site gym, weekly lunches, and more).\n\nPay: $140,000\\.00 \\- $200,000\\.00 per year\n\nBenefits:\n\n* Dental insuran",
+            "tags": [
+                "Senior",
+                "Software",
+                "Engineer",
+                "Returns",
+                "Logistics"
+            ],
+            "pay_info": "$140,000 - $200,000 / yearly",
+            "company_name": "Redo Tech Inc",
+            "website_name": "indeed",
+            "posted_days_ago": 1,
+            "location": "Draper, UT, US",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=cd6f6557cd678230",
+            "title": "Staff Software Engineer",
+            "description": "Alkami is the digital sales and service platform provider for U.S. banks and credit unions. Our unified Platform integrates onboarding, digital banking, and data and marketing—each solution can stand alone, but together they deliver more—to help institutions onboard, engage, and grow relationships. As the future shifts toward Anticipatory Banking, we help data\\-informed bankers meet the moment with technology that drives action.\n\n  \n\nFounded in 2009, we continue to be recognized for our intentional culture and tremendous growth (Best Place to Work in Fintech; Best \\& Brightest to Work For Nationally; and Comparably’s Best Company Culture, Best Career Growth, Best Engineering Team, and Best Places to Work in Dallas, among others). We’re building a culture where each Alkamist can perform to their highest potential, and we’re always on the lookout for the best and brightest minds. If you’re ready to experience the power of alchemy \\- transforming the ordinary into the extraordinary \\- come join one of the fastest growing SaaS companies in the U.S.\n\n  \n\nAs a remote\\-first company, most of our positions can be remote in the US, except for key roles, which will be indicated in the Job Title.\n\n  \n\nFollow us on Glassdoor and LinkedIn!\n\n\nThe Staff Software Engineer will lead efforts and contribute to building high quality scalable computer software systems, participating in the design process from beginning to end. Leads decisions to achieve our strategic product goals. Demonstrates deep technical domain knowledge and ownership of multiple  \n\nproduct features end\\-to\\-end. A key strategic player involved in maintenance of product features, including on call escalations, triaging and resolution.\n**Essential Duties \\& Responsibilities:**\n\n* Lead code/design reviews to ensure smooth daily operations and accurate planning\n* Participate in the entire application lifecycle, focusing on coding and debugging\n* Write clean code to develop functional web applications\n* Advanced troubl",
+            "tags": [
+                "Staff",
+                "Software",
+                "Engineer"
+            ],
+            "pay_info": "$150,000 - $178,000 / yearly",
+            "company_name": "Alkami Technology",
+            "website_name": "indeed",
+            "posted_days_ago": 1,
+            "location": "Remote, US",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=5d46a09b9313f862",
+            "title": "Data Scientist",
+            "description": "**Location:** Remote  \n\n**Work Type:** Full Time Regular  \n\n**Job No:** 505197  \n\n**Categories:** Information Technology  \n\n**Application Closes:** Open Until Filled\n\n\n2026\\-09\\-04  \n\nWere looking to add another Data Scientist to our team! This role will focus on designing, building, and supporting the deployment of AI\\-powered systems that solve business problems from intelligent agents and conversational interfaces to analytical workflows with a production\\-first mindset.\n\n\n**What We Offer:**\n\n\n* Salary: Data Scientist: $110,000–$130,000, plus annual bonus eligibility.\n* Associate Data Scientist: $99,000–$115,000, plus annual bonus opportunity.\n* 401(k) with 2% company contribution and up to 6% match.\n* Time Off: Work\\-life balance with vacation, personal time and paid holidays. See our benefits and perks page for details.\n* Applicants for this position must not now, nor at any point in the future, require sponsorship for employment.\n* Applicants for this position must not now, nor at any point in the future, require sponsorship for employment.\n\n\n**What You'll Do:**\n\n\n* **Stakeholder Translation \\& Technical Spec Design:** Partner closely with business stakeholders to extract core needs and translate them into rigorous technical specifications for GenAI\\-powered systems and their behaviors.\n* **Build \\& Orchestrate GenAI\\-Powered Systems:** Design, develop, and refine GenAI\\-powered systems including AI agents, conversational interfaces, and intelligent analytical workflows. Leverage frameworks such as LangGraph and Strands where appropriate, designing stateful, multi\\-step workflows that navigate complex business logic. Evaluate trade\\-offs between architectures based on the problem at hand.\n* **Design for Production:** Design GenAI solutions with a \"production\\-first\" mindset, ensuring Python\\-based systems are modular, secure, observable, and leverage AWS Cloud platform services. You write production\\-grade code that follows strict software development standard",
+            "tags": [
+                "Data",
+                "Scientist"
+            ],
+            "pay_info": "$99,000 - $130,000 / yearly",
+            "company_name": "Mutual of Omaha",
+            "website_name": "indeed",
+            "posted_days_ago": 1,
+            "location": "Remote, US",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=00567284b67cc68e",
+            "title": "Sr. Prin. Software Engineer",
+            "description": "**Date Posted:**\n\n\n2026\\-09\\-04**Country:**\n\n\nUnited States of America\n**Location:**\n\n\nUS\\-TX\\-RICHARDSON\\-C17 \\~ 1717 Cityline Dr \\~ CITYLINE C17\n**Position Role Type:**\n\n\nOnsite\n**U.S. Citizen, U.S. Person, or Immigration Status Requirements:**\n\nActive and transferable U.S. government issued security clearance is required prior to start date. U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance\n**Security Clearance Type:**\n\nSecret \\- Current\n**Security Clearance Status:**\n\nActive and existing security clearance required on day 1**Job Description**\n\n\nAt RTX, the world's largest aerospace and defense company, 185,000 great minds are united by purpose and inspired to make a difference solving the world’s most complex problems. With our three market leading businesses, world\\-class operations and investments in research and development, we offer capabilities and opportunity no one else can. Together, we push the boundaries of known science and find new ways to connect and protect our world.\n\n\nCollins Aerospace, an RTX company, is a leader in technologically advanced and intelligent solutions for the global aerospace and defense industry. Collins Aerospace has the capabilities, comprehensive portfolio, and expertise to solve customers’ toughest challenges and to meet the demands of a rapidly evolving global market.\n\n\nCollins is seeking Engineers to be part of an engineering team for the AF DCGS High Band Mission Applications Software (HBMAS) Sustainment and Development program. Under this effort, RTX Collins personnel will oversee/perform software development and sustainment for cloud\\-enabled systems that ingest, tag, and audit data sets, while maintaining security, integrity, and availability of data.\n\n\nThe team, working with our customers and users, will focus on developing and fielding operationally relevant system capabilities in the most effective and efficient manner. The team will apply best practices across the engineering ",
+            "tags": [
+                "Prin.",
+                "Software",
+                "Engineer"
+            ],
+            "pay_info": "$132,400 - $251,600 / yearly",
+            "company_name": "Collins Aerospace",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "Richardson, TX, US",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=3c52962fc83b7e38",
+            "title": "Principal Platform/Software Engineer",
+            "description": "Overview:\n\nAs a Principal Software Engineer, you will be responsible for leading the strategic design, development, and maintenance of cutting\\-edge software systems for our healthcare SaaS platform. This role serves as a hands\\-on technical authority designing, coding, and scaling resilient AWS infrastructure and modern Agentic AI systems.  \n\nYou will oversee large\\-scale projects, drive innovation, and collaborate with executive leadership to align technical solutions with business goals. You will lead the work of teams of Engineers working across departments within the organization.\n\n  \n\nYour work in guiding projects and teams helps assure that our solutions offer a high level of technical excellence with integrated, scalable, secure, well designed and automated modern engineering practices.\n\n  \n\nWe create modern, efficient solutions for our customers using appropriate platforms. We do have some infrastructure in mainframe and mid\\-tier applications. You may be working in any of these areas, and we offer training to help hone your skills where needed.\nResponsibilities:\n* Leads the design and development of software applications and systems, ensuring architecture and product approvals are obtained and functional and non\\-functional requirements are addressed\n* Leads technical execution for autonomous AI agent integrations, LLM workflows, and multi\\-agent systems using frameworks such as LangChain, AutoGen, or CrewAI\n* Builds and champions production\\-grade CI/CD pipelines, infrastructure automation, and infrastructure\\-as\\-code practices using tools such as Terraform or CloudFormation on AWS\n* Mentors senior engineers, conducts comprehensive code reviews, upholds code quality standards, guides technical team execution, and resolves complex architectural bottlenecks\n* Develops and implements high\\-quality, scalable, secure, and performant code using approved architectural patterns, coding standards, and enterprise engineering practices\n* Resolves complex technical ",
+            "tags": [
+                "Principal",
+                "Platform/Software",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "NASCO",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "Remote, US",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=4fc756f4a8e5ac7f",
+            "title": "Lead Software Engineer",
+            "description": "Description:\n\nWe are seeking an experienced Technical Lead to join our dynamic software engineering team. The ideal candidate will have a strong background in Agile methodologies, extensive experience building and designing cloud native applications using PAAS tools and native cloud concepts. As a Technical Lead, you will play a pivotal role in shaping our software development practices, mentoring team members, and delivering high\\-quality software solutions that meet our business objectives.  \n\nResponsibilites for the Lead Software Engineer include but are not limited to: **Leadership and Mentorship:*** Lead and mentor a team of engineers in the design, development, and implementation of enterprise software applications using REACT, MVC and .NET Core/.NET framework.\n* Foster a culture of collaboration, innovation, and continuous learning within the team.\n* Stay up to date with the latest industry trends and technologies and evaluate their potential application to the team’s projects.\n\n**Agile Methodology Facilitation:*** Promote Agile principles by fostering a culture of collaboration, adaptability, and continuous improvement through regular ceremonies such as sprint planning and retrospectives.\n* Collaborate closely with Product Managers, UX/UI Designers, and other stakeholders to define project requirements, scope, and timelines within Agile sprints.\n* Develop structured process and define a future state of operations that outlines how Agile methodologies will be implemented and sustained across teams for ongoing efficiency and effectiveness.\n\n**Software Architecture and Design:*** Oversee the architecture and design of software solutions to ensure scalability, security, and performance.\n* Demonstrable proficiency in Azure services and tools including Azure functions, Azure logic apps, and Azure DevOps.\n* Depth in microservices architecture, containerization using Docker and Kubernetes, and orchestration of applications.\n* Experience with design patterns such as ",
+            "tags": [
+                "Lead",
+                "Software",
+                "Engineer"
+            ],
+            "pay_info": "$100,010 - $144,190 / yearly",
+            "company_name": "Sargent & Lundy",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "Chicago, IL, US",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4459947485",
+            "title": "Full Stack Software Engineer [AQ-16003]",
+            "description": "",
+            "tags": [
+                "Full",
+                "Stack",
+                "Software",
+                "Engineer",
+                "[AQ-16003]"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Aquent",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "East Moline, IL",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463380599",
+            "title": "Senior Full Stack Software Engineer",
+            "description": "",
+            "tags": [
+                "Senior",
+                "Full",
+                "Stack",
+                "Software",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Joulé",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Dallas, TX",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463729928",
+            "title": "Lead Full Stack Developer (React, TypeScript, Go, Java, Python, Node.js, AWS)",
+            "description": "",
+            "tags": [
+                "Lead",
+                "Full",
+                "Stack",
+                "Developer",
+                "(React,",
+                "TypeScript,",
+                "Java,",
+                "Python,",
+                "Node.js,",
+                "AWS)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Headway Tek Inc",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "New York, NY",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463738667",
+            "title": "Full Stack Developer (React, GoLang, Python, Java, Node.js, AWS)",
+            "description": "",
+            "tags": [
+                "Full",
+                "Stack",
+                "Developer",
+                "(React,",
+                "GoLang,",
+                "Python,",
+                "Java,",
+                "Node.js,",
+                "AWS)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Headway Tek Inc",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "New York, NY",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461185089",
+            "title": "Lead Full Stack Developer (React, TypeScript, Go, Java, Python, Node.js, AWS)",
+            "description": "",
+            "tags": [
+                "Lead",
+                "Full",
+                "Stack",
+                "Developer",
+                "(React,",
+                "TypeScript,",
+                "Java,",
+                "Python,",
+                "Node.js,",
+                "AWS)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Codebase Inc",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Manhattan, NY",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4444349275",
+            "title": "Full Stack Developer | Remote",
+            "description": "",
+            "tags": [
+                "Full",
+                "Stack",
+                "Developer",
+                "Remote"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Crossing Hurdles",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4444365283",
+            "title": "Full-Stack Software Engineer | $100/hr Remote",
+            "description": "",
+            "tags": [
+                "Full-Stack",
+                "Software",
+                "Engineer",
+                "$100/hr",
+                "Remote"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Crossing Hurdles",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461474059",
+            "title": "Full-Stack Engineer – Data Experience, Backstage Portal [SK-16511]",
+            "description": "",
+            "tags": [
+                "Full-Stack",
+                "Engineer",
+                "Data",
+                "Experience,",
+                "Backstage",
+                "Portal",
+                "[SK-16511]"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Skill",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "New York, NY",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463690390",
+            "title": "Full Stack Developer. - 64574388785",
+            "description": "",
+            "tags": [
+                "Full",
+                "Stack",
+                "Developer.",
+                "64574388785"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Somewhere",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "New York, NY",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4444908341",
+            "title": "Lead Cloud Engineer",
+            "description": "",
+            "tags": [
+                "Lead",
+                "Cloud",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Tential Solutions",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461462179",
+            "title": "Full Stack Software Engineer | Java, React, MongoDB & TypeScript",
+            "description": "",
+            "tags": [
+                "Full",
+                "Stack",
+                "Software",
+                "Engineer",
+                "Java,",
+                "React,",
+                "MongoDB",
+                "TypeScript"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Jobot Consulting",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "Chesapeake, VA",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463658275",
+            "title": "Founding Engineer (Fully remote - Up to $220k)",
+            "description": "",
+            "tags": [
+                "Founding",
+                "Engineer",
+                "(Fully",
+                "remote",
+                "$220k)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "matcha.fm",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463660070",
+            "title": "Full Stack Engineer",
+            "description": "",
+            "tags": [
+                "Full",
+                "Stack",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Integrated Resources, Inc ( IRI )",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "Santa Clara, CA",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463703762",
+            "title": "Full Stack Front-end Focused Web Developer With Keycloak (W2 ONLY)",
+            "description": "",
+            "tags": [
+                "Full",
+                "Stack",
+                "Front-end",
+                "Focused",
+                "Developer",
+                "With",
+                "Keycloak",
+                "ONLY)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "TEKsystems",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "Dallas, TX",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463718477",
+            "title": "Full Stack Front-end Focused Web Developer With Authentication (W2 ONLY)",
+            "description": "",
+            "tags": [
+                "Full",
+                "Stack",
+                "Front-end",
+                "Focused",
+                "Developer",
+                "With",
+                "Authentication",
+                "ONLY)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "TEKsystems",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "Dallas, TX",
+            "query_index": 1,
+            "query_used": "(\"Full-Stack\" OR MERN) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=db7ec5305776eb12",
+            "title": "Senior Generative AI Engineer",
+            "description": "Overview:\n\nCleary Gottlieb is a pioneer in globalizing the legal profession. We have 14 offices in major financial centers around the world, but we operate as a single, integrated global partnership and not as a U.S. firm with a network of overseas locations. The firm employs approximately 1,100 lawyers from more than 50 countries.  \n\nSince 1946 our lawyers and staff have worked across practices, industries, jurisdictions, and continents to provide clients with simple, actionable approaches to their most complex legal and business challenges, whether domestic or international. We support every client relationship with intellectual agility, commercial acumen, and a human touch.\nWe're an internal team at Cleary Gottlieb building bespoke AI solutions for legal work, drawing on software engineering, data science, and deep domain expertise. We work at the boundary of enterprise\\-grade software, and we are regularly building services and applications nobody here has built before. That makes for a dynamic learning environment — and one where a junior engineer will gain exposure to real\\-world AI systems from day one.\n\n\nWe are a tight\\-knit, remote\\-first team that values growth, honesty, and curiosity. We work collaboratively across multiple disciplines — engineering, data science, legal domain experts, and product — to deliver meaningful impact. Junior engineers are paired with experienced mentors and participate in structured code reviews, pair\\-programming sessions, and weekly knowledge\\-sharing stand\\-ups.\n\n\nYou will join as a Senior Generative AI Engineer on the AI Acceleration Team, reporting to the Data Science Manager, and working day to day with our engineers, data scientists, and legal domain experts. Much of the infrastructure and tooling described below is already under way; what we need is someone to own and advance the AI systems that sit on top of it.\n\n\nNobody arrives knowing legal workflows or our stack, and you will have the Data Science Manager and the re",
+            "tags": [
+                "Senior",
+                "Generative",
+                "Engineer"
+            ],
+            "pay_info": "$200,000 - $240,000 / yearly",
+            "company_name": "Cleary Gottlieb Steen & Hamilton LLP",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "New York, NY, US",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=fc90b335a764a448",
+            "title": "Junior Generative AI Engineer",
+            "description": "Overview:\n\nCleary Gottlieb is a pioneer in globalizing the legal profession. We have 14 offices in major financial centers around the world, but we operate as a single, integrated global partnership and not as a U.S. firm with a network of overseas locations. The firm employs approximately 1,100 lawyers from more than 50 countries.  \n\nSince 1946 our lawyers and staff have worked across practices, industries, jurisdictions, and continents to provide clients with simple, actionable approaches to their most complex legal and business challenges, whether domestic or international. We support every client relationship with intellectual agility, commercial acumen, and a human touch.\nWe're an internal team at Cleary Gottlieb building bespoke AI solutions for legal work, drawing on software engineering, data science, and deep domain expertise. We work at the boundary of enterprise\\-grade software, and we are regularly building services and applications nobody here has built before. That makes for a dynamic learning environment — and one where a junior engineer will gain exposure to real\\-world AI systems from day one.\n\n\nWe are a tight\\-knit, remote\\-first team that values growth, honesty, and curiosity. We work collaboratively across multiple disciplines — engineering, data science, legal domain experts, and product — to deliver meaningful impact. Junior engineers are paired with experienced mentors and participate in structured code reviews, pair\\-programming sessions, and weekly knowledge\\-sharing stand\\-ups.\n\n\nYou'll join the AI Acceleration Team as a Junior Generative AI Engineer, reporting to the Data Science Manager and working day to day with our engineers, data scientists, and legal domain experts. Nobody arrives knowing legal workflows or our exact stack — curiosity and an appetite for increasing responsibility count for more here than the length of a CV.\n\n\nResponsibilities:\n**The Role:**\n\n\nUnder the guidance of senior engineers, you'll help prototype, build, test,",
+            "tags": [
+                "Junior",
+                "Generative",
+                "Engineer"
+            ],
+            "pay_info": "$120,000 - $160,000 / yearly",
+            "company_name": "Cleary Gottlieb Steen & Hamilton LLP",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "New York, NY, US",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=345a9ae28a8d5f87",
+            "title": "Senior Data Engineer IS - Hybrid",
+            "description": "**Description**\n\n**Apply knowledge of health care and database management to analyze clinical data, and to identify and report trends. Design and build modern data\\-centric software applications to support clinical and operational processes across all parts of the healthcare system. These applications leverage cloud computing, big data, data science, and modern software development methodologies and frameworks. Builds data pipelines and transformations, data enrichment processes, provisioning layers, ad user interfaces to meet the requirements of key initiatives. Has a demonstrated ability to mentor and assist less experiences Data Engineers and participate in research and development of new technologies to help set up repeatable processes or templates for other Data Engineers to follow. Strongly encourages and places a priority on collaboration with meticulous source control and documentation. An emphasis on simple solutions to complex problems using modern and emerging methods and tools is critical. This position will work closely with the Product, Platform, and Architecture teams to deliver on joint efforts.**\n\nProvidence caregivers are not simply valued – they’re invaluable. Join our team at Enterprise Information Services and thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best people, we must empower them.\n\n\n**Required Qualifications:**\n\n* Bachelor's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 5 or more years of experience as a Senior Data Engineer\n\n**Preferred Qualifications:**\n\n* Master's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 8 years of Data development experience.\n* Advanced Hadoop / Spark / NoSQL✔ (Spark, Hadoop ecosystem, Kafka, Flink, NoSQL platforms)\n* Advanced SQL \\+ Python ✔ (Python, SQL, Linux\\-based processing\n* OLAP / Cloud Data Warehou",
+            "tags": [
+                "Senior",
+                "Data",
+                "Engineer",
+                "Hybrid"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Providence",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "MT, US",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=15c4f96fa0741871",
+            "title": "Senior Data Engineer IS - Hybrid",
+            "description": "**Description**\n\n**Apply knowledge of health care and database management to analyze clinical data, and to identify and report trends. Design and build modern data\\-centric software applications to support clinical and operational processes across all parts of the healthcare system. These applications leverage cloud computing, big data, data science, and modern software development methodologies and frameworks. Builds data pipelines and transformations, data enrichment processes, provisioning layers, ad user interfaces to meet the requirements of key initiatives. Has a demonstrated ability to mentor and assist less experiences Data Engineers and participate in research and development of new technologies to help set up repeatable processes or templates for other Data Engineers to follow. Strongly encourages and places a priority on collaboration with meticulous source control and documentation. An emphasis on simple solutions to complex problems using modern and emerging methods and tools is critical. This position will work closely with the Product, Platform, and Architecture teams to deliver on joint efforts.**\n\nProvidence caregivers are not simply valued – they’re invaluable. Join our team at Enterprise Information Services and thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best people, we must empower them.\n\n\n**Required Qualifications:**\n\n* Bachelor's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 5 or more years of experience as a Senior Data Engineer\n\n**Preferred Qualifications:**\n\n* Master's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 8 years of Data development experience.\n* Advanced Hadoop / Spark / NoSQL✔ (Spark, Hadoop ecosystem, Kafka, Flink, NoSQL platforms)\n* Advanced SQL \\+ Python ✔ (Python, SQL, Linux\\-based processing\n* OLAP / Cloud Data Warehou",
+            "tags": [
+                "Senior",
+                "Data",
+                "Engineer",
+                "Hybrid"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Providence",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "CA, US",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=f6994889196802df",
+            "title": "Senior Data Engineer IS - Hybrid",
+            "description": "**Description**\n\n**Apply knowledge of health care and database management to analyze clinical data, and to identify and report trends. Design and build modern data\\-centric software applications to support clinical and operational processes across all parts of the healthcare system. These applications leverage cloud computing, big data, data science, and modern software development methodologies and frameworks. Builds data pipelines and transformations, data enrichment processes, provisioning layers, ad user interfaces to meet the requirements of key initiatives. Has a demonstrated ability to mentor and assist less experiences Data Engineers and participate in research and development of new technologies to help set up repeatable processes or templates for other Data Engineers to follow. Strongly encourages and places a priority on collaboration with meticulous source control and documentation. An emphasis on simple solutions to complex problems using modern and emerging methods and tools is critical. This position will work closely with the Product, Platform, and Architecture teams to deliver on joint efforts.**\n\nProvidence caregivers are not simply valued – they’re invaluable. Join our team at Enterprise Information Services and thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best people, we must empower them.\n\n\n**Required Qualifications:**\n\n* Bachelor's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 5 or more years of experience as a Senior Data Engineer\n\n**Preferred Qualifications:**\n\n* Master's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 8 years of Data development experience.\n* Advanced Hadoop / Spark / NoSQL✔ (Spark, Hadoop ecosystem, Kafka, Flink, NoSQL platforms)\n* Advanced SQL \\+ Python ✔ (Python, SQL, Linux\\-based processing\n* OLAP / Cloud Data Warehou",
+            "tags": [
+                "Senior",
+                "Data",
+                "Engineer",
+                "Hybrid"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Providence",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "WA, US",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=3826e314c8e3fc50",
+            "title": "Senior Data Engineer IS - Hybrid",
+            "description": "**Description**\n\n**Apply knowledge of health care and database management to analyze clinical data, and to identify and report trends. Design and build modern data\\-centric software applications to support clinical and operational processes across all parts of the healthcare system. These applications leverage cloud computing, big data, data science, and modern software development methodologies and frameworks. Builds data pipelines and transformations, data enrichment processes, provisioning layers, ad user interfaces to meet the requirements of key initiatives. Has a demonstrated ability to mentor and assist less experiences Data Engineers and participate in research and development of new technologies to help set up repeatable processes or templates for other Data Engineers to follow. Strongly encourages and places a priority on collaboration with meticulous source control and documentation. An emphasis on simple solutions to complex problems using modern and emerging methods and tools is critical. This position will work closely with the Product, Platform, and Architecture teams to deliver on joint efforts.**\n\nProvidence caregivers are not simply valued – they’re invaluable. Join our team at Enterprise Information Services and thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best people, we must empower them.\n\n\n**Required Qualifications:**\n\n* Bachelor's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 5 or more years of experience as a Senior Data Engineer\n\n**Preferred Qualifications:**\n\n* Master's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 8 years of Data development experience.\n* Advanced Hadoop / Spark / NoSQL✔ (Spark, Hadoop ecosystem, Kafka, Flink, NoSQL platforms)\n* Advanced SQL \\+ Python ✔ (Python, SQL, Linux\\-based processing\n* OLAP / Cloud Data Warehou",
+            "tags": [
+                "Senior",
+                "Data",
+                "Engineer",
+                "Hybrid"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Providence",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "Plainview, TX, US",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=3ed282d4e194bc14",
+            "title": "Senior Data Engineer IS - Hybrid",
+            "description": "**Description**\n\n**Apply knowledge of health care and database management to analyze clinical data, and to identify and report trends. Design and build modern data\\-centric software applications to support clinical and operational processes across all parts of the healthcare system. These applications leverage cloud computing, big data, data science, and modern software development methodologies and frameworks. Builds data pipelines and transformations, data enrichment processes, provisioning layers, ad user interfaces to meet the requirements of key initiatives. Has a demonstrated ability to mentor and assist less experiences Data Engineers and participate in research and development of new technologies to help set up repeatable processes or templates for other Data Engineers to follow. Strongly encourages and places a priority on collaboration with meticulous source control and documentation. An emphasis on simple solutions to complex problems using modern and emerging methods and tools is critical. This position will work closely with the Product, Platform, and Architecture teams to deliver on joint efforts.**\n\nProvidence caregivers are not simply valued – they’re invaluable. Join our team at Enterprise Information Services and thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best people, we must empower them.\n\n\n**Required Qualifications:**\n\n* Bachelor's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 5 or more years of experience as a Senior Data Engineer\n\n**Preferred Qualifications:**\n\n* Master's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 8 years of Data development experience.\n* Advanced Hadoop / Spark / NoSQL✔ (Spark, Hadoop ecosystem, Kafka, Flink, NoSQL platforms)\n* Advanced SQL \\+ Python ✔ (Python, SQL, Linux\\-based processing\n* OLAP / Cloud Data Warehou",
+            "tags": [
+                "Senior",
+                "Data",
+                "Engineer",
+                "Hybrid"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Providence",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "Hobbs, NM, US",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=92c753199bc668f4",
+            "title": "Senior Data Engineer IS - Hybrid",
+            "description": "**Description**\n\n**Apply knowledge of health care and database management to analyze clinical data, and to identify and report trends. Design and build modern data\\-centric software applications to support clinical and operational processes across all parts of the healthcare system. These applications leverage cloud computing, big data, data science, and modern software development methodologies and frameworks. Builds data pipelines and transformations, data enrichment processes, provisioning layers, ad user interfaces to meet the requirements of key initiatives. Has a demonstrated ability to mentor and assist less experiences Data Engineers and participate in research and development of new technologies to help set up repeatable processes or templates for other Data Engineers to follow. Strongly encourages and places a priority on collaboration with meticulous source control and documentation. An emphasis on simple solutions to complex problems using modern and emerging methods and tools is critical. This position will work closely with the Product, Platform, and Architecture teams to deliver on joint efforts.**\n\nProvidence caregivers are not simply valued – they’re invaluable. Join our team at Enterprise Information Services and thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best people, we must empower them.\n\n\n**Required Qualifications:**\n\n* Bachelor's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 5 or more years of experience as a Senior Data Engineer\n\n**Preferred Qualifications:**\n\n* Master's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 8 years of Data development experience.\n* Advanced Hadoop / Spark / NoSQL✔ (Spark, Hadoop ecosystem, Kafka, Flink, NoSQL platforms)\n* Advanced SQL \\+ Python ✔ (Python, SQL, Linux\\-based processing\n* OLAP / Cloud Data Warehou",
+            "tags": [
+                "Senior",
+                "Data",
+                "Engineer",
+                "Hybrid"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Providence",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "AK, US",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=fab7380821043777",
+            "title": "Senior Data Engineer IS - Hybrid",
+            "description": "**Description**\n\n**Apply knowledge of health care and database management to analyze clinical data, and to identify and report trends. Design and build modern data\\-centric software applications to support clinical and operational processes across all parts of the healthcare system. These applications leverage cloud computing, big data, data science, and modern software development methodologies and frameworks. Builds data pipelines and transformations, data enrichment processes, provisioning layers, ad user interfaces to meet the requirements of key initiatives. Has a demonstrated ability to mentor and assist less experiences Data Engineers and participate in research and development of new technologies to help set up repeatable processes or templates for other Data Engineers to follow. Strongly encourages and places a priority on collaboration with meticulous source control and documentation. An emphasis on simple solutions to complex problems using modern and emerging methods and tools is critical. This position will work closely with the Product, Platform, and Architecture teams to deliver on joint efforts.**\n\nProvidence caregivers are not simply valued – they’re invaluable. Join our team at Enterprise Information Services and thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best people, we must empower them.\n\n\n**Required Qualifications:**\n\n* Bachelor's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 5 or more years of experience as a Senior Data Engineer\n\n**Preferred Qualifications:**\n\n* Master's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 8 years of Data development experience.\n* Advanced Hadoop / Spark / NoSQL✔ (Spark, Hadoop ecosystem, Kafka, Flink, NoSQL platforms)\n* Advanced SQL \\+ Python ✔ (Python, SQL, Linux\\-based processing\n* OLAP / Cloud Data Warehou",
+            "tags": [
+                "Senior",
+                "Data",
+                "Engineer",
+                "Hybrid"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Providence",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "Levelland, TX, US",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=ebe76f155914d9b0",
+            "title": "Senior Data Engineer IS - Hybrid",
+            "description": "**Description**\n\n**Apply knowledge of health care and database management to analyze clinical data, and to identify and report trends. Design and build modern data\\-centric software applications to support clinical and operational processes across all parts of the healthcare system. These applications leverage cloud computing, big data, data science, and modern software development methodologies and frameworks. Builds data pipelines and transformations, data enrichment processes, provisioning layers, ad user interfaces to meet the requirements of key initiatives. Has a demonstrated ability to mentor and assist less experiences Data Engineers and participate in research and development of new technologies to help set up repeatable processes or templates for other Data Engineers to follow. Strongly encourages and places a priority on collaboration with meticulous source control and documentation. An emphasis on simple solutions to complex problems using modern and emerging methods and tools is critical. This position will work closely with the Product, Platform, and Architecture teams to deliver on joint efforts.**\n\nProvidence caregivers are not simply valued – they’re invaluable. Join our team at Enterprise Information Services and thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best people, we must empower them.\n\n\n**Required Qualifications:**\n\n* Bachelor's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 5 or more years of experience as a Senior Data Engineer\n\n**Preferred Qualifications:**\n\n* Master's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 8 years of Data development experience.\n* Advanced Hadoop / Spark / NoSQL✔ (Spark, Hadoop ecosystem, Kafka, Flink, NoSQL platforms)\n* Advanced SQL \\+ Python ✔ (Python, SQL, Linux\\-based processing\n* OLAP / Cloud Data Warehou",
+            "tags": [
+                "Senior",
+                "Data",
+                "Engineer",
+                "Hybrid"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Providence",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "OR, US",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=75aeef1b7b53565a",
+            "title": "Senior Data Engineer IS - Hybrid",
+            "description": "**Description**\n\n**Apply knowledge of health care and database management to analyze clinical data, and to identify and report trends. Design and build modern data\\-centric software applications to support clinical and operational processes across all parts of the healthcare system. These applications leverage cloud computing, big data, data science, and modern software development methodologies and frameworks. Builds data pipelines and transformations, data enrichment processes, provisioning layers, ad user interfaces to meet the requirements of key initiatives. Has a demonstrated ability to mentor and assist less experiences Data Engineers and participate in research and development of new technologies to help set up repeatable processes or templates for other Data Engineers to follow. Strongly encourages and places a priority on collaboration with meticulous source control and documentation. An emphasis on simple solutions to complex problems using modern and emerging methods and tools is critical. This position will work closely with the Product, Platform, and Architecture teams to deliver on joint efforts.**\n\nProvidence caregivers are not simply valued – they’re invaluable. Join our team at Enterprise Information Services and thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best people, we must empower them.\n\n\n**Required Qualifications:**\n\n* Bachelor's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 5 or more years of experience as a Senior Data Engineer\n\n**Preferred Qualifications:**\n\n* Master's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 8 years of Data development experience.\n* Advanced Hadoop / Spark / NoSQL✔ (Spark, Hadoop ecosystem, Kafka, Flink, NoSQL platforms)\n* Advanced SQL \\+ Python ✔ (Python, SQL, Linux\\-based processing\n* OLAP / Cloud Data Warehou",
+            "tags": [
+                "Senior",
+                "Data",
+                "Engineer",
+                "Hybrid"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Providence",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "Lubbock, TX, US",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=f28983c2db9b60eb",
+            "title": "Senior Data Engineer IS - Hybrid",
+            "description": "**Description**\n\n**Apply knowledge of health care and database management to analyze clinical data, and to identify and report trends. Design and build modern data\\-centric software applications to support clinical and operational processes across all parts of the healthcare system. These applications leverage cloud computing, big data, data science, and modern software development methodologies and frameworks. Builds data pipelines and transformations, data enrichment processes, provisioning layers, ad user interfaces to meet the requirements of key initiatives. Has a demonstrated ability to mentor and assist less experiences Data Engineers and participate in research and development of new technologies to help set up repeatable processes or templates for other Data Engineers to follow. Strongly encourages and places a priority on collaboration with meticulous source control and documentation. An emphasis on simple solutions to complex problems using modern and emerging methods and tools is critical. This position will work closely with the Product, Platform, and Architecture teams to deliver on joint efforts.**\n\nProvidence caregivers are not simply valued – they’re invaluable. Join our team at Enterprise Information Services and thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best people, we must empower them.\n\n\n**Required Qualifications:**\n\n* Bachelor's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 5 or more years of experience as a Senior Data Engineer\n\n**Preferred Qualifications:**\n\n* Master's degree in computer engineering, Computer Science, Mathematics, Engineering.\n* 8 years of Data development experience.\n* Advanced Hadoop / Spark / NoSQL✔ (Spark, Hadoop ecosystem, Kafka, Flink, NoSQL platforms)\n* Advanced SQL \\+ Python ✔ (Python, SQL, Linux\\-based processing\n* OLAP / Cloud Data Warehou",
+            "tags": [
+                "Senior",
+                "Data",
+                "Engineer",
+                "Hybrid"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Providence",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "Portland, OR, US",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=14f06633c577eba9",
+            "title": "Staff Product Manager, AI Ecosystem",
+            "description": "**About the Role**\n------------------\n\n\nAI teams are assembling their stacks from a fast\\-moving set of best\\-in\\-class tools — model providers, agent SDKs, evaluation and observability platforms, cloud services. Temporal is the durable execution layer that ties those pieces together and makes them production\\-grade. That position is a strategic advantage, and it needs a dedicated owner.\n\n\nAs **Staff Product Manager, AI Ecosystem**, you own Temporal's integrations and partnerships product portfolio — the surfaces where Temporal meets the rest of the AI stack. You'll define how Temporal is **better together** with best\\-in\\-class tools (eg, from OpenAI, Google, AWS, Braintrust, and more), and how Temporal becomes the durable foundation developers reach for from prototype to production.\n\n\nThis is a role where shipping the integration code is just the beginning. You'll drive business leverage through the narrative, the reference architectures, the enablement, and the sustained momentum that make an integration matter to customers and to the field. You'll partner with Engineering, Product Marketing, Partnerships, Sales, Solutions Architecture, and DevRel to take products to market and drive real adoption.\n\n**Location:** San Francisco Bay Area (strongly preferred); remote (US) considered with heavier travel\n\n**What You'll Do**\n------------------\n\n* **Own the integrations \\& partnerships product roadmap.** Identify, prioritize, and sequence the integrations and partner experiences that make Temporal the execution layer of choice across the AI stack, and make the hard calls about what *not* to build.\n* **Stay in the market daily.** Be in customer conversations constantly and track a fast\\-moving AI tooling landscape. Turn what you learn into a roadmap grounded in real, current user needs.\n* **Help define the \"Temporal for AI\" ecosystem story.** Work with cross\\-functional partners to drive the positioning, reference architectures, and composable building blocks that help A",
+            "tags": [
+                "Staff",
+                "Product",
+                "Manager,",
+                "Ecosystem"
+            ],
+            "pay_info": "$176,000 - $288,750 / yearly",
+            "company_name": "Temporal Technologies",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "US",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=b3eddfd3f78c314c",
+            "title": "LLM Specialist",
+            "description": "Description:\n**About Us:**\n\n\neSimplicity is a modern digital services company that partners with government agencies to improve the lives and protect the well\\-being of all Americans, from veterans and service members to children, families, and seniors. Our engineers, designers, and strategists cut through complexity to create intuitive products and services that equip federal agencies with solutions to courageously transform today for a better tomorrow.\n\n**Responsibilities:**\n\n\nThe LLM Specialist will drive the design, development, and operationalization of advanced large\\-language\\-model capabilities across a cloud\\-based analytics ecosystem. This role leads innovation efforts around cutting\\-edge AI, owning the architecture and strategy for fine\\-tuning, retrieval\\-augmented generation (RAG), agentic frameworks, and domain\\-specific model adaptation. The specialist will guide the development of high\\-impact prototypes, oversee the evolution of scalable LLM pipelines, and ensure robust governance, security, and performance across all model implementations. Partnering with engineering, product, and data teams, this position provides technical leadership, evaluates emerging LLM technologies, sets best practices, and helps drive transformation through the practical, safe, and effective deployment of generative AI.\n\n\nRequirements:\n* All candidates must pass public trust clearance through the U.S. Federal Government. This requires candidates to either be U.S. citizens or pass clearance through the Foreign National Government System which will require that candidates have lived within the United States for at least 3 out of the previous 5 years, have a valid and non\\-expired passport from their country of birth and appropriate VISA/work permit documentation.\n* Bachelor’s degree in Computer Science, Engineering, Data Science, Information Systems, or a related technical field, with 5\\+ years of relevant experience in software engineering, systems engineering, AI/ML, or a ",
+            "tags": [
+                "Specialist"
+            ],
+            "pay_info": "$104,900 - $145,000 / yearly",
+            "company_name": "Esimplicity",
+            "website_name": "indeed",
+            "posted_days_ago": 2,
+            "location": "Columbia, MD, US",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4444320751",
+            "title": "AI Software Engineer | Remote",
+            "description": "",
+            "tags": [
+                "Software",
+                "Engineer",
+                "Remote"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Crossing Hurdles",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463392760",
+            "title": "Software Engineer",
+            "description": "",
+            "tags": [
+                "Software",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Motion Recruitment",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4405506034",
+            "title": "AI Engineer",
+            "description": "",
+            "tags": [
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Eliassen Group",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Chicago, IL",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4460778061",
+            "title": "AI Engineer / Forward Deployment - 6-month Contract!",
+            "description": "",
+            "tags": [
+                "Engineer",
+                "Forward",
+                "Deployment",
+                "6-month",
+                "Contract!"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "CyberCoders",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463638262",
+            "title": "Software Engineer - AI Automation",
+            "description": "",
+            "tags": [
+                "Software",
+                "Engineer",
+                "Automation"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Coalition, Inc.",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463365717",
+            "title": "Generative AI Engineer",
+            "description": "",
+            "tags": [
+                "Generative",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "MeeBoss",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4460601289",
+            "title": "AI Solutions Engineer",
+            "description": "",
+            "tags": [
+                "Solutions",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Delta System & Software, Inc.",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4453548061",
+            "title": "Artificial Intelligence Engineer | Remote",
+            "description": "",
+            "tags": [
+                "Artificial",
+                "Intelligence",
+                "Engineer",
+                "Remote"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "CodeGeniusRecruit",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461680263",
+            "title": "Agentic AI Engineer (E-commerce Background)",
+            "description": "",
+            "tags": [
+                "Agentic",
+                "Engineer",
+                "(E-commerce",
+                "Background)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "BayOne Solutions",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463168251",
+            "title": "Data Platform Engineer (Python)",
+            "description": "",
+            "tags": [
+                "Data",
+                "Platform",
+                "Engineer",
+                "(Python)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Alignerr",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Seattle, WA",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463169242",
+            "title": "Backend Developer - Data Annotation Systems",
+            "description": "",
+            "tags": [
+                "Backend",
+                "Developer",
+                "Data",
+                "Annotation",
+                "Systems"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Alignerr",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Seattle, WA",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463195575",
+            "title": "Machine Learning Engineer",
+            "description": "",
+            "tags": [
+                "Machine",
+                "Learning",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "TEKsystems",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Raleigh, NC",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4462387009",
+            "title": "Machine Learning Engineer | Remote",
+            "description": "",
+            "tags": [
+                "Machine",
+                "Learning",
+                "Engineer",
+                "Remote"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Crossing Hurdles",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463738817",
+            "title": "AI Engineer",
+            "description": "",
+            "tags": [
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Pokee AI",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 2,
+            "query_used": "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461992511",
+            "title": "Software Engineer",
+            "description": "",
+            "tags": [
+                "Software",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "FutureFit AI",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461109592",
+            "title": "Full Stack Engineer",
+            "description": "",
+            "tags": [
+                "Full",
+                "Stack",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "SWAKIO™",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463645053",
+            "title": "Full Stack TypeScript Engineer, AI Products (DataEdge)",
+            "description": "",
+            "tags": [
+                "Full",
+                "Stack",
+                "TypeScript",
+                "Engineer,",
+                "Products",
+                "(DataEdge)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Bain & Company",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Austin, TX",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463309849",
+            "title": "Full Stack AI Engineer (Generative AI)",
+            "description": "",
+            "tags": [
+                "Full",
+                "Stack",
+                "Engineer",
+                "(Generative"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Acumenz Consulting",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461109671",
+            "title": "FullStack Engineer - Prospect UI Solutions",
+            "description": "",
+            "tags": [
+                "FullStack",
+                "Engineer",
+                "Prospect",
+                "Solutions"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Constructor",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461328134",
+            "title": "React/ Next.js Accessibility Developer",
+            "description": "",
+            "tags": [
+                "React/",
+                "Next.js",
+                "Accessibility",
+                "Developer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Transcend Softech LLC",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Southlake, TX",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461190880",
+            "title": "Full Stack Engineer",
+            "description": "",
+            "tags": [
+                "Full",
+                "Stack",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "GeorgiaTEK Systems Inc.",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Charlotte, NC",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463778453",
+            "title": "Software Engineer",
+            "description": "",
+            "tags": [
+                "Software",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "AgileGrid Solutions",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461490062",
+            "title": "Frontend Engineer",
+            "description": "",
+            "tags": [
+                "Frontend",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Haystack",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4441853120",
+            "title": "Software Engineer",
+            "description": "",
+            "tags": [
+                "Software",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Revin",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "New York, NY",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4462365224",
+            "title": "Full Stack TypeScript Engineer, AI Products (DataEdge)",
+            "description": "",
+            "tags": [
+                "Full",
+                "Stack",
+                "TypeScript",
+                "Engineer,",
+                "Products",
+                "(DataEdge)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Bain & Company",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463789131",
+            "title": "Full-Stack Developer (Remote)",
+            "description": "",
+            "tags": [
+                "Full-Stack",
+                "Developer",
+                "(Remote)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Hired",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461400750",
+            "title": "Full Stack Software Engineer - AI",
+            "description": "",
+            "tags": [
+                "Full",
+                "Stack",
+                "Software",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "blueStone Solutions Group",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "Austin, TX",
+            "query_index": 3,
+            "query_used": "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+        }
+    ]
+}

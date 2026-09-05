@@ -1,0 +1,7 @@
+{
+    "queries": [
+        "(\"Full-Stack\" OR MERN) (Remote OR Freelance)",
+        "(\"AI Engineer\" OR LangChain OR \"Python AI\") (Developer OR Engineer) (Remote OR Freelance OR Contract)",
+        "(\"React Developer\" OR \"Next.js Developer\") (AI OR LangChain) (Remote OR Freelance)"
+    ]
+}
