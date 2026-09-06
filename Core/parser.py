@@ -27,7 +27,9 @@ def chunk_cv_data(raw_text: str) -> list[str]:
     return text_splitter.split_text(raw_text)
 
 if __name__ == "__main__":
-    pdf_file_path = "Core/resume.pdf" 
+    # FIX: Dynamically target resume.pdf inside the same 'Core' directory as this script
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    pdf_file_path = os.path.join(current_dir, "resume.pdf")
     
     print("[*] Extracting raw text from PDF...")
     raw_text = extract_raw_text(pdf_file_path)
