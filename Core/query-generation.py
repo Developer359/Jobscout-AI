@@ -58,9 +58,7 @@ def generate_search_queries(candidate_profile: str) -> list[str]:
     client = genai.Client()
     
     prompt = f"""
-    Based on the following candidate profile extracted from their CV, generate exactly 3 professional job search queries using Boolean operators (AND, OR) and parentheses, exactly matching this structure style:
-    ("Full-Stack" OR MERN) (Remote OR Freelance)
-    (LangChain OR "Python AI" OR "Generative AI") (Developer OR Engineer) (Freelance OR Contract)
+    Based on the following candidate profile extracted from their CV, generate exactly 3 professional job search queries using Boolean operators (AND, OR) and parentheses, exactly matching like this structure style:
     
     Candidate Profile:
     {candidate_profile}
