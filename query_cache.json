@@ -1,7 +1,7 @@
 {
     "queries": [
-        "(AI Engineering OR \"AI/ML Engineer\") AND Python AND LangChain AND (Remote OR Freelance)",
-        "(React OR Next.js OR \"Full Stack Developer\") AND AI AND (\"scalable solutions\" OR \"web application\") AND (Remote OR Freelance)",
-        "(AI OR Automation) AND (Python OR LangChain OR \"AI Voice Assistant\" OR \"Resume Checker\") AND (Remote OR Freelance)"
+        "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)",
+        "(AI AND automation AND (\"voice assistant\" OR \"AI assistant\")) AND (JavaScript OR Python) AND (remote OR freelance)",
+        "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
     ]
 }
