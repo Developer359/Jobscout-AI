@@ -1,6 +1,39 @@
 {
     "jobs": [
         {
+            "url": "https://www.indeed.com/viewjob?jk=da43d05b3cba26b8",
+            "title": "Python Developer",
+            "description": "**Job Summary**\n\nJoin a fast\\-growing, well\\-funded startup building agent\\-driven systems that automate complex workflows across finance and operations. You’ll own the design, implementation, and deployment of production\\-grade AI agents—using multi\\-step reasoning, tool use, memory, and structured orchestration—to deliver real impact for enterprise users.\n\nExperience: 3\\+ years in software or AI engineering  \nStack: Python, TypeScript, LLM agents, RAG, tool\\-calling, evaluation frameworks  \nSkills: Production AI, system design, observability, prompt engineering  \nBonus: Experience with financial automation, compliance, or workflow\\-heavy domains\n\nPay: $180,000\\.00 \\- $230,000\\.00 per year\n\nApplication Question(s):\n\n* Are you authorized to work in the United States\n* Can you work Remote, North America with 6hours overlap Eastern Time?\n\nWork Location: Remote",
+            "tags": [
+                "Python",
+                "Developer"
+            ],
+            "pay_info": "$180,000 - $230,000 / yearly",
+            "company_name": "Connexxion Telecoms and Solutions",
+            "website_name": "indeed",
+            "posted_days_ago": 1,
+            "location": "US",
+            "query_index": 1,
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
+        },
+        {
+            "url": "https://www.indeed.com/viewjob?jk=a1114218f82b590c",
+            "title": "AI Engineer - Senior (GCP)",
+            "description": "**Job Role: AI Engineer**\n\n**Location: Northville, MI**\n\n**Hire\\-Type: Contract** \n\n**Position Summary:**  This role will work directly with business partners, analysts, and technology teams to design, develop, and implement solutions that improve reporting, operational efficiency, and AI adoption across Finance and Accounting.The ideal candidate will have experience developing AI\\-powered solutions while also building scalable data products, data pipelines, and cloud\\-based analytics capabilities. The role will support strategic initiatives, including Project Orion – Foundational Data Product, focused on enabling enterprise\\-ready finance data products and semantic\\-layer capabilities that support AI agents and models.\n\n**Key Responsibilities**\n\n* Design and develop AI\\-enabled solutions that drive business value across Finance and Accounting.\n* Build and maintain scalable data pipelines, data integrations, and cloud\\-based data products to support analytics and AI use cases.\n* Develop Python\\-based solutions for data processing, automation, analytics, and AI applications.\n* Leverage Google Cloud Platform (GCP), BigQuery, Vertex AI, and Gemini capabilities to develop and deploy business\\-focused AI solutions.\n* Support the development of agentic workflows and AI\\-powered automation opportunities.\n* Translate business challenges into scalable technical solutions using modern data and AI technologies.\n* Design, build, and optimize datasets that support reporting, analytics, machine learning, and AI initiatives.\n* Collaborate across Analytics, Automation, AI, and IT teams to deliver solutions that can be successfully adopted and scaled.\n* Monitor, maintain, and enhance existing analytics and AI solutions to improve performance, reliability, and business impact.\n\n**Required Qualifications**\n\n* Experience in AI engineering, data engineering, analytics engineering, data science, or software engineering.\n* Strong Python development skills.\n* Hands\\-on experience with Goog",
+            "tags": [
+                "Engineer",
+                "Senior",
+                "(GCP)"
+            ],
+            "pay_info": "$70 - $85 / hourly",
+            "company_name": "Datafactz",
+            "website_name": "indeed",
+            "posted_days_ago": 1,
+            "location": "Northville Tw, MI, US",
+            "query_index": 1,
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
+        },
+        {
             "url": "https://www.linkedin.com/jobs/view/4444318812",
             "title": "Software Engineer - LLM | Remote",
             "description": "**Position:** \n Software AI Engineer\n \n\n\n\n**Type:** \n Hourly contract\n \n\n\n\n**Compensation:** \n $200K \\- $350K/yr\n \n\n\n\n**Location:** \n Remote\n \n\n\n\n**Commitment:** \n 10 40 hours/week\n \n\n\n\n  \n\n\n\n\n\n**Role Responsibilities** \n\n\n\n* Design, build, and deploy advanced AI/ML solutions for scalable and secure applications.\n* Develop and optimize systems leveraging LLMs, RAG pipelines, and agent\\-based architectures.\n* Build and maintain APIs, integrations, and data pipelines using Python and cloud services.\n* Collaborate with cross\\-functional teams to architect AI\\-driven platforms and workflows.\n* Implement prompt engineering strategies and integrate tools for intelligent AI systems.\n* Ensure robust deployment practices using CI/CD pipelines and cloud infrastructure.\n* Communicate technical concepts effectively to both technical and non\\-technical stakeholders.\n\n\n\n  \n\n\n\n\n\n**Requirements** \n\n\n\n* Strong experience with large language models, RAG systems, and AI architectures.\n* Strong proficiency in Python, API development, and secure coding practices.\n* Experience working with cloud platforms such as AWS or similar environments.\n* Strong understanding of data pipelines, ETL processes, and system design.\n* Experience with prompt engineering and AI system optimization.\n* Familiarity with CI/CD pipelines and production deployment workflows.\n* Excellent written and verbal communication skills.\n\n\n\n  \n\n\n\n\n\n**Application Process (Takes 20 Min)** \n\n\n\n* Easy Apply on LinkedIn\n* Check email for next steps\n* Participate in resume evaluation \\& interview stage",
@@ -15,7 +48,7 @@
             "posted_days_ago": 1,
             "location": "",
             "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
         },
         {
             "url": "https://www.linkedin.com/jobs/view/4461842099",
@@ -35,7 +68,59 @@
             "posted_days_ago": 1,
             "location": "",
             "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4348249838",
+            "title": "AI Implementation Consultant – Legal",
+            "description": "**Join our Mission to Protect Humankind!**\n Vaxcyte is a clinical\\-stage vaccine innovation company engineering high\\-fidelity vaccines to protect humankind from the consequences of bacterial diseases, which have serious and costly health consequences when left unchecked. Working to eradicate or treat bacterial infections such as invasive pneumococcal disease, Group A Strep, and Shigella is just the beginning. Our path to success is clear and well\\-defined, and Vaxcyte is set up to go the distance.\n   \n\n  \n\n WHAT We Do Is Every Bit As Important As HOW We Do It! Our Work Together Is Guided By Four Enduring Core Values\n   \n\n  \n\n* RETHINK CONVENTION: We bring creative and intellectual diversity to every facet of the work we do in order to innovate and re\\-innovate the way vaccines are delivered.\n* AIM HIGH: We embody our collectively audacious goal to courageously make the most complex biologics ever attempted to protect humankind.\n* LEAD WITH HEART: Everyone leads at Vaxcyte with a kindness\\-first, inclusive approach to collaboration and vigorous debate that advances our business objectives.\n* MODEL EXCELLENCE: The magnitude of our challenge requires our shared commitment to demonstrating integrity, accountability, equality and clarity across communications and decision making.\n\n\n**Summary**\n Vaxcyte’s Legal team is seeking a motivated, forward\\-thinking AI Consultant to support the design, evaluation, and implementation of emerging AI solutions across Legal and Compliance functions. This project\\-based role is ideal for a student pursuing their MS or PhD with strong technical skills, curiosity about legal operations, and a passion for applying AI to real\\-world business problems. You will work closely with cross\\-functional teams to prototype, test, and deploy AI tools that drive efficiency, enhance compliance workflows, and expand the team’s ability to deliver strategic support to the business.\n   \n\n  \n\n**Essential Functions**\n* Bot Development: Design and prototype",
+            "tags": [
+                "Implementation",
+                "Consultant",
+                "Legal"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Vaxcyte",
+            "website_name": "linkedin",
+            "posted_days_ago": 1,
+            "location": "San Carlos, CA",
+            "query_index": 1,
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4462655074",
+            "title": "Computer Vision & Analytics Engineer",
+            "description": "**Company Overview** \n\n\n\n\n Milestone Technologies is a global IT managed services firm that partners with organizations to scale their technology, infrastructure and services to drive specific business outcomes such as digital transformation, innovation, and operational agility. Milestone is focused on building an employee\\-first, performance\\-based culture and for over 25 years, we have a demonstrated history of supporting category\\-defining enterprise clients that are growing ahead of the market. The company specializes in providing solutions across Application Services and Consulting, Digital Product Engineering, Digital Workplace Services, Private Cloud Services, AI/Automation, and ServiceNow. Milestone culture is built to provide a collaborative, inclusive environment that supports employees and empowers them to reach their full potential.\n \n\n\n\n  \n\n\n\n\n\n Our seasoned professionals deliver services based on Milestone’s best practices and service delivery framework. By leveraging our vast knowledge base to execute initiatives, we deliver both short\\-term and long\\-term value to our clients and apply continuous service improvement to deliver transformational benefits to IT.\n \n\n\n\n  \n\n\n\n\n\n**Job Overview** \n\n\n\n\n  \n\n\n\n\n\n**Team** \n\n\n\n\n Security Technology, GSIS (Global Safety, Intelligence \\& Security)\n \n\n\n\n**Location** \n\n\n\n\n Remote friendly / onsite, with travel as needed\n \n\n\n\n**Reports To** \n\n\n\n\n Security Technology Lead\n \n\n\n\n**Experience** \n\n\n\n\n \\~5–10 years in computer vision, video analytics, or applied ML engineering\n \n\n\n\n  \n\n\n\n\n\n**About the Role** \n\n\n\n\n We are seeking a highly skilled and experienced Computer Vision \\& Analytics Engineer to serve as the product owner and dedicated subject matter expert for the critical technologies that give the company the comprehensive ability to process, interpret, and extract actionable insights from complex visual data. This role will design and engineer the foundational platforms that ingest the high\\-volume data captured b",
+            "tags": [
+                "Computer",
+                "Vision",
+                "Analytics",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Milestone Technologies, Inc.",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "Florida, United States",
+            "query_index": 1,
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4462637042",
+            "title": "Machine Learning Engineer",
+            "description": "**About The Role**\n The Machine Learning Engineer will build, productionize, and operate machine learning systems across the full development lifecycle—from data and feature pipelines through model training, deployment, and monitoring. The work will span predictive modeling, ranking, NLP, and generative AI use cases running on cloud infrastructure.\n   \n\n  \n\n This role matters because model quality, latency, reliability, and maintainability directly influence product performance. The engineer will partner with data scientists, software engineers, and platform teams to turn research prototypes into scalable services used by customers in production.\n   \n\n  \n\n**Key Responsibilities**\n* Design, train, and evaluate supervised and deep learning models using Python, PyTorch, TensorFlow, or scikit\\-learn for high\\-impact product use cases\n* Build reliable data and feature pipelines with SQL, Python, Spark, and workflow orchestration tools such as Airflow or Dagster\n* Deploy and serve models through AWS SageMaker, GCP Vertex AI, Kubernetes, or equivalent production infrastructure\n* Develop model APIs and inference services using FastAPI, Docker, and REST or gRPC, with clear latency and availability targets\n* Implement experiment tracking, model versioning, CI/CD, and reproducible training workflows using tools such as MLflow, Weights \\& Biases, and GitHub Actions\n* Monitor production models for accuracy, drift, data quality, latency, and resource usage, then establish alerting and rollback procedures\n* Collaborate with product, engineering, and research partners to define success metrics, analyze model performance, and prioritize improvements\n\n\n**What We Are Looking For**\n* 3–8 years of experience in machine learning engineering, applied machine learning, or a closely related software engineering role, including production model deployment\n* Strong Python proficiency and hands\\-on experience with PyTorch, TensorFlow, scikit\\-learn, or comparable machine learning frameworks\n* ",
+            "tags": [
+                "Machine",
+                "Learning",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Evlo AI",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "New York, NY",
+            "query_index": 1,
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
         },
         {
             "url": "https://www.linkedin.com/jobs/view/4464343037",
@@ -52,193 +137,7 @@
             "posted_days_ago": null,
             "location": "San Diego, CA",
             "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4414062539",
-            "title": "AI Software Engineer",
-            "description": "**Description**\n*Hybrid 4 onsite / 1 work from home in Greenwood Village, CO*\n Our client seeks an AI\\-focused Software Engineer to design, build, and deploy practical AI\\-driven tools that improve data analyst, data engineering, and QA workflows. The role centers on applied AI and software engineering, including AI agents, MCP servers, context\\-aware tooling, and integrations across ETL, reporting, analytics tagging, testing, and project management. You will collaborate closely with stakeholders, identify automation opportunities, and deliver reliable internal tools using modern web technologies and AWS. Your work will establish engineering standards and enable scalable, cost\\-aware AI adoption across the Video Insights ecosystem.\n   \n\n  \n\n*Due to client requirements, applicants must be willing and able to work on a w2 basis. For our w2 consultants, we offer a great benefits package that includes Medical, Dental, and Vision benefits, 401k with company matching, and life insurance.*\n Rate: $50\\.00 to $56\\.00/hr. w2\n   \n\n  \n\n**Responsibilities**\n* Eliminate manual bottlenecks across reporting, tagging, and testing workflows.\n* Build AI agents supporting requirements review, architecture, coding, testing, debugging, and deployment.\n* Capture and structure tribal knowledge to streamline onboarding and inform AI tools.\n* Automate tasks across analytics requirements gathering, data validation, job monitoring, and Tableau reporting.\n* Create agents that detect pipeline failures, analyze logs, surface root causes, and recommend fixes.\n* Develop reusable prompt templates, steering files, and workspace configurations to standardize AI behavior.\n* Develop and maintain MCP servers to connect AI tools with data, schemas, and business logic.\n* Integrate AI tooling with Jira, Confluence, GitLab, Athena, and Tableau to reduce context switching.\n* Build data quality monitoring agents for anomaly detection and lineage impact assessment.\n* Automate data cleanup and resource optimizat",
-            "tags": [
-                "Software",
-                "Engineer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Eliassen Group",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "Greenwood Village, CO",
-            "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4464026942",
-            "title": "Data Scientist (Remote, Part Time Contractor)",
-            "description": "About Agile5: Agile5 Technologies, Inc., is a Woman\\-Owned Small Business (WOSB) and Information Technology (IT) services firm that specializes in the design, development, testing, integration, and maintenance of enterprise software systems. We believe our employees are the companys most valuable asset. We are invested in seeing our employees grow in their careers, while maintaining a work/life balance. We have an immediate need for a skilled, energetic, and driven Data Scientist (1099 Independent Contractor). Description: The Data Scientist will work as a 1099 Independent Contractor on a part\\-time, as\\-needed basis to execute discrete, task\\-focused projects that solve complex internal data science problems. This role involves analyzing organizational datasets, engineering predictive machine learning models, and delivering actionable business intelligence to optimize technical and operational capabilities. Working closely with internal leadership, software, cloud, and cybersecurity teams, the ideal candidate will translate complex data findings into clear reports, dashboards, and automated solutions. Data Scientist (1099 Independent Contractor) Job Duties: Execute discrete, task\\-based data science assignments to enhance internal technical capabilities and operational efficiency. Analyze complex internal datasets to uncover trends, patterns, statistical correlations, and anomalies. Design, build, test, and deploy custom machine learning algorithms and predictive models to address targeted business problems. Collaborate with internal software engineering, cloud, and cybersecurity teams to integrate data science models into broader technical frameworks. Prepare comprehensive reports, interactive dashboards, and visual data insights for executive leadership. Participate in remote team syncs and occasional on\\-site collaborative work sessions. Performs other duties as assigned. Security Clearance Requirements: No clearance required to apply; must be a U.S. citizen wil",
-            "tags": [
-                "Data",
-                "Scientist",
-                "(Remote,",
-                "Part",
-                "Time",
-                "Contractor)"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Agile5 Technologies, Inc.",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "Fairmont, WV",
-            "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4464085484",
-            "title": "Senior Software Engineer — Agentic Coding",
-            "description": "**Senior Software Engineer — Agentic Coding (AI Training)**\n**About The Role**\n What if your software engineering expertise could define how the next generation of AI writes, debugs, and ships code on its own? We're looking for Senior Software Engineers in Seattle to work at the frontier of agentic AI — building, evaluating, and improving autonomous coding systems that can reason through complex problems, execute multi\\-step plans, and produce production\\-quality software with minimal human intervention.\n   \n\n  \n\n Seattle is one of the world's premier engineering hubs, home to engineers who've built the systems powering the modern internet. This role channels that caliber of talent toward the most transformative challenge in software today: teaching AI to code autonomously.\n   \n\n  \n\n This is a fully remote, flexible contract role. If you're a senior engineer who's excited about agentic AI and wants to work on problems that genuinely matter, we want to hear from you.\n   \n\n  \n\n* Organization: Alignerr\n* Type: Hourly Contract\n* Location: Remote\n* Commitment: 10–40 hours/week\n\n\n**What You'll Do**\n* Design, build, and refine agentic coding workflows — systems where AI autonomously plans, writes, tests, and iterates on code\n* Evaluate AI\\-generated code for correctness, efficiency, security, and adherence to best practices\n* Create complex, real\\-world coding challenges and benchmarks to stress\\-test agentic AI capabilities\n* Provide expert\\-level feedback on AI reasoning chains, tool usage, and code output quality\n* Identify failure modes, edge cases, and areas where autonomous agents break down\n* Develop and improve evaluation frameworks, rubrics, and testing harnesses for agentic systems\n* Collaborate asynchronously with researchers and engineers working on large language models and AI agents\n* Work independently on task\\-based assignments at your own pace and on your own schedule\n\n\n**Who You Are**\n* 5\\+ years of professional software engineering experience — you've bu",
-            "tags": [
-                "Senior",
-                "Software",
-                "Engineer",
-                "Agentic",
-                "Coding"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Alignerr",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "Seattle, WA",
-            "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4464086409",
-            "title": "Senior Software Engineer — Agentic Coding",
-            "description": "**Senior Software Engineer — Agentic Coding (AI Training)**\n**About The Role**\n What if your software engineering expertise could define how the next generation of AI writes, debugs, and ships code on its own? We're looking for Senior Software Engineers in New York to work at the frontier of agentic AI — building, evaluating, and improving autonomous coding systems that can reason through complex problems, execute multi\\-step plans, and produce production\\-quality software with minimal human intervention.\n   \n\n  \n\n This is where deep engineering skill meets the most transformative technology of our time. You'll work on real problems that push the boundaries of what AI agents can do — and your code, judgment, and architectural thinking will directly shape how these systems evolve.\n   \n\n  \n\n This is a fully remote, flexible contract role. If you're a senior engineer who's excited about agentic AI and wants to work on problems that genuinely matter, we want to hear from you.\n   \n\n  \n\n* Organization: Alignerr\n* Type: Hourly Contract\n* Location: Remote\n* Commitment: 10–40 hours/week\n\n\n**What You'll Do**\n* Design, build, and refine agentic coding workflows — systems where AI autonomously plans, writes, tests, and iterates on code\n* Evaluate AI\\-generated code for correctness, efficiency, security, and adherence to best practices\n* Create complex, real\\-world coding challenges and benchmarks to stress\\-test agentic AI capabilities\n* Provide expert\\-level feedback on AI reasoning chains, tool usage, and code output quality\n* Identify failure modes, edge cases, and areas where autonomous agents break down\n* Develop and improve evaluation frameworks, rubrics, and testing harnesses for agentic systems\n* Collaborate asynchronously with researchers and engineers working on large language models and AI agents\n* Work independently on task\\-based assignments at your own pace and on your own schedule\n\n\n**Who You Are**\n* 5\\+ years of professional software engineering experience — you",
-            "tags": [
-                "Senior",
-                "Software",
-                "Engineer",
-                "Agentic",
-                "Coding"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Alignerr",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "New York, NY",
-            "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4462950609",
-            "title": "AI Engineer with GCP, BigQuery ,VertexAI, Gemini",
-            "description": "**We're Hiring: AI Engineer (Contract)** \n\n\n\n\n Reliable Software Resources is looking for an AI Engineer to join a Finance Analytics, Automation \\& AI team building enterprise\\-scale data and AI capabilities.\n \n\n\n\n**Location:** \n Northville, MI (Hybrid)\n \n\n\n\n**Type:** \n Long\\-term contract (W2 / C2C)\n \n\n\n\n**About the role:** \n\n\n\n\n You'll work directly with business partners, analysts, and technology teams to design and deploy AI\\-powered solutions across Finance and Accounting — building scalable data products, pipelines, and cloud analytics capabilities that support AI agents and models.\n \n\n\n\n**What we're looking for:** \n\n\n\n* Strong Python development experience\n* Hands\\-on Google Cloud Platform experience — BigQuery, Vertex AI, Gemini\n* Proven experience deploying AI/ML and LLM solutions to production\n* Experience building enterprise data products and data pipelines\n* Strong analytical, problem\\-solving, and stakeholder communication skills\n* Ability to work independently across technical and business teams\n\n\n\n**Nice to have:** \n\n\n\n* Experience developing agentic workflows or AI\\-powered automation\n* Background supporting Finance, Accounting, Reporting, or Audit organizations\n* Familiarity with semantic models and AI\\-ready data architectures\n* Tableau\n* Consulting or enterprise contractor experience\n\n\n\n Please note: GCP experience is a firm requirement for this role. Profiles that are primarily AWS\\-based without demonstrated GCP delivery won't be a fit.\n \n\n\n\n Interested, or know someone who'd be a good match? Send resumes to sridhar.kodati@rsrit.com or reach out directly.\n \n\n\n\n**Sridhar Kodati** \n\n\n\n\n COO, Reliable Software Resources\n \n\n\n* \\#AIEngineer \\#Hiring \\#GCP \\#BigQuery \\#VertexAI \\#GenAI \\#DataEngineering \\#MichiganJobs \\#ContractRoles",
-            "tags": [
-                "Engineer",
-                "with",
-                "GCP,",
-                "BigQuery",
-                ",VertexAI,",
-                "Gemini"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Reliable Software",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "Detroit, MI",
-            "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4462947565",
-            "title": "Machine Learning Engineer | Remote",
-            "description": "**Position:** \n Member of Technical Staff, Forward Deployed (US Gov)\n \n\n\n\n**Type:** \n Full\\-time\n \n\n\n\n**Compensation:** \n $350K \\- $500K/yr\n \n\n\n\n**Location:** \n Remote\n \n\n\n\n  \n\n\n\n\n\n**Role Responsibilities** \n\n\n\n* Build and maintain data pipelines for model training, evaluation, and research workflows.\n* Design and run reinforcement learning environments for experimentation and training.\n* Develop and scale model inference systems to enhance performance and reliability.\n* Implement and maintain software development kits and integrations across frontier AI platforms.\n* Construct agentic systems using modern large language model stacks, ensuring security and reliability.\n* Transition systems from prototype to production while maintaining high standards of reliability and security.\n\n\n\n  \n\n\n\n\n\n**Requirements** \n\n\n\n* Have strong experience as a Python engineer with end\\-to\\-end ownership of projects.\n* Have experience with large language models and agentic systems, such as LangChain or LangGraph.\n* Have built or maintained data pipelines and machine learning infrastructure.\n* Be familiar with reinforcement learning workflows or simulation environments.\n* Have experience with distributed systems or scaling inference processes.\n* Be comfortable operating in high\\-security and high\\-reliability environments.\n\n\n\n  \n\n\n\n\n\n**Application Process** \n\n\n\n* Easy Apply on LinkedIn\n* Check email for next steps\n* Participate in resume evaluation \\& interview stage",
-            "tags": [
-                "Machine",
-                "Learning",
-                "Engineer",
-                "Remote"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Crossing Hurdles",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "",
-            "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4464082529",
-            "title": "Senior Data Scientist / Machine Learning Engineer, NLP - 1635",
-            "description": "City: Las Vegas, NV / Calabasas, CA\n   \n\n Onsite/ Hybrid/ Remote: Hybrid Calabasas (Monday\\-Wednesday in office) , Las Vegas (5 days onsite)\n   \n\n Duration: 6 months\n   \n\n Rate Range: Upto $85/hr on W2\n   \n\n Work Authorization: GC, USC, All valid EADs except H1B, OPT, CPT\n   \n\n\n**Must Have:**\n\n\n\n* 4–6\\+ years of data science or machine learning experience\n* NLP classification for customer messages or call transcripts\n* Intent, topic, sentiment, and multi\\-label classification\n* Confidence scoring and model evaluation\n* Text cleaning, deduplication, speaker handling, and PII\\-safe processing\n* Trend and anomaly detection\n* Python, PySpark, SQL, and pandas\n* Labeled dataset design and annotation workflows\n* Precision, recall, confusion matrix, and drift monitoring\n\n\n\n**Responsibilities:**\n\n\n\n* Build and deploy NLP classification models for customer communications.\n* Develop intent, topic, sentiment, and multi\\-label taxonomies.\n* Clean and prepare transcript and message data for modeling.\n* Handle short\\-text cases, duplicate records, system messages, and speaker identification.\n* Build trend and anomaly detection methods using baselines, seasonality, and channel mix.\n* Design maintainable Python and PySpark data pipelines.\n* Define sampling strategies and annotation guidelines for labeled datasets.\n* Support reviewer adjudication and dataset quality validation.\n* Track model precision, recall, confusion patterns, confidence scores, and drift.\n* Implement secure processing for customer communications containing sensitive data.\n\n\n\n**Qualifications:**\n\n\n\n* 4–6\\+ years of relevant machine learning, NLP, or data science experience.\n* Proven experience deploying NLP models into production.\n* Strong experience with classification systems and text analytics.\n* Advanced Python development and testing skills.\n* Hands\\-on experience with PySpark, SQL, pandas, and scalable data pipelines.\n* Experience creating and validating labeled datasets.\n* Strong understanding of model eval",
-            "tags": [
-                "Senior",
-                "Data",
-                "Scientist",
-                "Machine",
-                "Learning",
-                "Engineer,",
-                "1635"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "aKUBE",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "Calabasas, CA",
-            "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4444278512",
-            "title": "AI/ML Engineer — Generative AI Mission Systems",
-            "description": "**Location:** \n Mainly remote within the United States, with onsite collaboration in Laurel, Maryland, typically one day approximately every six weeks for team\\-wide sprint planning.\n   \n\n  \n\n**Clearance:** \n Active final DoD Secret clearance required\n   \n\n  \n\n This position supports a pending contract opportunity and is contingent upon contract award, with an anticipated start in November 2026\\.\n   \n\n  \n\n**Build Applied AI for Secure Mission Software**\n Help turn generative\\-AI concepts into dependable capabilities used within secure mission\\-planning and decision\\-support software.\n   \n\n  \n\n At Rackner, you will integrate large language models, retrieval\\-augmented generation, agentic AI, prompt\\-engineering workflows, and inference pipelines into an established software application supporting a high\\-impact national\\-security mission. You will work across AI, software engineering, cybersecurity, DevSecOps, and customer technical teams to move capabilities beyond standalone demonstrations and into practical application workflows.\n   \n\n  \n\n This role offers the opportunity to deepen your applied\\-AI experience, influence how emerging capabilities are designed and evaluated, and contribute to software where reliability, security, and mission usefulness matter.\n   \n\n  \n\n This is a primarily remote role within the United States. Work will be performed using customer\\-provided systems, with virtual collaboration across the engineering team. Any classified work will be completed onsite at the customer location.\n   \n\n  \n\n**What You’ll Do**\n* Design, develop, test, and integrate AI\\-enabled software capabilities.\n* Build and integrate LLM\\-enabled capabilities into secure application workflows.\n* Develop or integrate retrieval\\-augmented generation capabilities.\n* Develop and support agentic\\-AI components and multi\\-step workflows.\n* Design and refine prompts, system instructions, and supporting AI workflows.\n* Build and maintain inference pipelines.\n* Connect AI capabil",
-            "tags": [
-                "AI/ML",
-                "Engineer",
-                "Generative",
-                "Mission",
-                "Systems"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Rackner",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "",
-            "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4461684931",
-            "title": "Full Stack Engineer",
-            "description": "**Location** \n\n\n\n\n Remote (US timezone preferred, open to other timezones)\n \n\n\n\n  \n\n\n\n\n\n**Compensation** \n\n\n\n\n Equity only \n \n\n\n\n  \n\n\n\n\n\n**Commitment** \n\n\n\n\n Full\\-time\n \n\n\n\n  \n\n\n\n\n\n**About Us** \n\n\n\n\n At Avenio AI, we build the Intelligent Protocol Hub — a platform that helps clinical teams write better trial protocols, faster. It flags design risks before they become costly protocol amendments and suggests concrete fixes, so domain experts can focus on core scientific work instead of the paperwork.\n \n\n\n\n  \n\n\n\n\n\n We're an early\\-stage startup founded by serial entrepreneurs and operators from health tech and AI. We're piloting with BioPharma companies today, building secure data pipelines, domain\\-tuned LLMs, and real\\-time retrieval over multimodal enterprise data. Now we're building the product experience around that intelligence — and we're looking for mission\\-driven engineers to design, build, and productionize it.\n \n\n\n\n  \n\n\n\n\n\n**What You'll Do** \n\n\n\n\n You'll ship real features to the Intelligent Protocol Hub from your first week:\n \n\n\n* Build front\\-end features in React, Next.js, and TypeScript — the protocol authoring, review, and amendment workflows clinical teams use daily.\n* Build and maintain the back\\-end services and APIs behind those workflows.\n* Work on our AI features end to end: RAG pipelines grounded in private enterprise and regulatory data, and the interfaces that make model output reviewable.\n* Use AI coding tools daily. We build with Claude Code for scaffolding, test coverage, and first\\-pass review — and review what they produce as rigorously as a teammate's PR.\n* Write tested code, review others', debug production issues, and improve the tooling around you.\n\n\n\n  \n\n\n\n\n\n**Who You Are** \n\n\n\n\n You're curious, hands\\-on, and want to build something that matters in healthcare and science. You learn by shipping, ask questions early instead of quietly getting stuck, and treat code review as a gift.\n \n\n\n\n You're fluent with AI coding tools and clear\\-",
-            "tags": [
-                "Full",
-                "Stack",
-                "Engineer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Avenio AI",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "",
-            "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4461882232",
-            "title": "Full Stack Engineer",
-            "description": "💡 What if your next role let you build mission\\-critical AI software — where the systems you ship directly support Defence, Intelligence and national\\-security decision\\-making?\n \n\n\n\n  \n\n\n\n\n\n 🚀 Our client — a UK\\-founded Defence AI company expanding its US engineering capability — is hiring a\n **Senior Full Stack Engineer** \n (Virginia / Remote).\n \n\n\n\n They’re building sovereign AI technology deployed across Defence and Security environments, combining modern AI, large\\-scale data processing and secure infrastructure to help users make better decisions in high\\-consequence environments.\n \n\n\n\n  \n\n\n\n\n\n**The role:** \n\n\n\n\n ✅ Build and ship Python\\-heavy backend and data systems from problem definition through production\n \n\n\n\n ✅ Own meaningful product functionality end\\-to\\-end rather than a narrow piece of the stack\n \n\n\n\n ✅ Work across backend, data engineering, ML/AI tooling and frontend when needed\n \n\n\n\n ✅ Build complete features across Python and modern frontend technologies such as React or Vue\n \n\n\n\n ✅ Work directly with customer and mission stakeholders to turn ambiguous problems into technical solutions\n \n\n\n\n ✅ Become a senior technical contributor as the US engineering capability grows\n \n\n\n\n  \n\n\n\n\n\n**Why join?** \n\n\n\n\n Help build the US engineering capability from an early stage\n \n\n\n\n 💰\n **$140,000 – $200,000 base \\+ up to 25% annual bonus** \n\n\n\n\n 🤖 Build real\\-world AI products across Python, data, ML tooling and modern frontend technologies\n \n\n\n\n 🛡️ Work on technology deployed into Defence, Intelligence and national\\-security environments\n \n\n\n\n 🤝 Small, autonomous, high\\-ownership engineering team\n \n\n\n\n 📍 Primarily remote — Virginia\\-based strongly preferred, with the ability to reach Herndon when required\n \n\n\n\n  \n\n\n\n\n\n**US citizenship required \\+ eligibility to obtain security clearance** \n\n\n\n\n  \n\n\n\n\n\n 📩\n **Interested? Apply now!**",
-            "tags": [
-                "Full",
-                "Stack",
-                "Engineer"
-            ],
-            "pay_info": "$140,000 - $200,000 / yearly",
-            "company_name": "Acceler8 Talent",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "Virginia, United States",
-            "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
         },
         {
             "url": "https://www.linkedin.com/jobs/view/4464065526",
@@ -256,154 +155,25 @@
             "posted_days_ago": null,
             "location": "",
             "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4417365439",
-            "title": "AI Software Engineer (Fullstack)",
-            "description": "Clearstory is hiring an AI Agent Engineer (Fullstack) to help build the next generation of intelligent automation across our platform. AI agents are becoming core to how Clearstory delivers value — surfacing change order insights, automating cost workflows, and giving construction teams superpowers they didn't have before. In this role, you'll own AI agents end\\-to\\-end: from scoping a workflow with product, to designing prompts and tools, to building the eval harnesses that prove the agent works, to shipping the surfaces where the agent shows up in our product.\n   \n\n  \n\n This is a high\\-impact role for an engineer who's been building with LLMs in production and is ready to own a category\\-defining surface area. You'll work directly with our Head of AI, product leaders, and senior engineers to ship agents that move the needle for general contractors, specialty contractors, and owners managing billions of dollars in change orders every month.\n   \n\n  \n\n Clearstory is an AI\\-forward engineering organization. We use modern AI tools every day — not as a novelty, but as core leverage. You'll have access to the best agent platforms, frontier models, and internal tooling we've built to ship faster while holding a high bar for craftsmanship and reliability.\n   \n\n  \n\n We operate in a hybrid work model: 3 days per week in the office, with the option to work 2 days per week from home if desired. We value in\\-person collaboration while supporting flexibility.\n   \n\n  \n\n**As an AI Software Engineer, you will:**\n* Own AI agents and workflows end\\-to\\-end — from scoping the workflow with product and design, through prompt and tool design, to production deployment and continuous iteration\n* Build across the full stack — agent orchestration backends, tool/API integrations, evaluation pipelines, observability, and the product surfaces where agents show up\n* Design and run evals — golden sets, LLM\\-as\\-judge frameworks, regression evals — so we ship agents that work, not demos that don'",
+            "url": "https://www.linkedin.com/jobs/view/4462947565",
+            "title": "Machine Learning Engineer | Remote",
+            "description": "**Position:** \n Member of Technical Staff, Forward Deployed (US Gov)\n \n\n\n\n**Type:** \n Full\\-time\n \n\n\n\n**Compensation:** \n $350K \\- $500K/yr\n \n\n\n\n**Location:** \n Remote\n \n\n\n\n  \n\n\n\n\n\n**Role Responsibilities** \n\n\n\n* Build and maintain data pipelines for model training, evaluation, and research workflows.\n* Design and run reinforcement learning environments for experimentation and training.\n* Develop and scale model inference systems to enhance performance and reliability.\n* Implement and maintain software development kits and integrations across frontier AI platforms.\n* Construct agentic systems using modern large language model stacks, ensuring security and reliability.\n* Transition systems from prototype to production while maintaining high standards of reliability and security.\n\n\n\n  \n\n\n\n\n\n**Requirements** \n\n\n\n* Have strong experience as a Python engineer with end\\-to\\-end ownership of projects.\n* Have experience with large language models and agentic systems, such as LangChain or LangGraph.\n* Have built or maintained data pipelines and machine learning infrastructure.\n* Be familiar with reinforcement learning workflows or simulation environments.\n* Have experience with distributed systems or scaling inference processes.\n* Be comfortable operating in high\\-security and high\\-reliability environments.\n\n\n\n  \n\n\n\n\n\n**Application Process** \n\n\n\n* Easy Apply on LinkedIn\n* Check email for next steps\n* Participate in resume evaluation \\& interview stage",
             "tags": [
-                "Software",
+                "Machine",
+                "Learning",
                 "Engineer",
-                "(Fullstack)"
+                "Remote"
             ],
             "pay_info": "Not specified",
-            "company_name": "Clearstory",
+            "company_name": "Crossing Hurdles",
             "website_name": "linkedin",
             "posted_days_ago": null,
-            "location": "Walnut Creek, CA",
+            "location": "",
             "query_index": 1,
-            "query_used": "(\"AI Engineering\" OR \"AI Developer\") AND (Python AND LangChain) AND (React OR Next.js) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4348249838",
-            "title": "AI Implementation Consultant – Legal",
-            "description": "**Join our Mission to Protect Humankind!**\n Vaxcyte is a clinical\\-stage vaccine innovation company engineering high\\-fidelity vaccines to protect humankind from the consequences of bacterial diseases, which have serious and costly health consequences when left unchecked. Working to eradicate or treat bacterial infections such as invasive pneumococcal disease, Group A Strep, and Shigella is just the beginning. Our path to success is clear and well\\-defined, and Vaxcyte is set up to go the distance.\n   \n\n  \n\n WHAT We Do Is Every Bit As Important As HOW We Do It! Our Work Together Is Guided By Four Enduring Core Values\n   \n\n  \n\n* RETHINK CONVENTION: We bring creative and intellectual diversity to every facet of the work we do in order to innovate and re\\-innovate the way vaccines are delivered.\n* AIM HIGH: We embody our collectively audacious goal to courageously make the most complex biologics ever attempted to protect humankind.\n* LEAD WITH HEART: Everyone leads at Vaxcyte with a kindness\\-first, inclusive approach to collaboration and vigorous debate that advances our business objectives.\n* MODEL EXCELLENCE: The magnitude of our challenge requires our shared commitment to demonstrating integrity, accountability, equality and clarity across communications and decision making.\n\n\n**Summary**\n Vaxcyte’s Legal team is seeking a motivated, forward\\-thinking AI Consultant to support the design, evaluation, and implementation of emerging AI solutions across Legal and Compliance functions. This project\\-based role is ideal for a student pursuing their MS or PhD with strong technical skills, curiosity about legal operations, and a passion for applying AI to real\\-world business problems. You will work closely with cross\\-functional teams to prototype, test, and deploy AI tools that drive efficiency, enhance compliance workflows, and expand the team’s ability to deliver strategic support to the business.\n   \n\n  \n\n**Essential Functions**\n* Bot Development: Design and prototype",
-            "tags": [
-                "Implementation",
-                "Consultant",
-                "Legal"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Vaxcyte",
-            "website_name": "linkedin",
-            "posted_days_ago": 1,
-            "location": "San Carlos, CA",
-            "query_index": 2,
-            "query_used": "(AI AND automation AND (\"voice assistant\" OR \"AI assistant\")) AND (JavaScript OR Python) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4461235400",
-            "title": "Research Assistant for AI Development (Center for Social Organization of Schools)",
-            "description": "We are seeking a\n **Research Assistant** \n***for AI Development***\n who will oversee data collection, data organization, and/or data manage mentor similar functions/tasks for research study(ies) in support of a PI or a research team.\n   \n\n  \n\n**Specific Duties \\& Responsibilities**\n* Run routine and ad hoc reports.\n* Use standard tools and computer programs to review data.\n* Assist with data cleaning measures to ensure accuracy of data and preparation of tables.\n* Lead basic activities such as data collection and data entry.\n* May lead specific tasks and develop processes to ensure study activities occur effectively and efficiently.\n* May conduct literature searches to support faculty in research efforts.\n* May design and format papers/publications.\n* May assist PIs in writing summaries of papers for release as policy briefs or other channels.\n* Other duties as assigned.\n\n\n*In addition to the duties described above*\n* Translate design ideas into functional prototypes through close collaboration with the research team and participate in iterative testing and refine features based on feedback.\n* Work with APIs to integrate external services into the application.\n* Build and refine components that track user activity and support ongoing improvements.\n* Implement logic that supports proactive guidance and responsive system behaviors.\n* Develop and test application features within an interactive conversational system.\n\n\n**Minimum Qualifications**\n* Bachelor's Degree in a related field.\n* Additional education may substitute for required experience, and additional related experience may substitute for required education beyond a high school diploma/graduation equivalent, to the extent permitted by the JHU equivalency formula.\n\n\n**Preferred Qualifications**\n* Interest in intelligent interfaces or human\\-computer interaction.\n* Familiarity with user flow design, system logic, or lightweight tracking mechanisms.\n* Experience deploying applications using common platforms or to",
-            "tags": [
-                "Research",
-                "Assistant",
-                "Development",
-                "(Center",
-                "Social",
-                "Organization",
-                "Schools)"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "The Johns Hopkins University",
-            "website_name": "linkedin",
-            "posted_days_ago": 1,
-            "location": "Baltimore, MD",
-            "query_index": 2,
-            "query_used": "(AI AND automation AND (\"voice assistant\" OR \"AI assistant\")) AND (JavaScript OR Python) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4464005808",
-            "title": "AI Data Annotation & Transcription Specialist",
-            "description": "**Job Title:** \n AI Data Annotation \\& Transcription Specialist\n   \n\n  \n\n**Job Position:** \n AI Data Annotation \\& Transcription Specialist\n   \n\n  \n\n**Employment Type:** \n Freelancer\n   \n\n  \n\n**Qualification:** \n Any Graduate\n   \n\n  \n\n**Experience:** \n 2\\+ years\n   \n\n  \n\n**Location:** \n Remote/ WFH\n   \n\n  \n\n**Skills:** \n Audio transcription Video transcription Timestamping Captioning and subtitling Quality assurance\n   \n\n  \n\n**Job Category:** \n Localization\n   \n\n  \n\n**Short Description:** \n Join our growing network of freelance transcriptionists and AI data annotation specialists for remote multilingual projects supporting next\\-generation AI solutions.\n   \n\n  \n\n**Job ID:** \n VR 55\n   \n\n  \n\n* Apply only on below Google form link – https://docs.google.com/forms/d/1bbhLdjz\\_Yuxqql0tu2BnQVLTr2sSnY7H4QO9sQXJB\\-w/viewform?edit\\_requested\\=true\n* Applications submitted through the right\\-side form will not be considered.\n\n\n**Job Description**\n Join Our Global Network of Transcribers and AI Data Annotation Specialists\n   \n\n  \n\n The demand for\n **transcription services** \n and\n **AI data annotation** \n is growing rapidly across industries. We are expanding our network of skilled freelancers to support multilingual transcription, speech data processing, and AI training projects for clients worldwide.\n   \n\n  \n\n If you have experience in\n **audio transcription** \n ,\n **video transcription** \n ,\n **text annotation** \n ,\n **image annotation** \n , or\n **AI data labeling** \n , we invite you to register with us for upcoming freelance projects.\n   \n\n  \n\n Job Type\n   \n\n  \n\n* Freelance / Contract\n* Remote / Work From Home\n* Project\\-Based Assignments\n\n\n Location\n   \n\n  \n\n* Remote (Worldwide)\n* India \\& International Projects\n\n\n Key Responsibilities\n   \n\n  \n\n Transcription Services\n   \n\n  \n\n* Transcribe audio and video files with high accuracy.\n* Create verbatim or clean transcripts based on project guidelines.\n* Add timestamps where required.\n* Ensure quality, consistency, and confide",
-            "tags": [
-                "Data",
-                "Annotation",
-                "Transcription",
-                "Specialist"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Fidel Softech Limited",
-            "website_name": "linkedin",
-            "posted_days_ago": 1,
-            "location": "",
-            "query_index": 2,
-            "query_used": "(AI AND automation AND (\"voice assistant\" OR \"AI assistant\")) AND (JavaScript OR Python) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4462670111",
-            "title": "Customer Service Associate Tech Support (33645)",
-            "description": "**Myticas Consulting is seeking a Technical Support and Customer Service Associate** \n to join our client’s Personal Support Center (PSC) team. This role is ideal for someone passionate about helping others, skilled in troubleshooting, and comfortable in a fast\\-paced, tech\\-forward environment.\n   \n\n  \n\n**Title: Tech Support/CSA\n   \n\n  \n\n Contract: W2\n   \n\n  \n\n Length: 6\\+ months Contract/Contract to Hire\n   \n\n  \n\n Rate: $18/hr\n   \n\n  \n\n Location: Fully remote\n   \n\n  \n\n Client Location: Chicago, IL/All work done on CST hours**\n**Start Date:** \n 9/21/2026\\. Training for the first three weeks will be 9:00 AM–6:00 PM, Monday–Friday, Central Time.\n   \n\n  \n\n**Post\\-training shifts needed:** \n*Central Time*\n**11:00 AM–8:00 PM, Monday–Friday\n   \n\n  \n\n 10:00 AM–7:00 PM, Monday–Friday\n   \n\n  \n\n 7:00 AM–4:00 PM, Saturday–Wednesday**\n**Overnight shift options: 4, 10 hour shifts, 11:00pm\\-9:00am (CST)\n   \n\n  \n\n Wednesday\\-Saturday\n   \n\n  \n\n Saturday\\-Tuesday**\n**Skills/Experience To Be Successful In This Role**\n* Experience in a high call volume Tier1 or 2 setting\n* Ability to troubleshoot software, hardware and network issues\n* Tech support in a college of university setting would be helpful\n* Experience with Learning Management Systems such as Canvas, Blackboard or Moodle would be helpful\n* Self\\-directed learner\n* Ability to support multiple customers via email, phone and chat\n\n\n**What You’ll Do**\n* Provide Tier 1 technical support for software, hardware, and connectivity issues\n* Assist with password resets, software installations, VPN setups, and general troubleshooting\n* Escalate complex issues to senior team members when necessary\n* Maintain clear, professional communication in both Spanish and English across all customer interactions\n* Manage support requests via phone, email, and chat simultaneously\n* Accurately log cases in tools like ServiceNow and Zendesk\n\n\n**What We’re Looking For**\n* Fluency in Spanish and English (written and spoken)\n* Strong customer service an",
-            "tags": [
-                "Customer",
-                "Service",
-                "Associate",
-                "Tech",
-                "Support",
-                "(33645)"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Myticas Consulting",
-            "website_name": "linkedin",
-            "posted_days_ago": 2,
-            "location": "Oak Brook, IL",
-            "query_index": 2,
-            "query_used": "(AI AND automation AND (\"voice assistant\" OR \"AI assistant\")) AND (JavaScript OR Python) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4439469415",
-            "title": "Generative Media Engineer, AI Social - US (Remote)",
-            "description": "**Luxury Presence** \n is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.\n   \n\n  \n\n**The Opportunity**\n AI Social is one of the most ambitious products we've ever shipped. An AI agent that produces on\\-brand Instagram carousels and reels for every Luxury Presence customer, from raw input data to finished media. It isn't LLMs writing code. It's LLMs designing, choosing the photo, voicing the script, picking the cuts, and composing the final frame.\n   \n\n  \n\n As the\n **Generative Media Engineer on AI Social** \n , you own the render pipeline, the prompts and agent loops that drive it, and the visual quality of what ships. Product and content strategy partners set the direction; engineering and design peers ship alongside you. This is an unusual role at the intersection of code, design, AI, and social media. You don't fit the normal engineering mold, that's the point.\n   \n\n  \n\n**Skills And Experience**\n* Solid working knowledge of TypeScript and Node.js. You're comfortable shipping production code and you're ready to grow into our stack\n* Hands\\-on experience with LLM\\-driven systems. Prompts, structured outputs, tool\\-calling, agent loops, evals\n* At least one shipped piece of generative media in image, video, voice, or music that someone other than you has seen and used\n* A portfolio or body of work that demonstrates both technical depth and design sensibility\n* Bonus: a personal creator practice somewhere. A feed, a portfolio, a side project, a YouTube channel, an Are.na. Public, ongoing, under your own name. You understand the medium because you've lived in it\n* Formal or self\\-taught grounding in design, visual art, film, or motion\n* Comfort moving between exploratory PoC wor",
-            "tags": [
-                "Generative",
-                "Media",
-                "Engineer,",
-                "Social",
-                "(Remote)"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Luxury Presence",
-            "website_name": "linkedin",
-            "posted_days_ago": 2,
-            "location": "",
-            "query_index": 2,
-            "query_used": "(AI AND automation AND (\"voice assistant\" OR \"AI assistant\")) AND (JavaScript OR Python) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4427565553",
-            "title": "AI Automation Engineer",
-            "description": "What You'll Do\n   \n\n  \n\n Avalara is looking for an AI Automation Engineer to help build an enterprise\\-grade automation ecosystem that improves how work is automated, orchestrated, governed, and scaled across the company. In this high\\-impact individual contributor role, you will use n8n as a core platform to design secure, reliable, and measurable automation solutions that reduce manual work, improve process quality, and support faster business transformation. You will work across functions to embed artificial intelligence\\-enabled workflows, intelligent decisioning, reusable automation patterns, and observability into enterprise processes. You will help Avalara raise its automation standards by building practical solutions, mentoring others, and improving how teams use artificial intelligence to increase productivity, quality, and operational scale. You will report to Sr Director, IT Support\n   \n\n  \n\n**What Your Responsibilities Will Be**\n* Engineer scalable, secure, and resilient automation solutions using n8n and related integration platforms.\n* Design hybrid automation patterns using n8n, Boomi, application programming interfaces, event\\-driven systems, and artificial intelligence agents.\n* Build artificial intelligence\\-enabled workflows that support intelligent decisioning, human\\-in\\-the\\-loop controls, prompt management, and model integrations.\n* Define development standards, reusable templates, exception handling, retry strategies, approval patterns, and security protocols for enterprise automation.\n* Implement environment strategies, continuous integration and continuous delivery pipelines, versioning, and governance models for automation workflows.\n* Establish logging, monitoring, reliability guardrails, anomaly detection, and alerting to improve uptime, workflow trust, and recovery time.\n* Define responsible artificial intelligence governance for model selection, cost controls, prompt and version management, data privacy, and auditability.\n* Lead techni",
-            "tags": [
-                "Automation",
-                "Engineer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Avalara",
-            "website_name": "linkedin",
-            "posted_days_ago": 2,
-            "location": "",
-            "query_index": 2,
-            "query_used": "(AI AND automation AND (\"voice assistant\" OR \"AI assistant\")) AND (JavaScript OR Python) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4462941582",
-            "title": "Remote Senior Backend Engineer (Python/FastAPI)",
-            "description": "**About Us:** \n\n\n\n\n Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high\\-quality data, advanced training pipelines, plus top AI researchers who specialize in software engineering, logical reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P\\&L.\n \n\n\n\n  \n\n\n\n\n\n**Ideal Background:** \n\n\n\n\n This role is ideal for engineers who have built production systems at companies like Google, Microsoft, Apple, Amazon, Meta, or similar high\\-scale engineering organizations. We especially welcome graduates from top computer science programs such as Stanford, MIT, Carnegie Mellon, UC Berkeley, Georgia Tech, and comparable institutions — though exceptional experience and skill always take precedence over pedigree.\n \n\n\n\n  \n\n\n\n\n\n**Project Overview:** \n\n\n\n\n As a Software Engineering evaluator, you will create cutting\\-edge datasets for training, benchmarking, and advancing large language models, collaborating closely with researchers. This includes curating code examples, providing precise solutions, and making corrections — with a primary focus on Python across backend services, data pipelines, and ML infrastructure, alongside JavaScript (including ReactJS), C/C\\+\\+, Java, Rust, and Go. You will evaluate and refine AI\\-generated code for efficiency, scalability, and reliability, and work with cross\\-functional teams to enhance enterprise\\-level AI\\-driven coding solutions.\n \n\n\n\n  \n\n\n\n\n\n**What Does a Typical Day Look Like?** \n\n\n\n* Work on AI model training initiatives by curating code examples, building solutions, and correcting code — primarily ",
-            "tags": [
-                "Remote",
-                "Senior",
-                "Backend",
-                "Engineer",
-                "(Python/FastAPI)"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Turing",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "Boston, MA",
-            "query_index": 2,
-            "query_used": "(AI AND automation AND (\"voice assistant\" OR \"AI assistant\")) AND (JavaScript OR Python) AND (remote OR freelance)"
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
         },
         {
             "url": "https://www.linkedin.com/jobs/view/4464339248",
@@ -423,44 +193,28 @@
             "website_name": "linkedin",
             "posted_days_ago": null,
             "location": "Boston, MA",
-            "query_index": 2,
-            "query_used": "(AI AND automation AND (\"voice assistant\" OR \"AI assistant\")) AND (JavaScript OR Python) AND (remote OR freelance)"
+            "query_index": 1,
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4462937562",
-            "title": "Remote Senior Backend Engineer (Python/FastAPI)",
-            "description": "**About Us:** \n\n\n\n\n Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high\\-quality data, advanced training pipelines, plus top AI researchers who specialize in software engineering, logical reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P\\&L.\n \n\n\n\n  \n\n\n\n\n\n**Ideal Background:** \n\n\n\n\n This role is ideal for engineers who have built production systems at companies like Google, Microsoft, Apple, Amazon, Meta, or similar high\\-scale engineering organizations. We especially welcome graduates from top computer science programs such as Stanford, MIT, Carnegie Mellon, UC Berkeley, Georgia Tech, and comparable institutions — though exceptional experience and skill always take precedence over pedigree.\n \n\n\n\n  \n\n\n\n\n\n**Project Overview:** \n\n\n\n\n As a Software Engineering evaluator, you will create cutting\\-edge datasets for training, benchmarking, and advancing large language models, collaborating closely with researchers. This includes curating code examples, providing precise solutions, and making corrections — with a primary focus on Python across backend services, data pipelines, and ML infrastructure, alongside JavaScript (including ReactJS), C/C\\+\\+, Java, Rust, and Go. You will evaluate and refine AI\\-generated code for efficiency, scalability, and reliability, and work with cross\\-functional teams to enhance enterprise\\-level AI\\-driven coding solutions.\n \n\n\n\n  \n\n\n\n\n\n**What Does a Typical Day Look Like?** \n\n\n\n* Work on AI model training initiatives by curating code examples, building solutions, and correcting code — primarily ",
+            "url": "https://www.linkedin.com/jobs/view/4462950609",
+            "title": "AI Engineer with GCP, BigQuery ,VertexAI, Gemini",
+            "description": "**We're Hiring: AI Engineer (Contract)** \n\n\n\n\n Reliable Software Resources is looking for an AI Engineer to join a Finance Analytics, Automation \\& AI team building enterprise\\-scale data and AI capabilities.\n \n\n\n\n**Location:** \n Northville, MI (Hybrid)\n \n\n\n\n**Type:** \n Long\\-term contract (W2 / C2C)\n \n\n\n\n**About the role:** \n\n\n\n\n You'll work directly with business partners, analysts, and technology teams to design and deploy AI\\-powered solutions across Finance and Accounting — building scalable data products, pipelines, and cloud analytics capabilities that support AI agents and models.\n \n\n\n\n**What we're looking for:** \n\n\n\n* Strong Python development experience\n* Hands\\-on Google Cloud Platform experience — BigQuery, Vertex AI, Gemini\n* Proven experience deploying AI/ML and LLM solutions to production\n* Experience building enterprise data products and data pipelines\n* Strong analytical, problem\\-solving, and stakeholder communication skills\n* Ability to work independently across technical and business teams\n\n\n\n**Nice to have:** \n\n\n\n* Experience developing agentic workflows or AI\\-powered automation\n* Background supporting Finance, Accounting, Reporting, or Audit organizations\n* Familiarity with semantic models and AI\\-ready data architectures\n* Tableau\n* Consulting or enterprise contractor experience\n\n\n\n Please note: GCP experience is a firm requirement for this role. Profiles that are primarily AWS\\-based without demonstrated GCP delivery won't be a fit.\n \n\n\n\n Interested, or know someone who'd be a good match? Send resumes to sridhar.kodati@rsrit.com or reach out directly.\n \n\n\n\n**Sridhar Kodati** \n\n\n\n\n COO, Reliable Software Resources\n \n\n\n* \\#AIEngineer \\#Hiring \\#GCP \\#BigQuery \\#VertexAI \\#GenAI \\#DataEngineering \\#MichiganJobs \\#ContractRoles",
             "tags": [
-                "Remote",
-                "Senior",
-                "Backend",
                 "Engineer",
-                "(Python/FastAPI)"
+                "with",
+                "GCP,",
+                "BigQuery",
+                ",VertexAI,",
+                "Gemini"
             ],
             "pay_info": "Not specified",
-            "company_name": "Turing",
+            "company_name": "Reliable Software",
             "website_name": "linkedin",
             "posted_days_ago": null,
-            "location": "Chicago, IL",
-            "query_index": 2,
-            "query_used": "(AI AND automation AND (\"voice assistant\" OR \"AI assistant\")) AND (JavaScript OR Python) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4464071467",
-            "title": "EMR/EHR Implementation Specialist",
-            "description": "**EMR/EHR Implementation Specialist (AI Training)**\n**About The Role**\n At Alignerr, we partner with the world's leading AI research teams and labs to build and train cutting\\-edge AI models. We're looking for experienced EMR/EHR Implementation Specialists to lend their real\\-world clinical systems expertise to the next generation of healthcare AI.\n   \n\n  \n\n Your hands\\-on knowledge of platforms like Epic and Cerner — how they're configured, where they break down, and how workflows actually function — is exactly what's needed to help AI systems reason more accurately about healthcare operations and digital clinical environments.\n   \n\n  \n\n* Organization: Alignerr\n* Type: Hourly Contract\n* Location: Remote\n* Commitment: 10–40 hours/week\n\n\n**What You'll Do**\n* Apply your EMR/EHR expertise to evaluate, annotate, and improve AI\\-generated content related to clinical systems and healthcare workflows\n* Review AI outputs for technical accuracy, clinical relevance, and real\\-world plausibility\n* Identify gaps, errors, or misrepresentations in how AI describes system configuration, deployment, and troubleshooting processes\n* Provide structured, expert feedback that directly improves how AI models understand healthcare IT\n* Work independently and asynchronously on your own schedule\n\n\n**Who You Are**\n* Hands\\-on experience implementing, configuring, or optimizing EMR/EHR platforms — particularly Epic, Cerner, or similar systems\n* Strong understanding of clinical and administrative healthcare workflows\n* Ability to critically evaluate technical content and identify inaccuracies\n* Clear written communication skills\n* Detail\\-oriented and comfortable working independently\n\n\n**Nice to Have**\n* Experience with data annotation, data quality, or AI evaluation workflows\n* Background in clinical informatics or healthcare IT consulting\n* Familiarity with regulatory and compliance considerations in healthcare systems (HIPAA, HL7, FHIR, etc.)\n\n\n**Why Join Us**\n* Work on cutting\\-edge AI pr",
-            "tags": [
-                "EMR/EHR",
-                "Implementation",
-                "Specialist"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Alignerr",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "Kansas City, MO",
-            "query_index": 2,
-            "query_used": "(AI AND automation AND (\"voice assistant\" OR \"AI assistant\")) AND (JavaScript OR Python) AND (remote OR freelance)"
+            "location": "Detroit, MI",
+            "query_index": 1,
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
         },
         {
             "url": "https://www.linkedin.com/jobs/view/4464083515",
@@ -477,26 +231,73 @@
             "website_name": "linkedin",
             "posted_days_ago": null,
             "location": "",
-            "query_index": 2,
-            "query_used": "(AI AND automation AND (\"voice assistant\" OR \"AI assistant\")) AND (JavaScript OR Python) AND (remote OR freelance)"
+            "query_index": 1,
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4462907362",
-            "title": "Data Solutions AI Application Developer",
-            "description": "**This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Data Solutions AI Application Developer based in United States.**\n The Data Solutions AI Application Developer will help turn advanced AI capabilities into practical, scalable applications used across the enterprise. This role sits at the intersection of data science, analytics, software development, and business operations. You will rapidly design and deploy lightweight applications and intuitive user interfaces powered by generative AI, agentic AI, and NLP. Low\\-code and platform\\-native technologies will be central to accelerating AI adoption, while Python and SQL will enable deeper customization and integration. You will work closely with data engineers, data scientists, IT, and architecture teams to move solutions from analytical environments into production. This is an opportunity to help operationalize emerging AI technologies while improving usability, automation, and business outcomes.\n   \n\n  \n\n**Accountabilities**\n* Design, configure, test, and deploy AI\\-enabled applications using low\\-code and no\\-code platforms, including technologies such as Databricks Apps, Microsoft Power Apps, Copilot Studio, UiPath, and similar solutions.\n* Develop intuitive and accessible user interfaces that make generative AI, agentic AI, and NLP capabilities practical and easy to use for business and operational teams.\n* Translate AI and analytical model outputs into actionable business workflows, integrating intelligent capabilities with existing platforms, processes, and enterprise use cases.\n* Collaborate with data engineers and data scientists to transition solutions from analytical environments such as Databricks into reliable, production\\-ready applications.\n* Develop Python and SQL logic to support automation, orchestration, backend functionality, and system integrations when low\\-code capabilities alone are not sufficient.\n* Use Python\\-bas",
+            "url": "https://www.linkedin.com/jobs/view/4462952923",
+            "title": "Software Engineer, AI",
+            "description": "**About Our Company**\n At Patch My PC , we exist to improve lives . What started as a free tool to keep apps updated has grown into a trusted enterprise solution that helps IT and Security teams automate, manage, deploy, and report on third\\-party updates in Microsoft ConfigMgr, Intune, and WSUS. Our fully remote crew of 150 GIF\\-loving humans supports over 10,000 customers and more than 32 million devices. We make patching easier, boost security, and give IT teams their time back.\n   \n\n  \n\n Our core values guide how we work, how we treat each other, and how we grow. They keep us focused on what matters most. We're here to improve the lives of our customers, our team members, and our communities.\n   \n\n  \n\n**About This Role**\n Are you seeking a dynamic environment where you get to dive deep into a range of projects bootstrapping AI development?\n   \n\n  \n\n Were seeking a passionate and curious?Software Engineer, AI?to join our growing emerging technology team. This role is ideal for someone with foundational experience in AI and a keen interest in?agentic frameworks, autonomous systems, and intelligent workflows. Youll be embedded with development to ideate, architect and develop AI automation for both internal productivity and customer product solutions. Passion and drive for creating proof of concepts and evolving to production quality is essential. You should also be comfortable dealing with ambiguity, and enjoy educating and equipping fellow developers on AI solutions.\n   \n\n  \n\n**Responsibilities**\n Design and develop generative AI solutions across a rapidly expanding product portfolio\n   \n\n  \n\n Develop and deploy AI agents for internal tools and customer\\-facing applications\n   \n\n  \n\n Collaborate with cross\\-functional teams to integrate AI tech into existing systems\n   \n\n  \n\n Identify optimum data processing and structure for accurate AI analysis\n   \n\n  \n\n Write clean, maintainable code in C\\#, Python or other relevant languages\n   \n\n  \n\n Translate requirements i",
             "tags": [
-                "Data",
-                "Solutions",
-                "Application",
-                "Developer"
+                "Software",
+                "Engineer,"
             ],
             "pay_info": "Not specified",
+            "company_name": "GigFinder.ai",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "Indiana, United States",
+            "query_index": 1,
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4462946792",
+            "title": "MAS Python Developer (VA ESOM)",
+            "description": "**This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a MAS Python Developer (VA ESOM) based in United States.**\n This role offers the opportunity to build AI\\-driven solutions that enhance enterprise monitoring and event management operations.\n   \n\n  \n\n You will develop production\\-grade Python services and Model Context Protocol (MCP) integrations that connect Large Language Models (LLMs) with downstream monitoring platforms.\n   \n\n  \n\n Your work will automate event analysis, contextual enrichment, alert correlation, and intelligent incident insights.\n   \n\n  \n\n You will help operational teams reduce alert noise and improve Mean Time to Detect (MTTD) and Mean Time to Resolve (MTTR).\n   \n\n  \n\n The position combines advanced software engineering, AI workflow development, enterprise integration, and operational collaboration.\n   \n\n  \n\n You will work closely with Event Management and Major Incident teams to transform real\\-world operational challenges into scalable technical solutions.\n   \n\n  \n\n As a technical mentor, you will also contribute to engineering excellence, continuous improvement, and reliable 24/7 monitoring capabilities.\n   \n\n  \n\n Accountabilities\n   \n\n  \n\n* Design, develop, maintain, and optimize MCP servers and Python services that coordinate structured reasoning workflows between LLMs and enterprise monitoring tools.\n* Build Python\\-based interfaces that generate and process MCP calls, enabling reliable communication between AI models and downstream operational systems.\n* Develop end\\-to\\-end AI workflows in which LLMs interpret events, retrieve contextual information through MCP, and return enriched insights to monitoring platforms.\n* Implement automated reasoning and correlation capabilities that analyze alerts, reduce unnecessary noise, recommend escalation paths, and provide enhanced incident context.\n* Ensure Python\\-to\\-MCP\\-to\\-monitoring workflows meet high standards for",
+            "tags": [
+                "Python",
+                "Developer",
+                "ESOM)"
+            ],
+            "pay_info": "$110,000 - $125,000 / yearly",
             "company_name": "Jobgether",
             "website_name": "linkedin",
             "posted_days_ago": null,
             "location": "",
-            "query_index": 2,
-            "query_used": "(AI AND automation AND (\"voice assistant\" OR \"AI assistant\")) AND (JavaScript OR Python) AND (remote OR freelance)"
+            "query_index": 1,
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4464377156",
+            "title": "Applied AI Engineer",
+            "description": "Looking for an applied AI engineer who ships features people actually usenot demos that die in a slide deck.\n \n\n\n\n  \n\n\n\n\n\n Through Nebulai’s marketplace, you’ll embed with client teams building production AI: LLM\\-backed workflows, classical ML where it fits, evaluation harnesses, and the glue that makes models useful in real products. The bar is practical impact—latency, cost, quality, and adoption—not research theater.\n \n\n\n\n  \n\n\n\n\n\n You’ll be a strong fit if you\n \n\n\n* Write solid Python and have shipped AI features behind APIs or product surfaces\n* \\- Know when to reach for LLMs vs classical ML, and can explain the tradeoffs\n* \\- Care about evals, grounding, failure modes, and what happens after launch\n* \\- Collaborate easily with product, data, and platform folks in enterprise settings\n\n\n\n Bonus if you’ve\n \n\n\n* Built RAG, tool\\-calling agents, or internal copilots that stuck in production\n* \\- Worked on AWS, Azure, or GCP AI stacks\n* \\- Helped a CoE or platform team set patterns other teams reuse\n\n\n\n Contract work via Nebulai. Apply at https://nebulai.app",
+            "tags": [
+                "Applied",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Nebulai",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 1,
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4414062539",
+            "title": "AI Software Engineer",
+            "description": "**Description**\n*Hybrid 4 onsite / 1 work from home in Greenwood Village, CO*\n Our client seeks an AI\\-focused Software Engineer to design, build, and deploy practical AI\\-driven tools that improve data analyst, data engineering, and QA workflows. The role centers on applied AI and software engineering, including AI agents, MCP servers, context\\-aware tooling, and integrations across ETL, reporting, analytics tagging, testing, and project management. You will collaborate closely with stakeholders, identify automation opportunities, and deliver reliable internal tools using modern web technologies and AWS. Your work will establish engineering standards and enable scalable, cost\\-aware AI adoption across the Video Insights ecosystem.\n   \n\n  \n\n*Due to client requirements, applicants must be willing and able to work on a w2 basis. For our w2 consultants, we offer a great benefits package that includes Medical, Dental, and Vision benefits, 401k with company matching, and life insurance.*\n Rate: $50\\.00 to $56\\.00/hr. w2\n   \n\n  \n\n**Responsibilities**\n* Eliminate manual bottlenecks across reporting, tagging, and testing workflows.\n* Build AI agents supporting requirements review, architecture, coding, testing, debugging, and deployment.\n* Capture and structure tribal knowledge to streamline onboarding and inform AI tools.\n* Automate tasks across analytics requirements gathering, data validation, job monitoring, and Tableau reporting.\n* Create agents that detect pipeline failures, analyze logs, surface root causes, and recommend fixes.\n* Develop reusable prompt templates, steering files, and workspace configurations to standardize AI behavior.\n* Develop and maintain MCP servers to connect AI tools with data, schemas, and business logic.\n* Integrate AI tooling with Jira, Confluence, GitLab, Athena, and Tableau to reduce context switching.\n* Build data quality monitoring agents for anomaly detection and lineage impact assessment.\n* Automate data cleanup and resource optimizat",
+            "tags": [
+                "Software",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Eliassen Group",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "Greenwood Village, CO",
+            "query_index": 1,
+            "query_used": "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )"
         },
         {
             "url": "https://www.indeed.com/viewjob?jk=42eef37a619cc3cb",
@@ -512,8 +313,8 @@
             "website_name": "indeed",
             "posted_days_ago": 1,
             "location": "Blacksburg, VA, US",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
         },
         {
             "url": "https://www.indeed.com/viewjob?jk=d577349a58188e0b",
@@ -529,8 +330,8 @@
             "website_name": "indeed",
             "posted_days_ago": 2,
             "location": "San Francisco, CA, US",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
         },
         {
             "url": "https://www.indeed.com/viewjob?jk=5a07417b488235d3",
@@ -546,8 +347,8 @@
             "website_name": "indeed",
             "posted_days_ago": 2,
             "location": "New York, NY, US",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
         },
         {
             "url": "https://www.indeed.com/viewjob?jk=9b63aedb7da68668",
@@ -563,8 +364,8 @@
             "website_name": "indeed",
             "posted_days_ago": 2,
             "location": "US",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
         },
         {
             "url": "https://www.indeed.com/viewjob?jk=022473d527ef6a98",
@@ -580,8 +381,8 @@
             "website_name": "indeed",
             "posted_days_ago": 2,
             "location": "US",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
         },
         {
             "url": "https://www.indeed.com/viewjob?jk=4955cfb9980dba95",
@@ -597,8 +398,8 @@
             "website_name": "indeed",
             "posted_days_ago": 2,
             "location": "San Francisco, CA, US",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
         },
         {
             "url": "https://www.indeed.com/viewjob?jk=ae3fa09a3ab22389",
@@ -614,8 +415,25 @@
             "website_name": "indeed",
             "posted_days_ago": 2,
             "location": "New York, NY, US",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4435787597",
+            "title": "UI Developer | $90/hr Remote",
+            "description": "**Position:** \n UI Developer\n \n\n\n\n**Type:** \n Contract\n \n\n\n\n**Compensation:** \n $30 \\- $90/hour\n \n\n\n\n**Location:** \n Remote\n \n\n\n\n**Commitment:** \n 10\\-40 hrs/week\n \n\n\n\n  \n\n\n\n\n\n**Role Responsibilities** \n\n\n\n* Build, optimize, and maintain intricate UIs using React, TypeScript, and modern frontend frameworks.\n* Translate Figma designs and wireframes into pixel\\-perfect, reusable components with Tailwind CSS, SCSS, and Bootstrap.\n* Ensure consistent and responsive design across devices and browsers through best\\-in\\-class coding standards.\n* Implement performance optimizations and uphold web accessibility (WCAG) best practices throughout the stack.\n* Integrate frontend components with REST APIs, ensuring smooth data flow and robust user interaction.\n* Collaborate with designers, developers, and stakeholders using strong written and verbal communication skills.\n* Own the frontend architecture, advocate for clean code, and actively participate in code reviews.\n\n\n\n  \n\n\n\n\n\n**Requirements** \n\n\n\n* Have strong relevant experience in the domain with a primary focus on React and TypeScript.\n* Advanced proficiency in HTML5, CSS3, SCSS, and modern JavaScript (ES6\\+).\n* Experience with responsive design methodologies and cross\\-browser compatibility.\n* Strong expertise in DOM manipulation, REST API integration, and frontend performance tuning.\n* Mastery of version control using Git and collaborative workflows.\n* Proven ability to convert design specifications from Figma into flawless, maintainable code.\n* Deep understanding of web accessibility standards and UX principles.\n\n\n\n  \n\n\n\n\n\n**Application Process** \n\n\n\n* Easy Apply on LinkedIn\n* Check email for next steps\n* Participate in resume evaluation \\& interview stage",
+            "tags": [
+                "Developer",
+                "$90/hr",
+                "Remote"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Crossing Hurdles",
+            "website_name": "linkedin",
+            "posted_days_ago": 1,
+            "location": "",
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
         },
         {
             "url": "https://www.linkedin.com/jobs/view/4464024471",
@@ -631,8 +449,8 @@
             "website_name": "linkedin",
             "posted_days_ago": 1,
             "location": "",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
         },
         {
             "url": "https://www.linkedin.com/jobs/view/4435231668",
@@ -647,132 +465,46 @@
             "website_name": "linkedin",
             "posted_days_ago": 1,
             "location": "San Francisco, CA",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4462689326",
-            "title": "Full Stack Engineer",
-            "description": "**About BJAK** \n\n\n\n\n The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.\n \n\n\n\n  \n\n\n\n\n\n Started in 2019, we built the first mobile\\-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.\n \n\n\n\n  \n\n\n\n\n\n Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day.\n \n\n\n\n  \n\n\n\n\n\n We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next\\-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few.\n \n\n\n\n  \n\n\n\n\n\n If you're this person, we'd love to talk to you.\n \n\n\n\n\n\n\n\n\n**The Role** \n\n\n\n\n We are looking for full stack engineers to build fast across BJAK's AI Neobank app.\n \n\n\n\n  \n\n\n\n\n\n This role is for product\\-minded engineers who can move across frontend, backend, internal tools and customer journeys to turn ideas into working products quickly.\n \n\n\n\n\n\n\n\n\n**What You'll Own** \n\n\n\n\n  \n\n\n\n\n* Build and ship full product features across frontend, backend, APIs and databases.\n* Create customer and internal workflows for onboarding, accounts, payments, rewards, travel, FX, support automation, KYC and risk.\n* Turn ambiguous product problems into working systems with clean UX and reliable backend logic.\n* Work closely with product, design, mobile, backend and AI engineers to launch fast and improve after release.\n* Build internal tools and automation that reduce manual work and help teams operate at scale.\n* Own your work beyond r",
+            "url": "https://www.linkedin.com/jobs/view/4462640016",
+            "title": "Software Engineer - Full Stack",
+            "description": "**About The Role**\n The Software Engineer \\- Full Stack role builds and operates user\\-facing products across the application stack, from responsive React and TypeScript interfaces to backend services, APIs, and data systems. The team works with technologies such as Node.js, Python, PostgreSQL, and cloud infrastructure to deliver reliable product experiences used at meaningful scale.\n   \n\n  \n\n This role is suited to an engineer who can move comfortably between frontend and backend work, make sound architectural tradeoffs, and take features from technical design through production monitoring. The position is based in New York, NY with a hybrid working model and close collaboration across product, design, and engineering.\n   \n\n  \n\n**Key Responsibilities**\n* Design and ship end\\-to\\-end product features using React, TypeScript, Node.js, and REST or GraphQL APIs\n* Build scalable backend services and data access layers with Python or Node.js, PostgreSQL, Redis, and cloud\\-managed infrastructure\n* Develop accessible, responsive user interfaces and reusable frontend components supported by automated unit and integration tests\n* Define API contracts, database schemas, and service boundaries in collaboration with product managers, designers, and other engineers\n* Improve application performance, reliability, and security through profiling, observability, code reviews, and production incident follow\\-up\n* Deploy and operate services using Docker, CI/CD pipelines, and cloud platforms such as AWS or GCP\n* Document technical decisions and contribute to engineering standards around testing, monitoring, release practices, and maintainable system design\n\n\n**What We Are Looking For**\n* 3–8 years of professional software engineering experience building and operating production applications\n* Strong TypeScript and React experience, including component architecture, state management, responsive design, and frontend testing\n* Professional backend development experience with Node.js, Pyt",
             "tags": [
-                "Full",
-                "Stack",
-                "Engineer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "BJAK",
-            "website_name": "linkedin",
-            "posted_days_ago": 1,
-            "location": "",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4461828663",
-            "title": "Product Engineer",
-            "description": "San Francisco Bay Area\n   \n\n  \n\n* Global Offices or Remote Available\n\n\n What we're looking for\n   \n\n  \n\n As a Product Engineer at Wordbricks, you will build the product end to end and use user data to decide what to build next. You'll ship features, watch how people actually use them, and make the product better every single week.\n   \n\n  \n\n**Responsibilities**\n* Design and build product features across the stack\n* Analyze user behavior and product data to find what's working and what isn't\n* Prototype quickly and iterate based on what you learn\n* Work closely with design and ML to ship AI\\-powered experiences\n\n\n**Qualifications**\n* 3\\+ years of product\\-focused engineering experience\n* Strong full\\-stack skills (TypeScript, React, and a backend stack)\n* Comfortable reading product analytics and running experiments\n* A bias toward shipping and iterating over perfect plans\n\n\n**Preferred Qualifications**\n* Experience at an early\\-stage startup\n* Familiarity with LLM\\-powered products\n* Design sensibility and strong product taste\n\n\n**About Wordbricks**\n At Wordbricks, we believe AI shouldn't be locked away for tech experts—it should be for anyone who's ever sighed at cluttered files, copy\\-pasted the same thing 47 times, or spent hours wrangling messy data.\n   \n\n  \n\n We're a group of curious minds pushing limits and making work smarter. Our organization is flat, and our team is small and talent\\-dense. We particularly value creativity, passion, and a drive to make complex technology accessible to everyone.\n   \n\n  \n\n Why Join Wordbricks?\n   \n\n  \n\n* Be part of a dynamic and forward\\-thinking team dedicated to technological innovation.\n* Access to cutting\\-edge technology and resources to support your professional growth.\n* Competitive compensation package and benefits.\n* A collaborative and inclusive work culture that values diversity and creativity.\n\n\n**Benefits**\n* 100% Remote Work\n* Flexible Work Schedule\n* Annual Company Retreat\n* Comprehensive Insurance Coverage and ",
-            "tags": [
-                "Product",
-                "Engineer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Wordbricks",
-            "website_name": "linkedin",
-            "posted_days_ago": 1,
-            "location": "",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4464014682",
-            "title": "Senior Full Stack Engineer",
-            "description": "**About Yara** \n\n\n\n\n  \n\n\n\n\n\n Yara is building the future of finding work. Most hiring tools are stuck in the 90s and AI is making it worse, not better. More spam, more noise, more generic outreach that wastes everyone's time. We're reworking how people find their next role with one profile that actually shows your work, smart matching that puts you in front of the right companies, and a real person on the other side who cares about getting it right.\n \n\n\n\n  \n\n\n\n\n\n We work with companies across AI, developer tools, consumer, fintech, and health tech, ranging from teams that have raised $1B\\+ with 3,000\\+ employees to earlier stage companies at $50M\\+ with 100\\+ employees. We've helped talent from Google, Apple, Palantir, Uber, and Ramp connect with companies like Vercel, Paraform, Abridge, and Parallel.\n \n\n\n\n  \n\n\n\n\n\n**About this role** \n\n\n\n\n  \n\n\n\n\n\n Remote\\-first companies in the Yara Network are hiring senior full stack engineers across the US, and this is the most proven demand we have: these teams have made more than twenty hires through us and still have dozens of open seats. The work is production product engineering at growth\\-stage companies in fintech, data infrastructure, and AI: React on the front, Node or Python on the back, and ownership of the surface in between.\n \n\n\n\n  \n\n\n\n\n\n**Who this is for** \n\n\n\n\n  \n\n\n\n\n* You've been the senior engineer on a product team and you're comfortable being judged on it.\n* You are genuinely full stack. Several of these teams reject one\\-sided profiles, so the split matters.\n* You work well remotely: clear writing, async by default, and shipped work that speaks for you.\n* You're AI\\-native in how you build, and you've shipped LLM\\-powered features to real users.\n* You want a team that has already hired people like you and knows how to close.\n\n\n\n  \n\n\n\n\n\n**You may be a good fit if you have** \n\n\n\n\n  \n\n\n\n\n* 5\\+ years building production web applications, with real depth on both sides of the stack\n* TypeScript and React, plus Node.",
-            "tags": [
-                "Senior",
-                "Full",
-                "Stack",
-                "Engineer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Yara AI",
-            "website_name": "linkedin",
-            "posted_days_ago": 1,
-            "location": "",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4444611308",
-            "title": "Senior Software Engineer",
-            "description": "**Husch Blackwell LLP** \n is a full\\-service litigation and business law firm with multiple locations across the United States, serving clients with domestic and international operations.\n   \n\n  \n\n At Husch Blackwell we believe that diverse, equitable and inclusive teams lead to better outcomes. Husch Blackwell is committed to retaining, recruiting, developing, and promoting talented lawyers and business professionals with diverse backgrounds and experiences. We foster an engaged, diverse, and inclusive team culture of accountability and purpose that makes our Firm and our communities better.\n   \n\n  \n\n Our firm is committed to attracting and retaining professionals who value each other and the service we provide by embracing Teamwork, Collaboration, Client Service, and Innovation. If you are a motivated professional looking for a long\\-term fit where you can grow in a role, and will be valued and empowered, then we invite you to apply to our\n **Senior Software Engineer** \n position. This position may be filled remotely or in a hybrid capacity in any of our Central and Eastern Time locations. Strong candidates located in Mountain Time will also be considered.\n   \n\n  \n\n The\n **Senior Software Engineer** \n designs, builds, and maintains the technical systems and application infrastructure that power high\\-quality, human\\-centered information experiences. This role is responsible for the architecture, performance, and reliability of web applications and the data systems that support them, in service of Information Design \\& Engineering (ID\\&E) objectives. The Software Engineer establishes and upholds technical standards, leads application architecture decisions, and collaborates with cross\\-functional teams to deliver engaging data stories, interactive visualizations, and innovative user interfaces. This position operates at the intersection of production engineering and research and development, requiring both the rigor to run reliable systems and the curiosity to prot",
-            "tags": [
-                "Senior",
                 "Software",
-                "Engineer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Husch Blackwell",
-            "website_name": "linkedin",
-            "posted_days_ago": 1,
-            "location": "Milwaukee, WI",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4398938626",
-            "title": "Senior Software Engineer, Full Stack | Product Engineering",
-            "description": "Build a Safer World.\n   \n\n  \n\n TRM Labs provides AI\\-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure.\n   \n\n  \n\n The Full\\-Stack Product Engineering team is responsible for building a comprehensive set of features, frameworks, and functionalities for both end customers and internal\\-facing teams to successfully execute and scale TRM’s business. We are looking for a pragmatic full\\-stack engineer who can build reliable and scalable software that will be used by all TRM customers. You’ll also design backend APIs with a deep understanding of the customer experience and performance.\n   \n\n  \n\n As an early member of the team, you will be deeply involved in the technical details along with our operational processes to champion the velocity, quality, and overall impact of TRM, ultimately building a safer financial system for billions of people.\n   \n\n  \n\n**The Impact You’ll Have Here**\n* Work on complex engineering problems that help you build and hone not only technical skills but also project management and human/soft skills.\n* Develop and maintain public APIs that are part of the API Product suite\n* Collaborate with stakeholders on transforming a functional vision into a tangible roadmap with clear outcomes.\n* Support and enable internal business units through shared engineering services and functionalities.\n* Develop cross\\-functional relationships with stakeholders across the organization to understand and empower their mission from end to end.\n* Experience designing and building scalable systems, web applications, APIs, and services (our backend is built in Node.js but prior experience in Node.js is not required; we believe tools and languages can be learned on the job)\n\n\n**What We’re Looking",
-            "tags": [
-                "Senior",
-                "Software",
-                "Engineer,",
+                "Engineer",
                 "Full",
-                "Stack",
-                "Product",
-                "Engineering"
+                "Stack"
             ],
             "pay_info": "Not specified",
-            "company_name": "TRM Labs",
+            "company_name": "Evlo AI",
             "website_name": "linkedin",
             "posted_days_ago": 2,
-            "location": "",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "location": "New York, NY",
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4418178203",
-            "title": "Senior Full-Stack Software Engineer, AI",
-            "description": "**About Mainstay**\n Mainstay is the leading market intelligence platform purpose built for buying, managing, and selling homes in the single family rental industry. As an AI native company, we turn complex data into clarity that helps the industry move forward with confidence. Founded within Opendoor, Mainstay launched as an independent company in 2024 and recently raised a Series A round led by Khosla Ventures.\n   \n\n  \n\n Ready to shape the future of real estate with AI? Join Mainstay and help us redefine what’s possible in the single family rental space. If you thrive on solving complex problems and want to make a tangible impact in a fast\\-growing industry, we’d love to hear from you \\- apply now and let’s move the industry forward, together!\n   \n\n  \n\n**About The Role**\n What you should expect as a full\\-stack senior software engineer \\- maximum agency, tight feedback loops with customers, and no shortage of product challenges that directly translate to business value! You’ll have the opportunity to design, build, and ship complex AI\\-powered workflow management systems and tools that enable our operations team to execute at scale.\n   \n\n  \n\n We’re looking for someone who can use AI to efficiently ship features across the stack and ship reliable, production ready AI features end to end \\- from retrieval pipelines and guardrails to backend systems and user facing product experiences.\n   \n\n  \n\n Our products are built with Python, Typescript, and React on AWS.\n   \n\n  \n\n**In this role you will**\n* Contribute to all phases of product development, from ideation and prototyping to implementation and iteration\n* Design reliable, scalable backend services to support AI\\-powered features in production\n* Build and evolve scalable backend services and APIs that aggregate, enrich, and serve large, complex real estate datasets\n* Develop and refine frontend and backend product experiences that make sophisticated data intuitive, trustworthy, and actionable\n* Evaluate and benchmark",
-            "tags": [
-                "Senior",
-                "Full-Stack",
-                "Software",
-                "Engineer,"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Mainstay",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4461860740",
-            "title": "Full Stack Engineer",
-            "description": "**Company:** \n SWAKIO\n \n\n\n\n**Job Role:** \n Full\\-Stack Developer\n \n\n\n\n**Experience:** \n 2–3\\+ Years\n \n\n\n\n**Job Type:** \n Full\\-Time\n \n\n\n\n**Location:** \n Remote\n \n\n\n\n  \n\n\n\n\n\n**About the Role** \n\n\n\n\n SWAKIO is looking for a passionate Full\\-Stack Developer who can build scalable web applications from scratch. The ideal candidate should have strong experience in modern frontend and backend technologies, API development, database management, and cloud deployment.\n \n\n\n\n  \n\n\n\n\n\n**Roles \\& Responsibilities** \n\n\n\n* Develop, maintain, and optimise full\\-stack web applications using modern frontend and backend technologies.\n* Build responsive and user\\-friendly interfaces while ensuring high performance and cross\\-browser compatibility.\n* Design and develop RESTful APIs and integrate third\\-party services where required.\n* Work with SQL/NoSQL databases and write efficient, scalable queries.\n* Collaborate with UI/UX designers, product managers, and QA teams to deliver high\\-quality solutions.\n* Deploy, monitor, and maintain applications on cloud platforms while following security and best coding practices.\n\n\n\n  \n\n\n\n\n\n**Required Skills** \n\n\n\n* Strong knowledge of React.js, Next.js, JavaScript, and TypeScript.\n* Experience with Node.js, Express.js or NestJS.\n* Good understanding of MongoDB, PostgreSQL, or MySQL.\n* Experience with REST APIs, Git, Docker, and cloud platforms such as AWS, Azure, or GCP.\n* Familiarity with authentication, security, CI/CD, and Agile development practices.\n\n\n\n  \n\n\n\n\n\n**Qualifications** \n\n\n\n* 2–3\\+ years of professional experience in Full\\-Stack Development.\n* Bachelor’s degree in Computer Science, Information Technology, or a related field (preferred).\n* Strong problem\\-solving and communication skills.\n* Ability to work independently in a remote environment.\n\n\n\n  \n\n\n\n\n\n**Why Join SWAKIO?** \n\n\n\n* 100% Remote work environment.\n* Opportunity to work on innovative AI and SaaS products.\n* Collaborative and fast\\-paced team culture.\n* Career growth with ex",
+            "url": "https://www.linkedin.com/jobs/view/4463780301",
+            "title": "Full Stack QA Automation Engineer (SDET) (W2 ONLY)",
+            "description": "Our client is searching for a Full Stack QA Automation Engineer (SDET) for a remote temp\\-to\\-perm role.\n   \n\n  \n\n \\*\\*\\*All candidates must work directly for TEKsystems on a W2 basis until this position converts to full\\-time employment and no sponsorship is available now or in the future\\*\\*\\*\n   \n\n  \n\n Duties\n   \n\n  \n\n* Frontend E2E: Design and maintain end\\-to\\-end automated test suites for React applications using Playwright or Cypress to validate UI workflows\n* Backend \\& Data: Build automated REST API test pipelines, contract tests, and database validation scripts to verify data integrity against PostgreSQL backends.\n* Identity Flow Testing: Automate the verification of authentication flows, including Keycloak OIDC redirects, Entra ID / Google SSO handshakes, and token expiration.\n* CI/CD Quality Gates: Embed containerized test runs directly into GitHub Actions to block regressions and enforce code quality prior to merges.\n* Performance Testing: Execute API performance, load, and stress testing (e.g., using k6 or Locust) against containerized Kubernetes workloads.\n\n\n Pay will be based on experience and a drug background check is required.\n   \n\n  \n\n Job Type \\& Location\n   \n\n  \n\n This is a Contract to Hire position based out of Chicago, IL.\n   \n\n  \n\n Pay And Benefits\n   \n\n  \n\n The pay range for this position is $55\\.28 \\- $64\\.90/hr.\n   \n\n  \n\n Individual compensation offered for this position within this range will depend on many factors, including qualifications, skills, relevant experience, job knowledge, geographic location, internal equity, and other pertinent job\\-related factors.\n   \n\n  \n\n Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to specific elections, plan, or program terms. If eligible, the benefits available for this temporary role may include the following:\n   \n\n  \n\n* Medical, dental \\& vision\n* Critical Illness, Accident, and ",
             "tags": [
                 "Full",
                 "Stack",
-                "Engineer"
+                "Automation",
+                "Engineer",
+                "(SDET)",
+                "ONLY)"
             ],
             "pay_info": "Not specified",
-            "company_name": "SWAKIO™",
+            "company_name": "TEKsystems",
             "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "posted_days_ago": 2,
+            "location": "Chicago, IL",
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
         },
         {
             "url": "https://www.linkedin.com/jobs/view/4464321859",
@@ -788,41 +520,26 @@
             "website_name": "linkedin",
             "posted_days_ago": null,
             "location": "",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4461226520",
-            "title": "Software Engineer",
-            "description": "**Staff Full\\-Staff Engineer** \n\n\n\n\n  \n\n\n\n\n\n**Reference:** \n BH\\-398p\n \n\n\n\n**Job Type:** \n Permanent\n \n\n\n\n**Location:** \n Remote (US)\n \n\n\n\n**Salary:** \n up to $220,000 per annum\n \n\n\n\n  \n\n\n\n\n\n**About The Client:** \n\n\n\n\n Our client is a growing healthcare technology business developing software and data solutions that improve how clinical and operational information is managed. Their technology supports healthcare organisations working with large volumes of sensitive data across multiple systems and environments.\n \n\n\n\n  \n\n\n\n\n\n The business is investing heavily in its technology platform, with a particular focus on intelligent automation, data accuracy, secure handling of healthcare information, and scalable systems that can support multiple customers.\n \n\n\n\n  \n\n\n\n\n\n**About the role:** \n\n\n\n\n Our client is looking for a Staff Full\\-Staff Engineer to take a central role in shaping and delivering a growing healthcare technology platform.\n \n\n\n\n  \n\n\n\n\n\n This is a senior hands\\-on engineering position with broad responsibility across software development, system design, data, AI, cloud services, and platform reliability. You will be expected to make sound technical decisions, work closely with stakeholders, and help turn evolving business needs into dependable software.\n \n\n\n\n  \n\n\n\n\n\n The role is well suited to someone who enjoys working with a high level of autonomy, solving ambiguous problems, and contributing directly to the codebase while also guiding wider technical direction.\n \n\n\n\n  \n\n\n\n\n\n**Responsibilities:** \n\n\n\n* Design and deliver full\\-stack software using TypeScript/Node.js with React.\n* Build and maintain APIs, backend services, integrations, and data\\-driven application features.\n* Create AI\\-supported functionality for document handling, information extraction, retrieval, and automated decision support.\n* Introduce practical safeguards around AI outputs, including validation, review steps, and exception handling.\n* Develop robust business workflows involving app",
+            "url": "https://www.linkedin.com/jobs/view/4444878988",
+            "title": "Fullstack Engineer | $55/hr Remote",
+            "description": "**Position:** \n Senior Fullstack Engineer\n   \n\n  \n\n**Type:** \n Contract\n   \n\n  \n\n**Compensation:** \n $20 \\- $55/hour\n   \n\n  \n\n**Location:** \n Remote\n   \n\n  \n\n**Commitment:** \n 10\\-40 hrs/week\n   \n\n  \n\n**Role Responsibilities**\n* Design, develop, and optimize scalable fullstack applications using React and modern backend technologies.\n* Drive high\\-performance frontend development, focusing on state management and advanced UI/UX solutions.\n* Architect secure authentication and API systems, ensuring robust data flows and integrations.\n* Implement and optimize database solutions, emphasizing scalability and performance tuning.\n* Collaborate on system design, proactively assessing architectural tradeoffs and proposing effective solutions.\n* Integrate DevOps principles: manage CI/CD pipelines, deployment processes, and monitoring best practices.\n\n\n**Requirements**\n* Have strong relevant experience in advanced frontend engineering, particularly with React, focusing on performance and state management.\n* Have proven experience in backend system design, API development, and scalable architectures.\n* Possess a strong understanding of authentication protocols and secure application design.\n* Demonstrate proficiency in database management, optimization, and complex queries.\n* Have direct experience with Adobe InDesign in software\\-integrated or automation scenarios.\n* Have hands\\-on knowledge of DevOps fundamentals, CI/CD, deployment, and monitoring tools.\n\n\n**Application Process**\n* Easy Apply on LinkedIn\n* Check email for next steps\n* Participate in resume evaluation \\& interview stage",
             "tags": [
-                "Software",
-                "Engineer"
+                "Fullstack",
+                "Engineer",
+                "$55/hr",
+                "Remote"
             ],
             "pay_info": "Not specified",
-            "company_name": "ByteHire",
+            "company_name": "Crossing Hurdles",
             "website_name": "linkedin",
             "posted_days_ago": null,
             "location": "",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4464317892",
-            "title": "Full Stack Web Developer",
-            "description": "**About The Company**\n BubbleUp LLC is a forward\\-thinking technology firm dedicated to delivering innovative digital solutions to a diverse range of clients. With a focus on full\\-stack development, cloud integration, and AI\\-driven applications, BubbleUp LLC strives to stay at the forefront of technological advancements. Our team comprises passionate professionals committed to excellence, collaboration, and continuous learning. Located in North Houston, we foster a dynamic and inclusive work environment that encourages creativity and technical mastery. Our mission is to empower businesses through cutting\\-edge software solutions that enhance operational efficiency, user engagement, and security.\n   \n\n  \n\n**About The Role**\n We are seeking a highly skilled Full\\-Stack Web Developer to join our talented team at BubbleUp LLC. This role is ideal for a proactive individual with extensive experience in both frontend and backend development, particularly within JavaScript ecosystems. The successful candidate will be responsible for designing, developing, and maintaining robust web applications that meet client specifications and industry standards. You will collaborate closely with project managers, AI specialists, and other engineers to deliver high\\-quality solutions that are secure, scalable, and user\\-friendly. The role offers an exciting opportunity to work on innovative projects, leverage AI technologies, and contribute to the growth of our company’s technological capabilities.\n   \n\n  \n\n**Qualifications**\n The ideal candidate should possess a minimum of 6 years of experience in JavaScript\\-based web development, including both frontend and backend technologies. Proficiency in building REST and GraphQL APIs is essential. Candidates must have a strong background in developing and optimizing SQL and NoSQL databases, preferably within an AWS environment. Experience with AI tools such as Cursor and Copilot is highly desirable. Candidates should also have a solid underst",
-            "tags": [
-                "Full",
-                "Stack",
-                "Developer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Netrolynx AI",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
         },
         {
             "url": "https://www.linkedin.com/jobs/view/4462213077",
@@ -840,42 +557,241 @@
             "website_name": "linkedin",
             "posted_days_ago": null,
             "location": "East Moline, IL",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4398968519",
-            "title": "Senior Software Engineer",
-            "description": "**About Collective**\n Collective is on a mission to redefine the way businesses\\-of\\-one work. Our technology and team of trusted advisors help members achieve financial independence by taking care of everything from business incorporation to accounting, bookkeeping, tax services, and access to a thriving community, all in one integrated platform. We believe in empowering self\\-employed people to enjoy the same tax savings that big companies get, so they can focus on their passion, not paperwork.\n   \n\n  \n\n Featured in Forbes, Business Insider, Yahoo, Bloomberg, Financial Times, TechCrunch, and more. We are backed by General Catalyst, Sound Ventures (Ashton Kutcher and Guy Oseary), QED Investors, Google’s Gradient Ventures, Expa, and other investors who have financed iconic companies like YouTube, Substack, Twitch, Box, Hims, Instacart, and Lyft.\n   \n\n  \n\n**About The Role**\n We’re hiring a Senior Software Engineer to build and evolve the core product experiences that power Collective’s member platform. This is a product engineering role with high ownership across the stack, working closely with Product, Design, and Operations to ship fast and iterate based on real customer needs. You’ll be expected to use modern AI tools and agent\\-based workflows to accelerate development, improve code quality, and unlock new product capabilities. This role is ideal for engineers who think in terms of outcomes, not tickets, and who see AI as a core part of how software gets built today.\n   \n\n  \n\n**What You'll Do**\n* Own features end\\-to\\-end — define the problem, build the solution, deploy it, and iterate until it works\n* Ship high\\-quality, user\\-facing product experiences across frontend and backend systems\n* Partner with Product and Design to break down ambiguous problems into simple, effective solutions — then build them\n* Leverage AI\\-powered development tools (code generation, copilots, agent workflows) to move faster and cut manual overhead\n* Identify and implement AI capabil",
-            "tags": [
-                "Senior",
-                "Software",
-                "Engineer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Collective",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "San Francisco, CA",
-            "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4462210208",
+            "url": "https://www.linkedin.com/jobs/view/4461860740",
             "title": "Full Stack Engineer",
-            "description": "**About Persistent** \n\n\n\n\n  \n\n\n\n\n\n We are an AI\\-led, platform\\-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what's next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry\\-leading organizations across the world, including 20 Fortune 50 companies and 4 of the 5 top banks in both the US and India, and numerous innovators across the healthcare ecosystem.\n \n\n\n\n  \n\n\n\n\n\n Our disruptor's mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum. Persistent has been recognized across top industry platforms for innovation, leadership, and inclusion. We reported $1,654\\.4M FY26 revenue with 17\\.4% Y\\-o\\-Y growth. We have delivered 24 sequential quarters of growth with $436\\.0M in Q4 FY26 revenue, up 3\\.2% Q\\-o\\-Q and 16\\.2% Y\\-o\\-Y growth. Our 27,500\\+ global team members, located in 18 countries, have been instrumental in helping the market leaders transform their industries. We have been recognized as the Fastest Growing IT Services Brand Globally in the 2026 Brand Finance IT Services 25 Report. We named a Leader in the Everest Group Private Equity (PE) Services PEAK Matrix Assessment 2026 and Software Product Engineering PEAK Matrix Assessment 2026\\.\n \n\n\n\n  \n\n\n\n\n\n**About Position:** \n\n\n\n\n  \n\n\n\n\n\n We are seeking a highly experienced Fullstack Engineer with 10\\+ years of expertise in building scalable, enterprise\\-grade applications using modern frontend, backend, cloud, and AI technologies. This role is ideal for a hands\\-on engineering leader who thrives in designing and developing end\\-to\\-end solutions while driving technical excellence across the full technology stack. As the senior\\-most individual contributor within an AI\\-enabled platform team, you will be respons",
+            "description": "**Company:** \n SWAKIO\n \n\n\n\n**Job Role:** \n Full\\-Stack Developer\n \n\n\n\n**Experience:** \n 2–3\\+ Years\n \n\n\n\n**Job Type:** \n Full\\-Time\n \n\n\n\n**Location:** \n Remote\n \n\n\n\n  \n\n\n\n\n\n**About the Role** \n\n\n\n\n SWAKIO is looking for a passionate Full\\-Stack Developer who can build scalable web applications from scratch. The ideal candidate should have strong experience in modern frontend and backend technologies, API development, database management, and cloud deployment.\n \n\n\n\n  \n\n\n\n\n\n**Roles \\& Responsibilities** \n\n\n\n* Develop, maintain, and optimise full\\-stack web applications using modern frontend and backend technologies.\n* Build responsive and user\\-friendly interfaces while ensuring high performance and cross\\-browser compatibility.\n* Design and develop RESTful APIs and integrate third\\-party services where required.\n* Work with SQL/NoSQL databases and write efficient, scalable queries.\n* Collaborate with UI/UX designers, product managers, and QA teams to deliver high\\-quality solutions.\n* Deploy, monitor, and maintain applications on cloud platforms while following security and best coding practices.\n\n\n\n  \n\n\n\n\n\n**Required Skills** \n\n\n\n* Strong knowledge of React.js, Next.js, JavaScript, and TypeScript.\n* Experience with Node.js, Express.js or NestJS.\n* Good understanding of MongoDB, PostgreSQL, or MySQL.\n* Experience with REST APIs, Git, Docker, and cloud platforms such as AWS, Azure, or GCP.\n* Familiarity with authentication, security, CI/CD, and Agile development practices.\n\n\n\n  \n\n\n\n\n\n**Qualifications** \n\n\n\n* 2–3\\+ years of professional experience in Full\\-Stack Development.\n* Bachelor’s degree in Computer Science, Information Technology, or a related field (preferred).\n* Strong problem\\-solving and communication skills.\n* Ability to work independently in a remote environment.\n\n\n\n  \n\n\n\n\n\n**Why Join SWAKIO?** \n\n\n\n* 100% Remote work environment.\n* Opportunity to work on innovative AI and SaaS products.\n* Collaborative and fast\\-paced team culture.\n* Career growth with ex",
             "tags": [
                 "Full",
                 "Stack",
                 "Engineer"
             ],
             "pay_info": "Not specified",
-            "company_name": "Persistent Systems",
+            "company_name": "SWAKIO™",
             "website_name": "linkedin",
             "posted_days_ago": null,
-            "location": "New Jersey, United States",
+            "location": "",
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4464081488",
+            "title": "Backend Developer - AI Data Services",
+            "description": "**Backend Developer — AI Data Services**\n**About The Role**\n What if your C\\# expertise could directly shape the infrastructure powering the next generation of AI? We're looking for a senior\\-level full\\-stack engineer to design and build the data pipelines, annotation tooling, and evaluation systems that leading AI labs depend on to train and improve their models.\n   \n\n  \n\n This is a fully remote contract role with flexible hours. You'll work on real production systems — not toy projects — alongside data, research, and engineering teams at the forefront of AI development.\n   \n\n  \n\n* Organization: Alignerr\n* Type: Hourly Contract\n* Location: Remote\n* Commitment: 20–40 hours/week\n\n\n**What You'll Do**\n* Design, build, and optimize high\\-performance C\\# systems supporting large\\-scale AI data pipelines and evaluation workflows\n* Develop full\\-stack backend tooling and services for data annotation, validation, and quality control\n* Improve the reliability, performance, and safety of existing C\\# codebases\n* Collaborate with research and engineering teams to support model training and evaluation infrastructure\n* Identify bottlenecks and edge cases across data and system behavior, then implement scalable, production\\-ready fixes\n* Participate in synchronous design reviews to iterate on architecture and implementation decisions\n\n\n**Who You Are**\n* Native or fluent English speaker with clear written and verbal communication skills\n* Experienced full\\-stack developer with a strong systems programming background\n* 5\\+ years of professional experience writing production\\-grade C\\#\n* Skilled in data modeling and database access using ORM frameworks or micro\\-ORMs for high\\-performance SQL interactions\n* Proven experience building secure, well\\-documented endpoints for data access and manipulation\n* Able to commit reliably to 20–40 hours per week\n\n\n**Nice to Have**\n* Prior experience with data annotation, data quality systems, or evaluation pipelines\n* Familiarity with AI/ML wor",
+            "tags": [
+                "Backend",
+                "Developer",
+                "Data",
+                "Services"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Alignerr",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "Seattle, WA",
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4464085484",
+            "title": "Senior Software Engineer — Agentic Coding",
+            "description": "**Senior Software Engineer — Agentic Coding (AI Training)**\n**About The Role**\n What if your software engineering expertise could define how the next generation of AI writes, debugs, and ships code on its own? We're looking for Senior Software Engineers in Seattle to work at the frontier of agentic AI — building, evaluating, and improving autonomous coding systems that can reason through complex problems, execute multi\\-step plans, and produce production\\-quality software with minimal human intervention.\n   \n\n  \n\n Seattle is one of the world's premier engineering hubs, home to engineers who've built the systems powering the modern internet. This role channels that caliber of talent toward the most transformative challenge in software today: teaching AI to code autonomously.\n   \n\n  \n\n This is a fully remote, flexible contract role. If you're a senior engineer who's excited about agentic AI and wants to work on problems that genuinely matter, we want to hear from you.\n   \n\n  \n\n* Organization: Alignerr\n* Type: Hourly Contract\n* Location: Remote\n* Commitment: 10–40 hours/week\n\n\n**What You'll Do**\n* Design, build, and refine agentic coding workflows — systems where AI autonomously plans, writes, tests, and iterates on code\n* Evaluate AI\\-generated code for correctness, efficiency, security, and adherence to best practices\n* Create complex, real\\-world coding challenges and benchmarks to stress\\-test agentic AI capabilities\n* Provide expert\\-level feedback on AI reasoning chains, tool usage, and code output quality\n* Identify failure modes, edge cases, and areas where autonomous agents break down\n* Develop and improve evaluation frameworks, rubrics, and testing harnesses for agentic systems\n* Collaborate asynchronously with researchers and engineers working on large language models and AI agents\n* Work independently on task\\-based assignments at your own pace and on your own schedule\n\n\n**Who You Are**\n* 5\\+ years of professional software engineering experience — you've bu",
+            "tags": [
+                "Senior",
+                "Software",
+                "Engineer",
+                "Agentic",
+                "Coding"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Alignerr",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "Seattle, WA",
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4464083358",
+            "title": "Software Engineer III - Full-stack Developer with Anthropic Experience",
+            "description": "**Software Engineer III with Agentic AI Experience, AI \\& Engineering/Engineering as a Service**\n Agentic AI is moving from experimentation to production, and organizations everywhere are racing to figure out how to build it responsibly and at scale. We're growing a team of engineers who want to work at the center of that shift: designing and building autonomous, multi\\-agent systems powered by Anthropic's Claude models for some of the world's largest organizations.\n   \n\n  \n\n Join our\n **AI \\& Engineering** \n team in transforming technology platforms, driving innovation, and helping make a significant impact on our clients' success. You'll work alongside talented professionals reimagining and re\\-engineering operations and processes that are critical to businesses. Your contributions can help clients improve financial performance, accelerate new digital ventures, and fuel growth through innovation.\n   \n\n  \n\n**AI \\& Engineering** \n leverages cutting\\-edge engineering capabilities to build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These solutions are powered by engineering for business advantage, transforming mission\\-critical operations. We enable clients to stay ahead with the latest advancements by transforming engineering teams and modernizing technology \\& data platforms. Our delivery models are tailored to meet each client's unique requirements.\n   \n\n  \n\n Recruiting for this role ends on 11/1/2026\\.\n   \n\n  \n\n**Work you'll do**\n As a Senior Consultant, Software Engineer III, AI \\& Engineering on the Engineering as a Service team, you will be responsible for designing, building, and delivering full\\-stack software and AI\\-enabled solutions for client engagements.\n   \n\n  \n\n* Architect, design and implement scalable full\\-stack features across front\\-end and back\\-end systems.\n* Design and operationalize RESTful and asynchronous APIs on cloud\\-native infrastructure (AWS, Azure or GC",
+            "tags": [
+                "Software",
+                "Engineer",
+                "Full-stack",
+                "Developer",
+                "with",
+                "Anthropic",
+                "Experience"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Deloitte",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "Cincinnati, OH",
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4464076350",
+            "title": "Software Engineer II - Full-stack Developer with Anthropic Experience",
+            "description": "**Software Engineer II with Anthropic AI Experience, AI \\& Engineering/Engineering as a Service**\n Agentic AI is moving from experimentation to production, and organizations everywhere are racing to figure out how to build it responsibly and at scale. We're growing a team of engineers who want to work at the center of that shift: designing and building autonomous, multi\\-agent systems powered by Anthropic's Claude models for some of the world's largest organizations.\n   \n\n  \n\n Join our\n **AI \\& Engineering** \n team in transforming technology platforms, driving innovation, and helping make a significant impact on our clients' success. You'll work alongside talented professionals reimagining and re\\-engineering operations and processes that are critical to businesses. Your contributions can help clients improve financial performance, accelerate new digital ventures, and fuel growth through innovation.\n   \n\n  \n\n**AI \\& Engineering** \n leverages cutting\\-edge engineering capabilities to build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These solutions are powered by engineering for business advantage, transforming mission\\-critical operations. We enable clients to stay ahead with the latest advancements by transforming engineering teams and modernizing technology \\& data platforms. Our delivery models are tailored to meet each client's unique requirements.\n   \n\n  \n\n Recruiting for this role ends on 11/1/2026\\.\n   \n\n  \n\n**Work you'll do**\n As a Consultant, Software Engineer II, on the Engineering as a Service team, you will be responsible for designing, building, and delivering full\\-stack software and AI\\-enabled solutions for client engagements.\n   \n\n  \n\n* Design, build, test, and maintain scalable full\\-stack features across front\\-end and back\\-end systems.\n* Develop and support microservices, application programming interfaces, continuous integration/continuous deployment pipelines, c",
+            "tags": [
+                "Software",
+                "Engineer",
+                "Full-stack",
+                "Developer",
+                "with",
+                "Anthropic",
+                "Experience"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Deloitte",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 2,
+            "query_used": "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4414338041",
+            "title": "AI Engineer",
+            "description": "While technology is the heart of our business, a global and diverse culture is the heart of our success. We love our people and we take pride in catering them to a culture built on transparency, diversity, integrity, learning and growth.\n   \n\n  \n\n If working in an environment that encourages you to innovate and excel, not just in professional but personal life, interests you\\- you would enjoy your career with Quantiphi!\n   \n\n  \n\n**About Quantiphi**\n Quantiphi is an award\\-winning, AI\\-First digital engineering and consulting company focused on delivering high\\-impact Services and Solutions that help organizations solve what truly matters. We partner with enterprises to reimagine their businesses through intelligent, scalable, and transformative AI driving measurable outcomes at the very core of their operations.\n   \n\n  \n\n Since our founding in 2013, Quantiphi has tackled some of the world’s most complex business challenges by combining deep industry expertise, disciplined cloud and data engineering practices, and cutting\\-edge applied AI research. Our work is rooted in delivering accelerated, quantifiable business value, not just technology for technology’s sake.\n   \n\n  \n\n Headquartered in Boston, Quantiphi is a global organization with 4,000\\+ professionals serving clients across key industry verticals, including BFSI, Healthcare \\& Life Sciences, CPG, MFG, TME etc. As an Elite and Premier partner to leading cloud and AI platforms such as NVIDIA, Google Cloud, AWS, and Snowflake, we build and deliver enterprise\\-grade AI services and solutions that create real\\-world impact.\n   \n\n  \n\n**We’ve Been Recognized With**\n* 21x Google Cloud Partner of the Year awards in the last 8 years.\n* 3x AWS AI/ML award wins.\n* 3x NVIDIA Partner of the Year titles.\n* 2x Snowflake Partner of the Year awards.\n* We have also garnered top analyst recognitions from Gartner, ISG, and Everest Group.\n* We offer first\\-in\\-class industry solutions across Healthcare, Financial Services, Consume",
+            "tags": [
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Quantiphi",
+            "website_name": "linkedin",
+            "posted_days_ago": 1,
+            "location": "",
             "query_index": 3,
-            "query_used": "(\"web application\" OR \"scalable solutions\") AND (React OR Next.js) AND (AI OR Python) AND (remote OR freelance)"
+            "query_used": "( \"AI Developer\" OR \"Automation Engineer\" OR LangChain ) AND ( \"AI Voice Assistant\" OR \"Resume Analyzer\" OR \"scalable solutions\" ) AND ( Python OR JavaScript ) AND ( remote OR freelance )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461307450",
+            "title": "Senior Software Engineer - LLM and Agentic AI Applications - Profitable AI Startup",
+            "description": "**Senior Software Engineer \\- LLM and Agentic AI Applications \\- Profitable AI Startup** \n\n\n\n\n**Location: you can either work remotely or in the company's offices in San Francisco or New York** \n\n\n\n\n  \n\n\n\n\n\n  \n\n\n\n\n\n The company's product is enterprise SaaS and involves data science, AI, machine learning, predictive analytics, and big data. It is a mission\\-driven company.\n \n\n\n\n  \n\n\n\n\n\n The company has about 30 employees and 8 engineers. It raised a pre\\-seed round of funding several years ago and hasn't needed any investment since then. It is very profitable, is utilized by many top tier customers, and revenues are growing rapidly.\n \n\n\n\n  \n\n\n\n\n\n The company will pay up to $240k in salary, plus equity which could be lucrative.\n \n\n\n\n  \n\n\n\n\n\n  \n\n\n\n\n\n**Job Responsibilities:** \n\n\n\n\n  \n\n\n\n\n\n \\- Primarily working with Python, LangGraph, and MCP.\n \n\n\n\n  \n\n\n\n\n\n \\- Blending Python software development expertise with LLM and agentic application development to advance the state of the art analytics engine that powers the core product.\n \n\n\n\n  \n\n\n\n\n\n \\- Building applications for customers to use which will help them to extract knowledge and learnings from the company's product.\n \n\n\n\n  \n\n\n\n\n\n \\- Building, maintaining, and continuously improving tools, techniques, and architecture for agentic applications.\n \n\n\n\n  \n\n\n\n\n\n \\- Working with a talented and diverse team of engineers, data scientists, and research staff to build new features and solve novel problems across the spectrum of software engineering, data visualization, and science.\n \n\n\n\n  \n\n\n\n\n\n  \n\n\n\n\n\n**Qualifications:** \n\n\n\n\n  \n\n\n\n\n\n \\- At least 3 years of professional experience (the more the better).\n \n\n\n\n  \n\n\n\n\n\n \\- Expertise in Python.\n \n\n\n\n  \n\n\n\n\n\n \\- At least 2 years of LLM and agentic AI experience.\n \n\n\n\n  \n\n\n\n\n\n \\- Experience building an agentic AI product that is in use by customers (not just a personal project).\n \n\n\n\n  \n\n\n\n\n\n \\- Strong problem solving skills and attention to detail.\n \n\n\n\n  \n\n\n\n\n\n \\- Expertise in arch",
+            "tags": [
+                "Senior",
+                "Software",
+                "Engineer",
+                "Agentic",
+                "Applications",
+                "Profitable",
+                "Startup"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Skyrocket Ventures",
+            "website_name": "linkedin",
+            "posted_days_ago": 2,
+            "location": "",
+            "query_index": 3,
+            "query_used": "( \"AI Developer\" OR \"Automation Engineer\" OR LangChain ) AND ( \"AI Voice Assistant\" OR \"Resume Analyzer\" OR \"scalable solutions\" ) AND ( Python OR JavaScript ) AND ( remote OR freelance )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4462209265",
+            "title": "AI/ML Engineer",
+            "description": "**Responsibilities**\n* Design, build, and deploy end\\-to\\-end AI/ML models and scalable architectures.\n* Develop and integrate intelligent automation workflows to streamline business operations.\n* Collaborate with cross\\-functional teams to identify use cases and translate requirements into AI solutions.\n* Optimize machine learning pipelines for performance, scalability, and latency.\n* Monitor, evaluate, and fine\\-tune model accuracy and reliability in production.\n\n\n**Requirements**\n* 3\\+ years of hands\\-on experience in AI/ML development and production deployment.\n* Strong proficiency in Python and modern ML frameworks (e.g., PyTorch, TensorFlow, Scikit\\-learn).\n* Experience in building and integrating LLM applications, LangChain, or agentic workflows.\n* Solid understanding of REST APIs, cloud platforms (AWS/GCP/Azure), and CI/CD pipelines.\n* Strong problem\\-solving skills and experience working in remote teams.\n\n\n**Benefits**\n* 100% Remote work culture and flexible schedule.\n* Competitive compensation and performance incentives.\n* Opportunities to work on cutting\\-edge AI and automation projects.\n* Professional development and learning support.",
+            "tags": [
+                "AI/ML",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "NexDew Technologies LLC",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 3,
+            "query_used": "( \"AI Developer\" OR \"Automation Engineer\" OR LangChain ) AND ( \"AI Voice Assistant\" OR \"Resume Analyzer\" OR \"scalable solutions\" ) AND ( Python OR JavaScript ) AND ( remote OR freelance )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4455286878",
+            "title": "Enterprise AI Platform Engineer",
+            "description": "**Why Work Here**\n* Headquarters is in Charlotte, NC\n* Recently expanded to nearshore\n* isolved ranked for SMB Payroll in 2023 Sapient Report\n* Voted top places to work in USA 2023\n\n\n**About The Role**\n We're building the internal platforms that will let teams across the company automate their own work and processes. This is early, and it's a chance to help build an internal platform for all of our employees from the ground up. It's infrastructure for internal use including orchestration layers, MCP tool infrastructure, LLM integrations, and the services that connect them. We're building to take repetitive, manual effort off people's plates so they can focus on higher\\-value work.\n   \n\n  \n\n This is a builder role focused on production internal systems, not model training, research, or customer\\-facing product features. You'll help shape and implement the platform components that agents and internal tools run on. If you like backend and systems engineering and want to go deep on the fast\\-moving agent\\-infrastructure layer and help define what it becomes this is that job.\n   \n\n  \n\n**What You'll Do**\n* Build and maintain backend services and APIs (REST) that power agent orchestration, tool execution, and LLM integration for internal automation workflows.\n* Develop and operate MCP servers and clients including tool registration, integration of databases and enterprise systems into agent workflows, versioning, and lifecycle management.\n* Integrate LLM services (streaming, structured outputs, tool/function calling) with robust error handling across agent workflows.\n* Implement multi\\-agent and multi\\-step workflows using an orchestration framework.\n* Contribute to observability, evaluation, and reliability for non\\-deterministic systems including tracing, monitoring, and cost/latency visibility.\n* Collaborate with architecture, DevOps, and security to ship secure, well\\-tested services following CI/CD best practices.\n\n\n**What We're Looking For**\n* Strong software enginee",
+            "tags": [
+                "Enterprise",
+                "Platform",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "isolved",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 3,
+            "query_used": "( \"AI Developer\" OR \"Automation Engineer\" OR LangChain ) AND ( \"AI Voice Assistant\" OR \"Resume Analyzer\" OR \"scalable solutions\" ) AND ( Python OR JavaScript ) AND ( remote OR freelance )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461895258",
+            "title": "AI Engineer",
+            "description": "A pioneering consulting firm is at the forefront of transforming technology platforms, driving innovation, and making a significant impact on its clients' success in a critical industry. This organization partners with companies to reimagine and re\\-engineer core operations and processes, leveraging cutting\\-edge engineering to build, deploy, and operate integrated solutions across software, data, AI, and cloud infrastructure.\n   \n\n  \n\n The Role\n   \n\n  \n\n* Design, build, and deploy secure, scalable AI solutions including APIs, services, pipelines, agents, containers, and serverless functions.\n* Develop and operationalize LLM\\-enabled products such as copilots, knowledge assistants, and agentic workflows using platforms like Claude Code, OpenAI Codex, and AWS AgentCore Gateway.\n* Implement end\\-to\\-end RAG, knowledge base, and document intelligence patterns including ingestion, embeddings, search, and retrieval evaluation.\n* Deliver governed data and features for ML and GenAI, supporting both training workflows and real\\-time inference with consistency and low latency.\n* Drive CI/CD, testing, versioning, and deployment standards across AI systems and establish monitoring/observability for the full model lifecycle.\n* Collaborate with cross\\-functional teams to translate business needs into AI\\-powered solutions and mentor junior engineers.\n\n\n What You'll Need\n   \n\n  \n\n* 5\\+ years of professional software engineering experience, with at least 1 year building and operating AI/ML systems in production.\n* Proven hands\\-on experience with LLMs, including prompt engineering, RAG pipelines, function/tool calling, and agent orchestration.\n* Strong Python engineering skills for writing clean, maintainable, production\\-grade code and packaging AI capabilities as APIs or services.\n* Experience with AI/ML infrastructure: Databricks, vector/hybrid search, feature pipelines, model serving, Docker, and cloud\\-native deployment on AWS.\n* Familiarity with implementing trust, safety, a",
+            "tags": [
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Haystack",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 3,
+            "query_used": "( \"AI Developer\" OR \"Automation Engineer\" OR LangChain ) AND ( \"AI Voice Assistant\" OR \"Resume Analyzer\" OR \"scalable solutions\" ) AND ( Python OR JavaScript ) AND ( remote OR freelance )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4464049157",
+            "title": "AI/ML Engineer",
+            "description": "Working with a strategic advisory and technology firm that partners with companies on high\\-impact transformation and technology initiatives. They collaborate closely with executive and technology leaders to solve complex problems, identify opportunities, and turn strategy into working solutions, building production\\-grade AI systems for enterprises.\n   \n\n  \n\n The Role\n   \n\n  \n\n* Design and build production\\-grade AI and machine learning systems\n* Develop RAG, semantic search, embeddings, retrieval, and knowledge systems\n* Integrate AI capabilities into existing enterprise applications and systems\n* Evaluate models, architectures, and tooling based on business and technical requirements\n* Optimize AI systems for reliability, latency, scalability, and cost\n* Own technical work from initial design through production delivery\n\n\n What You'll Need\n   \n\n  \n\n* Strong professional software engineering experience with ownership of production engineering work\n* Demonstrated experience building and shipping AI, LLM, or machine learning systems in production\n* Strong Python development skills\n* Hands\\-on experience with leading LLMs and foundation model platforms\n* Experience with RAG, embeddings, vector search, semantic retrieval, and context management\n* Experience deploying and operating production workloads in AWS, Azure, or Google Cloud\n\n\n What's On Offer\n   \n\n  \n\n* Competitive hourly compensation based on experience\n* Remote work within the United States\n* Work on complex, production\\-grade enterprise AI initiatives\n* Collaborate with experienced engineers, architects, and delivery leaders\n\n\n Apply via Haystack today!",
+            "tags": [
+                "AI/ML",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Haystack",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 3,
+            "query_used": "( \"AI Developer\" OR \"Automation Engineer\" OR LangChain ) AND ( \"AI Voice Assistant\" OR \"Resume Analyzer\" OR \"scalable solutions\" ) AND ( Python OR JavaScript ) AND ( remote OR freelance )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4462937562",
+            "title": "Remote Senior Backend Engineer (Python/FastAPI)",
+            "description": "**About Us:** \n\n\n\n\n Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high\\-quality data, advanced training pipelines, plus top AI researchers who specialize in software engineering, logical reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P\\&L.\n \n\n\n\n  \n\n\n\n\n\n**Ideal Background:** \n\n\n\n\n This role is ideal for engineers who have built production systems at companies like Google, Microsoft, Apple, Amazon, Meta, or similar high\\-scale engineering organizations. We especially welcome graduates from top computer science programs such as Stanford, MIT, Carnegie Mellon, UC Berkeley, Georgia Tech, and comparable institutions — though exceptional experience and skill always take precedence over pedigree.\n \n\n\n\n  \n\n\n\n\n\n**Project Overview:** \n\n\n\n\n As a Software Engineering evaluator, you will create cutting\\-edge datasets for training, benchmarking, and advancing large language models, collaborating closely with researchers. This includes curating code examples, providing precise solutions, and making corrections — with a primary focus on Python across backend services, data pipelines, and ML infrastructure, alongside JavaScript (including ReactJS), C/C\\+\\+, Java, Rust, and Go. You will evaluate and refine AI\\-generated code for efficiency, scalability, and reliability, and work with cross\\-functional teams to enhance enterprise\\-level AI\\-driven coding solutions.\n \n\n\n\n  \n\n\n\n\n\n**What Does a Typical Day Look Like?** \n\n\n\n* Work on AI model training initiatives by curating code examples, building solutions, and correcting code — primarily ",
+            "tags": [
+                "Remote",
+                "Senior",
+                "Backend",
+                "Engineer",
+                "(Python/FastAPI)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Turing",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "Chicago, IL",
+            "query_index": 3,
+            "query_used": "( \"AI Developer\" OR \"Automation Engineer\" OR LangChain ) AND ( \"AI Voice Assistant\" OR \"Resume Analyzer\" OR \"scalable solutions\" ) AND ( Python OR JavaScript ) AND ( remote OR freelance )"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4462936630",
+            "title": "Remote Senior Python Engineer",
+            "description": "**About Us:** \n\n\n\n\n Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high\\-quality data, advanced training pipelines, plus top AI researchers who specialize in software engineering, logical reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P\\&L.\n \n\n\n\n  \n\n\n\n\n\n**Ideal Background:** \n\n\n\n\n This role is ideal for engineers who have built production systems at companies like Google, Microsoft, Apple, Amazon, Meta, or similar high\\-scale engineering organizations. We especially welcome graduates from top computer science programs such as Stanford, MIT, Carnegie Mellon, UC Berkeley, Georgia Tech, and comparable institutions — though exceptional experience and skill always take precedence over pedigree.\n \n\n\n\n  \n\n\n\n\n\n**Project Overview:** \n\n\n\n\n As a Software Engineering evaluator, you will create cutting\\-edge datasets for training, benchmarking, and advancing large language models, collaborating closely with researchers. This includes curating code examples, providing precise solutions, and making corrections — with a primary focus on Python across backend services, data pipelines, and ML infrastructure, alongside JavaScript (including ReactJS), C/C\\+\\+, Java, Rust, and Go. You will evaluate and refine AI\\-generated code for efficiency, scalability, and reliability, and work with cross\\-functional teams to enhance enterprise\\-level AI\\-driven coding solutions.\n \n\n\n\n  \n\n\n\n\n\n**What Does a Typical Day Look Like?** \n\n\n\n* Work on AI model training initiatives by curating code examples, building solutions, and correcting code — primarily ",
+            "tags": [
+                "Remote",
+                "Senior",
+                "Python",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Turing",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "query_index": 3,
+            "query_used": "( \"AI Developer\" OR \"Automation Engineer\" OR LangChain ) AND ( \"AI Voice Assistant\" OR \"Resume Analyzer\" OR \"scalable solutions\" ) AND ( Python OR JavaScript ) AND ( remote OR freelance )"
         }
     ]
 }

@@ -14,10 +14,10 @@ JOB_RESULTS_CACHE = os.path.join(ROOT_DIR, "job_results_cache.json")
 # Pipeline steps in order. check_db.py is intentionally excluded --
 # it's treated as a standalone debug/inspection tool, not part of the run.
 PIPELINE_STEPS = [
-    ("Query Generation", os.path.join(CORE_DIR, "query-generation.py")),
-    ("Job Search", os.path.join(CORE_DIR, "job-search.py")),
     ("Parser", os.path.join(CORE_DIR, "parser.py")),
     ("Chroma Store", os.path.join(DATA_DIR, "chroma_store.py")),
+    ("Query Generation", os.path.join(CORE_DIR, "query-generation.py")),
+    ("Job Search", os.path.join(CORE_DIR, "job-search.py")),
 ]
 
 
