@@ -2,6 +2,7 @@ import os
 import sys
 import json
 import re
+import time
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -10,6 +11,7 @@ from dotenv import load_dotenv
 load_dotenv(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".env")))
 
 from google import genai
+from google.genai.errors import ServerError
 
 # 1. Import extraction and chunking directly from parser.py
 from parser import extract_raw_text, chunk_cv_data
@@ -20,31 +22,44 @@ from Data.chroma_store import store_cv_in_chroma
 
 
 def organize_with_gemini(chunks: list[str]) -> dict:
-    """Uses Google Gemini Flash to read chunks and structure them into clean multi-line JSON."""
+    """Uses Google Gemini 3.5 Flash-Lite to read chunks and structure them into clean multi-line JSON with auto-retry."""
     combined_text = "\n\n".join(chunks)
 
     print("[*] Initializing Google GenAI client...")
-    client = genai.Client() # Now automatically finds GEMINI_API_KEY from the loaded .env file
+    client = genai.Client()
 
-    prompt = f"""
-    You are an expert data extractor and resume parser. Read the resume text below carefully and extract the real applicant data into a strict JSON object.
-    You must categorize the information into these EXACT keys: 
-    "personal_info", "skills", "projects", "about_me", and "internships_and_experience".
-    
-    Do not use placeholder terms. Extract the actual real details present in the text.
-    Return ONLY valid JSON. Do not include markdown code block formatting like ```json or any extra conversational text.
+    prompt = f"""You are an expert data extractor and resume parser. Read the resume text below carefully and extract the real applicant data into a strict JSON object.
+You must categorize the information into these EXACT keys: 
+"personal_info", "skills", "projects", "about_me", and "internships_and_experience".
 
-    Resume Text:
-    {combined_text}
-    """
+STRICT RULES:
+1. Extract ONLY information explicitly present in the text below. 
+2. Do NOT invent, assume, or add any data, skills, or experiences that are not written in the text.
+3. If a section or data point is missing from the resume, leave its value as an empty string ("") or empty list ([]). Do not use placeholder terms.
+4. Return ONLY valid JSON. Do not include markdown code block formatting like ```json or any extra conversational text.
 
-    print("[*] Sending text to Gemini Flash for clean organization...")
-    response = client.models.generate_content(
-        model='gemini-2.5-flash',
-        contents=prompt,
-    )
+Resume Text:
+{combined_text}"""
 
-    raw_response = response.text.strip()
+    max_retries = 3
+    delay = 3  # seconds
+
+    for attempt in range(1, max_retries + 1):
+        try:
+            print(f"[*] Sending text to Gemini 3.5 Flash-Lite (Attempt {attempt}/{max_retries})...")
+            response = client.models.generate_content(
+                model='gemini-3.5-flash-lite',  # Updated to the new active model ID
+                contents=prompt,
+            )
+            raw_response = response.text.strip()
+            break
+        except ServerError as e:
+            if attempt == max_retries:
+                print(f"[!] Server error persists after {max_retries} attempts.")
+                raise e
+            print(f"[!] Model experiencing high demand (503). Retrying in {delay} seconds...")
+            time.sleep(delay)
+            delay *= 2  # Exponential backoff
 
     # Clean markdown code blocks if Gemini includes them
     clean_json_str = re.sub(r'```(?:json)?\s*([\s\S]*?)\s*```', r'\1', raw_response).strip()
@@ -85,7 +100,7 @@ if __name__ == "__main__":
     raw_text = extract_raw_text(pdf_file_path)
     raw_chunks = chunk_cv_data(raw_text)
 
-    # Structure data using Gemini Flash
+    # Structure data using Gemini 3.5 Flash-Lite
     structured_json = organize_with_gemini(raw_chunks)
 
     print(f"[*] Saving structured data to temporary JSON: {temp_json_path}")
