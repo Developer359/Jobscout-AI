@@ -1,7 +1,8 @@
 {
+    "source": "temp_organized_resume.json -> skills (short & popular)",
     "queries": [
-        "( \"AI Engineering\" OR \"AI Developer\" ) AND ( Python OR LangChain ) AND ( automation OR \"scalable solutions\" ) AND ( remote OR freelance OR \"contractor\" )",
-        "( (React OR Next.js) AND (AI OR Python OR LangChain) AND \"web application\" ) AND ( remote OR freelance OR \"contract position\" )",
-        "( \"AI Developer\" OR \"Automation Engineer\" OR LangChain ) AND ( \"AI Voice Assistant\" OR \"Resume Analyzer\" OR \"scalable solutions\" ) AND ( Python OR JavaScript ) AND ( remote OR freelance )"
+        "(\"Full Stack\" OR Fullstack) AND (\"Next.js\" OR React) AND (\"Node.js\" OR Express)",
+        "(\"React Native\" OR Next.js OR React) AND (Tailwind OR TypeScript)",
+        "(\"Node.js\" OR Express OR Python) AND (MongoDB OR Supabase) AND (API OR Backend)"
     ]
 }
