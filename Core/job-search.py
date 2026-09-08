@@ -16,13 +16,12 @@ CACHE_FILE = os.path.abspath(os.path.join(os.path.dirname(__file__), "../query_c
 OUTPUT_FILE = os.path.abspath(os.path.join(os.path.dirname(__file__), "../job_results_cache.json"))
 
 MAX_AGE_DAYS = 2
-HOURS_OLD = MAX_AGE_DAYS * 24  # jobspy filters server-side by hours, not a text guess
+HOURS_OLD = MAX_AGE_DAYS * 24  # jobspy filters server-side by hours
 
-# Sites jobspy can query directly. LinkedIn/Indeed rate-limit aggressively without
-# proxies -- if you see partial results, that's the site throttling, not a bug here.
-SITES = ["indeed", "linkedin", "zip_recruiter", "glassdoor"]
+# Focused strictly on the two most trusted and popular sites to avoid broker errors
+SITES = ["indeed", "linkedin"]
 
-RESULTS_WANTED_PER_SITE = 15  # per site, per query -- jobspy trims/dedupes internally too
+RESULTS_WANTED_PER_SITE = 15  # per site, per query
 
 
 def load_and_prepare_queries() -> list[str]:
@@ -59,10 +58,7 @@ def days_since(posted) -> int | None:
 
 
 def safe_str(value, default: str = "") -> str:
-    """pandas represents missing values as NaN (a float), not None or "" --
-    truthiness checks and .get(key, default) both miss it, since NaN is
-    truthy. This is what was crashing your description slice and printing
-    'nan' as a literal company name."""
+    """pandas represents missing values as NaN (a float), not None or ""."""
     if value is None or pd.isna(value):
         return default
     return str(value)
@@ -87,7 +83,7 @@ def execute_job_search(queries: list[str], location: str = "", is_remote: bool =
     all_jobs = []
     seen_urls = set()
 
-    print(f"--- Searching {len(queries)} queries across {SITES} | max age: {MAX_AGE_DAYS} days ---")
+    print(f"--- Searching {len(queries)} queries across trusted sites: {SITES} | max age: {MAX_AGE_DAYS} days ---")
 
     for i, query in enumerate(queries):
         print(f"\n[Query {i+1}/{len(queries)}] {query}")
@@ -101,8 +97,7 @@ def execute_job_search(queries: list[str], location: str = "", is_remote: bool =
                 hours_old=HOURS_OLD,
                 country_indeed="USA",
                 description_format="markdown",
-                linkedin_fetch_description=True,  # LinkedIn only returns a snippet
-                # unless this is set -- without it, jobspy leaves `description` blank.
+                linkedin_fetch_description=True,  # Necessary for LinkedIn full descriptions
             )
         except Exception as e:
             print(f"  -> Error on query {i+1}: {e}")
@@ -119,8 +114,6 @@ def execute_job_search(queries: list[str], location: str = "", is_remote: bool =
                 continue
 
             age_days = days_since(row.get("date_posted"))
-            # jobspy's hours_old already filters server-side, but double check
-            # locally in case a site rounds "old" postings up to today.
             if age_days is not None and age_days > MAX_AGE_DAYS:
                 continue
 
@@ -134,8 +127,6 @@ def execute_job_search(queries: list[str], location: str = "", is_remote: bool =
             tags = [w for w in title.split() if len(w) > 3]
             pay_info = format_pay(row)
 
-            # Field order matches the requested output shape:
-            # link, title, description, tags, price info, company name, website name.
             job_entry = {
                 "url": url,
                 "title": title,
@@ -152,12 +143,12 @@ def execute_job_search(queries: list[str], location: str = "", is_remote: bool =
             all_jobs.append(job_entry)
             desc_preview = description[:150].replace("\n", " ") + ("..." if len(description) > 150 else "")
             print(f"  [{count_for_query}] {job_entry['title']}")
-            print(f"       Link: {job_entry['url']}")
-            print(f"       Description: {desc_preview}")
-            print(f"       Tags: {', '.join(tags) if tags else 'None'}")
-            print(f"       Pay: {pay_info}")
-            print(f"       Company: {company_name}")
-            print(f"       Site: {website_name}")
+            print(f"      Link: {job_entry['url']}")
+            print(f"      Description: {desc_preview}")
+            print(f"      Tags: {', '.join(tags) if tags else 'None'}")
+            print(f"      Pay: {pay_info}")
+            print(f"      Company: {company_name}")
+            print(f"      Site: {website_name}")
 
         print(f"  -> {count_for_query} fresh job(s) kept from this query.")
 
