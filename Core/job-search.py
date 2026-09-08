@@ -24,7 +24,7 @@ SITES = ["indeed", "linkedin"]
 RESULTS_WANTED_PER_SITE = 15  # per site, per query
 
 
-def load_and_prepare_queries() -> list[str]:
+def load_and_prepare_queries() -> list[dict]:
     target_file = CACHE_FILE
     if not os.path.exists(target_file):
         target_file = "query_cache.json"
@@ -36,9 +36,21 @@ def load_and_prepare_queries() -> list[str]:
 
     with open(target_file, "r") as f:
         data = json.load(f)
-        queries = data.get("queries", [])
+        queries_data = data.get("queries", [])
 
-    return [q.strip() for q in queries[:3] if q.strip()]
+    formatted_queries = []
+    for item in queries_data[:3]:
+        if isinstance(item, dict):
+            q = item.get("query", "").strip()
+            j_type = item.get("job_type", "Junior").strip()
+            if q:
+                formatted_queries.append({"query": q, "job_type": j_type})
+        elif isinstance(item, str):
+            q = item.strip()
+            if q:
+                formatted_queries.append({"query": q, "job_type": "Junior"})
+
+    return formatted_queries
 
 
 def days_since(posted) -> int | None:
@@ -79,14 +91,16 @@ def format_pay(row) -> str:
     return f"{pay_str} / {interval}".strip(" /") if interval else pay_str
 
 
-def execute_job_search(queries: list[str], location: str = "", is_remote: bool = True):
+def execute_job_search(query_items: list[dict], location: str = "", is_remote: bool = True):
     all_jobs = []
     seen_urls = set()
 
-    print(f"--- Searching {len(queries)} queries across trusted sites: {SITES} | max age: {MAX_AGE_DAYS} days ---")
+    print(f"--- Searching {len(query_items)} queries across trusted sites: {SITES} | max age: {MAX_AGE_DAYS} days ---")
 
-    for i, query in enumerate(queries):
-        print(f"\n[Query {i+1}/{len(queries)}] {query}")
+    for i, item in enumerate(query_items):
+        query = item["query"]
+        job_type = item["job_type"]
+        print(f"\n[Query {i+1}/{len(query_items)}] [{job_type}] {query}")
         try:
             jobs_df = scrape_jobs(
                 site_name=SITES,
@@ -137,12 +151,13 @@ def execute_job_search(queries: list[str], location: str = "", is_remote: bool =
                 "website_name": website_name,
                 "posted_days_ago": age_days,
                 "location": safe_str(row.get("location")),
+                "job_type": job_type,
                 "query_index": i + 1,
                 "query_used": query,
             }
             all_jobs.append(job_entry)
             desc_preview = description[:150].replace("\n", " ") + ("..." if len(description) > 150 else "")
-            print(f"  [{count_for_query}] {job_entry['title']}")
+            print(f"  [{count_for_query}] [{job_type}] {job_entry['title']}")
             print(f"      Link: {job_entry['url']}")
             print(f"      Description: {desc_preview}")
             print(f"      Tags: {', '.join(tags) if tags else 'None'}")
