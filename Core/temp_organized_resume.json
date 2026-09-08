@@ -86,7 +86,11 @@
             "role": "Fullstack Developer",
             "company": "AR Swift - Fasilabad",
             "date": "Jan-Aprial-2026",
-            "description": "Developed responsive web applications using Next.js and Framer, enhancing user experience and functionality. Collaborated with cross-functional teams to design, develop, and implement full-stack solutions following Agile methodologies. Implemented RESTful APIs and integrated third-party services to streamline backend operations."
+            "description": [
+                "Developed responsive web applications using Next.js and Framer, enhancing user experience and functionality.",
+                "Collaborated with cross-functional teams to design, develop, and implement full-stack solutions following Agile methodologies.",
+                "Implemented RESTful APIs and integrated third-party services to streamline backend operations."
+            ]
         }
     ]
 }
