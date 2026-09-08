@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JobScout-AI Documentation</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="logo.svg" type="image/svg+xml">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="layout">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <img src="logo.svg" alt="JobScout-AI Logo" class="logo-small">
+                <span class="platform-title">JobScout-AI</span>
+            </div>
+
+            <nav class="sidebar-nav">
+                <ul class="nav-group">
+                    <li><a href="#overview"><i class="fa-regular fa-star"></i> Overview</a></li>
+                    <li><a href="#installation"><i class="fa-regular fa-star"></i> Installation</a></li>
+                    <li><a href="#usage"><i class="fa-regular fa-star"></i> Usage</a></li>
+                </ul>
+
+                <h3 class="nav-category">PIPELINE STEPS</h3>
+                <ul class="nav-group">
+                    <li><a href="#parser">1. Parser</a></li>
+                    <li><a href="#vlm">2. VLM Analysis</a></li>
+                    <li><a href="#chroma">3. Chroma Store</a></li>
+                    <li><a href="#query">4. Query Generation</a></li>
+                    <li><a href="#search">5. Job Search</a></li>
+                </ul>
+
+                <h3 class="nav-category">RESOURCES</h3>
+                <ul class="nav-group">
+                    <li><a href="#configuration">Configuration (.env)</a></li>
+                    <li><a href="#data-structure">Data Directory</a></li>
+                </ul>
+            </nav>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Header -->
+            <header class="top-header">
+                <div class="menu-toggle" id="menu-toggle">
+                    <i class="fa-solid fa-bars"></i>
+                </div>
+                <div class="search-bar">
+                    <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                    <input type="text" id="search-input" placeholder="Search documentation...">
+                </div>
+            </header>
+
+            <!-- Page Content -->
+            <div class="content-container">
+                <div class="content-inner">
+                    <!-- Hero Section -->
+                    <div class="hero-section text-center">
+                        <img src="logo.svg" alt="JobScout-AI Main Logo" class="hero-image">
+                        <h1 class="hero-title">JobScout-AI</h1>
+                        <p class="hero-subtitle">An agentic AI job search pipeline powered by Groq/Gemini, LangChain,
+                            and Chroma DB.</p>
+
+                        <div class="action-buttons">
+                            <a href="#installation" class="btn btn-primary">Get Started <i
+                                    class="fa-solid fa-chevron-right"></i></a>
+                            <a href="https://github.com" class="btn btn-secondary">View on GitHub</a>
+                        </div>
+                    </div>
+
+                    <!-- Featured Cards Section -->
+                    <div class="feature-cards">
+                        <div class="card">
+                            <i class="fa-solid fa-wand-magic-sparkles card-icon"></i>
+                            <h3 class="card-title">Automated Parsing</h3>
+                            <p class="card-desc">Extracts text from candidate CVs (.pdf, .docx) using PyPDF and
+                                processes it efficiently.</p>
+                            <a href="#parser" class="card-link">Learn more <i class="fa-solid fa-chevron-right"></i></a>
+                        </div>
+                        <div class="card">
+                            <i class="fa-solid fa-wand-magic-sparkles card-icon"></i>
+                            <h3 class="card-title">Real-time Search</h3>
+                            <p class="card-desc">Executes intelligent, real-time job searches via the Tavily API based
+                                on LLM-generated queries.</p>
+                            <a href="#search" class="card-link">Learn more <i class="fa-solid fa-chevron-right"></i></a>
+                        </div>
+                    </div>
+
+                    <!-- Main Documentation Sections -->
+                    <section id="overview" class="doc-section">
+                        <h2>Overview</h2>
+                        <p>JobScout-AI is a comprehensive command-line tool that automates the job search process by
+                            matching candidate CVs against real-time job postings. It utilizes a robust pipeline
+                            consisting of document parsing, Vector Language Model (VLM) understanding, vector embeddings
+                            (Chroma DB), and agentic search generation.</p>
+                    </section>
+
+                    <section id="installation" class="doc-section">
+                        <h2>Installation</h2>
+                        <p>Follow these steps to set up JobScout-AI locally on your machine.</p>
+
+                        <h3>Dependencies (requirements.txt)</h3>
+                        <p>Create a file named <code>requirements.txt</code> in your project root and copy-paste the following exact libraries that the project needs:</p>
+                        <div class="code-block">
+                            <pre><code>pymupdf
+google-genai
+chromadb
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+python-jobspy
+pandas
+python-dotenv
+sentence-transformers</code></pre>
+                        </div>
+
+                        <h3>Step-by-step Setup</h3>
+                        <div class="code-block">
+                            <pre><code># 1. Clone the repository
+git clone https://github.com/yourusername/jobscout-ai.git
+cd jobscout-ai
+
+# 2. Create a virtual environment (highly recommended)
+python -m venv venv
+
+# On Windows use: 
+venv\Scripts\activate
+# On Mac/Linux use: 
+source venv/bin/activate 
+
+# 3. Install the exact required packages
+pip install -r requirements.txt</code></pre>
+                        </div>
+                    </section>
+
+                    <section id="configuration" class="doc-section">
+                        <h2>Configuration</h2>
+                        <p>Create a <code>.env</code> file in the root directory (<code>jobscout-ai/</code>) and add
+                            your private API keys:</p>
+                        <div class="code-block">
+                            <pre><code>GEMINI_API_KEY=your_gemini_api_key_here</code></pre>
+                        </div>
+                    </section>
+
+                    <section id="usage" class="doc-section">
+                        <h2>Usage</h2>
+                        <p>To run the full pipeline, place your target candidate CVs (PDFs or DOCX) into the
+                            <code>Data/inputs/</code> directory.</p>
+                        <p>Then, simply execute the main orchestrator script:</p>
+                        <div class="code-block">
+                            <pre><code>python main.py</code></pre>
+                        </div>
+                        <p>The application will process the CVs, generate queries, search for jobs, and save the
+                            generated markdown reports into the <code>Data/outputs/</code> directory.</p>
+                    </section>
+
+                    <hr style="margin: 48px 0; border: none; border-top: 1px solid var(--border-color);">
+
+                    <section id="parser" class="doc-section">
+                        <h2>1. Parser</h2>
+                        <p>The first step in the JobScout-AI pipeline is extracting text from candidate CVs.</p>
+                        <h3>Overview</h3>
+                        <p>This module reads `.pdf` and `.docx` files from the <code>Data/inputs/</code> directory and
+                            converts them into raw text for further processing.</p>
+                        <h3>What is used</h3>
+                        <p>We utilize <code>pymupdf</code> for efficient and accurate text extraction from PDF documents, and <code>langchain-text-splitters</code> for chunking.</p>
+                    </section>
+
+                    <section id="vlm" class="doc-section">
+                        <h2>2. VLM Analysis</h2>
+                        <p>Once the text is extracted, it is analyzed by a Vector Language Model (VLM).</p>
+                        <h3>Overview</h3>
+                        <p>The model understands the semantic meaning of the candidate's experience, skills, and
+                            qualifications, preparing it for vectorization.</p>
+                        <h3>What is used</h3>
+                        <p>Powered by the <code>google-genai</code> SDK using Gemini Flash-Lite to process and structure the unstructured CV data.</p>
+                    </section>
+
+                    <section id="chroma" class="doc-section">
+                        <h2>3. Chroma Store</h2>
+                        <p>The structured data is embedded and stored in a local vector database.</p>
+                        <h3>Overview</h3>
+                        <p>This allows for fast semantic similarity searches when matching candidates to job
+                            requirements.</p>
+                        <h3>What is used</h3>
+                        <p><code>Chroma DB</code> for local storage, and <code>langchain-huggingface</code> for embeddings.</p>
+                    </section>
+
+                    <section id="query" class="doc-section">
+                        <h2>4. Query Generation</h2>
+                        <p>The AI generates targeted job search queries based on the candidate's profile.</p>
+                        <h3>Overview</h3>
+                        <p>Instead of basic keyword searches, the agent formulates complex queries that capture the
+                            nuances of the candidate's ideal role.</p>
+                    </section>
+
+                    <section id="search" class="doc-section">
+                        <h2>5. Job Search</h2>
+                        <p>The generated queries are executed against real-time job boards.</p>
+                        <h3>Overview</h3>
+                        <p>The system retrieves current, relevant job postings from Indeed and LinkedIn that match the candidate's profile.</p>
+                        <h3>What is used</h3>
+                        <p><code>python-jobspy</code> is used to execute web scraping tailored for job discovery, and <code>pandas</code> handles data structure.</p>
+                    </section>
+
+                    <section id="data-structure" class="doc-section">
+                        <h2>Data Directory</h2>
+                        <p>The <code>Data/</code> directory is used for local file storage and should not be committed
+                            to version control.</p>
+                        <ul>
+                            <li><code>Data/inputs/</code>: Place candidate CVs here.</li>
+                            <li><code>Data/outputs/</code>: Markdown reports are generated here.</li>
+                            <li><code>Data/chroma_db/</code>: Persistent storage for the vector database.</li>
+                        </ul>
+                    </section>
+
+                </div>
+            </div>
+
+            <footer>
+                <p>&copy; 2026 JobScout-AI. Built with a minimal documentation theme.</p>
+            </footer>
+        </main>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
