@@ -362,6 +362,46 @@ a {
     margin-bottom: 8px;
 }
 
+.doc-section ul li {
+    margin-bottom: 12px;
+    padding-left: 20px;
+    position: relative;
+    line-height: 1.5;
+    color: #444;
+}
+
+.doc-section ul li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 9px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: var(--text-secondary);
+}
+
+.lib-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background-color: #f1f8ff;
+    color: #0366d6;
+    padding: 2px 8px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    margin-left: 8px;
+    border: 1px solid #c8e1ff;
+    transition: all 0.2s ease;
+}
+
+.lib-link:hover {
+    background-color: #def;
+    border-color: #79b8ff;
+}
+
 .code-block {
     background-color: var(--search-bg);
     border-radius: 6px;

@@ -95,10 +95,9 @@
                     <!-- Main Documentation Sections -->
                     <section id="overview" class="doc-section">
                         <h2>Overview</h2>
-                        <p>JobScout-AI is a comprehensive command-line tool that automates the job search process by
-                            matching candidate CVs against real-time job postings. It utilizes a robust pipeline
-                            consisting of document parsing, Vector Language Model (VLM) understanding, vector embeddings
-                            (Chroma DB), and agentic search generation.</p>
+                        <p>JobScout-AI is a comprehensive, agentic AI-driven system designed to completely automate and supercharge the job search process. Rather than relying on rigid keyword matching, JobScout-AI understands the semantic depth of a candidate's profile to discover highly relevant, real-time job postings.</p>
+                        <p><strong>The Core Problem:</strong> Traditional job hunting is tedious. Candidates spend hours scanning through job boards, filtering out irrelevant roles, and trying to match their unique skills against vague job descriptions. Standard keyword search often misses excellent opportunities hidden behind different terminology.</p>
+                        <p><strong>The Solution:</strong> By leveraging state-of-the-art Vector Language Models (VLMs) and embedding databases, JobScout-AI transforms a simple PDF resume into a dynamic, searchable vector. The AI agent acts as a personal recruiter: it reads your resume, understands your career trajectory, generates intelligent queries tailored to your profile, and scrapes the web (Indeed, LinkedIn) to find roles that perfectly align with your experience and aspirations.</p>
                     </section>
 
                     <section id="installation" class="doc-section">
@@ -141,11 +140,14 @@ pip install -r requirements.txt</code></pre>
 
                     <section id="configuration" class="doc-section">
                         <h2>Configuration</h2>
-                        <p>Create a <code>.env</code> file in the root directory (<code>jobscout-ai/</code>) and add
-                            your private API keys:</p>
+                        <p>To securely manage your API keys, the project uses a local <code>.env</code> file. Create a file named exactly <code>.env</code> in the root directory (<code>jobscout-ai/</code>) and add your keys:</p>
                         <div class="code-block">
                             <pre><code>GEMINI_API_KEY=your_gemini_api_key_here</code></pre>
                         </div>
+                        <h3>Libraries & Downloads</h3>
+                        <ul>
+                            <li><strong>Python Dotenv:</strong> Used to securely load environment variables from the `.env` file into your Python application. <a href="https://pypi.org/project/python-dotenv/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                        </ul>
                     </section>
 
                     <section id="usage" class="doc-section">
@@ -164,49 +166,61 @@ pip install -r requirements.txt</code></pre>
 
                     <section id="parser" class="doc-section">
                         <h2>1. Parser</h2>
-                        <p>The first step in the JobScout-AI pipeline is extracting text from candidate CVs.</p>
+                        <p>The first critical step in the JobScout-AI pipeline is reliably extracting unstructured text from candidate CVs.</p>
                         <h3>Overview</h3>
-                        <p>This module reads `.pdf` and `.docx` files from the <code>Data/inputs/</code> directory and
-                            converts them into raw text for further processing.</p>
-                        <h3>What is used</h3>
-                        <p>We utilize <code>pymupdf</code> for efficient and accurate text extraction from PDF documents, and <code>langchain-text-splitters</code> for chunking.</p>
+                        <p>This module scans the <code>Data/inputs/</code> directory for user resumes (supporting `.pdf` and `.docx` formats). It carefully reads the document layer by layer, extracting raw text while maintaining the original flow. Once the raw text is extracted, it intelligently chunks the document into smaller, semantically meaningful segments so that the VLM can process the data without exceeding context windows.</p>
+                        <h3>Libraries & Downloads</h3>
+                        <ul>
+                            <li><strong>PyMuPDF:</strong> High-performance library for PDF rendering and text extraction. <a href="https://pypi.org/project/PyMuPDF/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                            <li><strong>LangChain Text Splitters:</strong> Used specifically for the <code>RecursiveCharacterTextSplitter</code> to chunk text efficiently. <a href="https://pypi.org/project/langchain-text-splitters/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                        </ul>
                     </section>
 
                     <section id="vlm" class="doc-section">
                         <h2>2. VLM Analysis</h2>
-                        <p>Once the text is extracted, it is analyzed by a Vector Language Model (VLM).</p>
+                        <p>Once the raw text is extracted, it is passed to a powerful Vector Language Model (VLM) for deep semantic structuring.</p>
                         <h3>Overview</h3>
-                        <p>The model understands the semantic meaning of the candidate's experience, skills, and
-                            qualifications, preparing it for vectorization.</p>
-                        <h3>What is used</h3>
-                        <p>Powered by the <code>google-genai</code> SDK using Gemini Flash-Lite to process and structure the unstructured CV data.</p>
+                        <p>Raw text is messy. The VLM agent takes the chaotic chunks of resume text and uses a highly constrained prompt to restructure it into a strict JSON format. It categorizes the text into explicit fields like <code>personal_info</code>, <code>skills</code>, <code>projects</code>, and <code>experience</code>. This guarantees that the downstream embedding process has clean, normalized data to work with.</p>
+                        <h3>Libraries & Downloads</h3>
+                        <ul>
+                            <li><strong>Google GenAI:</strong> The official Google SDK used to connect to the Gemini Flash-Lite model for ultra-fast, structured JSON generation. <a href="https://pypi.org/project/google-genai/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                        </ul>
                     </section>
 
                     <section id="chroma" class="doc-section">
                         <h2>3. Chroma Store</h2>
-                        <p>The structured data is embedded and stored in a local vector database.</p>
+                        <p>The structured CV sections are converted into high-dimensional vectors and stored locally.</p>
                         <h3>Overview</h3>
-                        <p>This allows for fast semantic similarity searches when matching candidates to job
-                            requirements.</p>
-                        <h3>What is used</h3>
-                        <p><code>Chroma DB</code> for local storage, and <code>langchain-huggingface</code> for embeddings.</p>
+                        <p>By embedding the resume data into a local ChromaDB instance, the system creates a "memory" of the candidate. This persistent vector store allows the agent to perform blazing-fast semantic similarity searches. When a job description is evaluated later, the system can instantly measure the mathematical distance between the candidate's embedded skills and the job's requirements.</p>
+                        <h3>Libraries & Downloads</h3>
+                        <ul>
+                            <li><strong>ChromaDB:</strong> The open-source embedding database for building AI applications locally. <a href="https://pypi.org/project/chromadb/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                            <li><strong>LangChain HuggingFace:</strong> Wrapper to easily use HuggingFace embedding models locally without external API calls. <a href="https://pypi.org/project/langchain-huggingface/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                            <li><strong>Sentence Transformers:</strong> The underlying engine required to compute the dense vector embeddings locally. <a href="https://pypi.org/project/sentence-transformers/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                        </ul>
                     </section>
 
                     <section id="query" class="doc-section">
                         <h2>4. Query Generation</h2>
-                        <p>The AI generates targeted job search queries based on the candidate's profile.</p>
+                        <p>The AI generates highly targeted job search queries based entirely on the parsed candidate profile.</p>
                         <h3>Overview</h3>
-                        <p>Instead of basic keyword searches, the agent formulates complex queries that capture the
-                            nuances of the candidate's ideal role.</p>
+                        <p>Instead of relying on the user to guess the best search terms, the AI agent dynamically formulates complex, optimized search queries. It looks at the candidate's seniority, core technologies, and industry experience to generate strings like <em>"Junior Python Backend Developer React"</em>. This ensures the scraping phase is highly effective.</p>
+                        <h3>Libraries & Downloads</h3>
+                        <ul>
+                            <li><strong>Google GenAI:</strong> Used again to orchestrate the prompt logic that converts candidate JSON into optimized search terms. <a href="https://pypi.org/project/google-genai/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                        </ul>
                     </section>
 
                     <section id="search" class="doc-section">
                         <h2>5. Job Search</h2>
-                        <p>The generated queries are executed against real-time job boards.</p>
+                        <p>The generated queries are executed against real-time job boards to fetch live opportunities.</p>
                         <h3>Overview</h3>
-                        <p>The system retrieves current, relevant job postings from Indeed and LinkedIn that match the candidate's profile.</p>
-                        <h3>What is used</h3>
-                        <p><code>python-jobspy</code> is used to execute web scraping tailored for job discovery, and <code>pandas</code> handles data structure.</p>
+                        <p>Using the optimized queries, the system scrapes Indeed and LinkedIn simultaneously. It bypasses the need for expensive API keys by parsing the HTML of live job boards directly. It filters out stale jobs (e.g., older than 24 hours), handles pagination, and returns a clean, structured dataframe of fresh opportunities. These jobs are then scored against the candidate's ChromaDB vectors to find the perfect match.</p>
+                        <h3>Libraries & Downloads</h3>
+                        <ul>
+                            <li><strong>Python JobSpy:</strong> A robust, anti-ban scraper designed specifically to extract job listings from LinkedIn, Indeed, Glassdoor, etc. <a href="https://pypi.org/project/python-jobspy/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                            <li><strong>Pandas:</strong> The industry standard for data manipulation, used here to clean, filter, and structure the scraped job data. <a href="https://pypi.org/project/pandas/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                        </ul>
                     </section>
 
                     <section id="data-structure" class="doc-section">

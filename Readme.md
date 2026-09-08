@@ -1,25 +1,95 @@
-jobscout-ai/
-│
-├── core/                   # The brains of your application
-│   ├── __init__.py         # Makes 'core' a Python module
-│   ├── parser.py           # Extracts text from PDFs (pypdf)
-│   ├── vector_store.py     # Handles LangChain chunking and Chroma DB
-│   ├── generator.py        # Prompts the LLM for agentic job search queries
-│   ├── search.py           # Executes real-time searches via Tavily API
-│   └── evaluator.py        # Calculates the match score and reasons the output
-│
-├── data/                   # Local file storage (Keep this out of Git!)
-│   ├── inputs/             # Drop candidate CVs (.pdf, .docx) here
-│   ├── outputs/            # Generated CLI reports/Markdown files save here
-│   └── chroma_db/          # Local persistent storage for your vector database
-│
-├── utils/                  # Helper functions to keep core logic clean
-│   ├── __init__.py
-│   ├── config.py           # Loads and validates .env API keys securely
-│   └── logger.py           # Formats your beautiful CLI/Markdown terminal output
-│
-├── .env                    # Your private API keys (Groq/Gemini, Tavily)
-├── .gitignore              # Ignores 'data/', '.env', and '__pycache__/'
-├── requirements.txt        # pip dependencies (pypdf, langchain, chromadb, etc.)
-├── README.md               # Hackathon documentation and HLD diagram
-└── main.py                 # The orchestrator script that runs the whole pipeline
+<div align="center">
+
+# 🤖 JobScout-AI
+
+**An Agentic AI-Powered Resume Parser, Vector Store, and Automated Job Scraping Pipeline**
+
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+[![Vector Store-ChromaDB-orange](https://img.shields.io/badge/Vector_Store-ChromaDB-orange.svg)](https://www.trychroma.com/)
+[![Scraper-JobSpy-green](https://img.shields.io/badge/Scraper-JobSpy-green.svg)](https://github.com/BullsEyePundit/JobSpy)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+An intelligent, multi-stage pipeline that parses candidate resumes, organizes skills using vision/language capabilities, indexes semantic embeddings in ChromaDB, generates targeted search queries, and scrapes fresh remote tech job opportunities across major platforms.
+
+</div>
+
+---
+
+## 📌 Overview
+
+**JobScout-AI** bridges the gap between candidate resumes and active job board listings. Rather than relying on generic keyword searches, JobScout-AI analyzes candidate credentials, extracts structured skills, stores vector representations for semantic matching, and dynamically formulates search queries filtered by seniority target levels (e.g., *Junior*, *Mid*, *Senior*).
+
+It systematically queries live job aggregators (LinkedIn, Indeed, Google Jobs) using **JobSpy**, enforcing strict age and seniority rules to deliver high-intent, recent opportunities directly into structured local caches.
+
+---
+
+## ✨ Key Features
+
+- 📄 **Smart Resume Parsing**: Extracts structured technical credentials from PDF resumes (`parser.py`).
+- 👁️ **Visual & Semantic Structuring**: Leverages VLM/LLM capabilities to categorize candidate skills into structured domains (`vlm.py`).
+- ⚡ **Vector DB Indexing**: Embeds and indexes resume context into **ChromaDB** for efficient semantic retrieval (`chroma_store.py`).
+- 🎯 **Targeted Query Generation**: Dynamically constructs Boolean search queries mapped to candidate seniority targets (`query-generation.py`).
+- 🔍 **Multi-Platform Web Scraping**: Scrapes active listings across **LinkedIn**, **Indeed**, and **Google Jobs** with real-time freshness filters (`job-search.py`).
+- 🛡️ **Seniority Rules Engine**: Deterministically evaluates candidate seniority and query parameters to filter out mismatched positions.
+- 🔄 **Orchestrated Execution**: Single-command execution via `main.py` with non-destructive, auto-updating cache management.
+
+---
+
+
+📊 job_results_cache.json
+
+| Step | Module | Function / Responsibility |
+| :--- | :--- | :--- |
+| **1** | `Core/parser.py` | Extracts raw text and structure from input PDF resumes. |
+| **2** | `Core/vlm.py` | Processes resume content to extract domain skills into `temp_organized_resume.json`. |
+| **3** | `Data/chroma_store.py` | Generates vector embeddings and stores chunks inside local ChromaDB storage. |
+| **4** | `Core/query-generation.py` | Formulates optimized Boolean search queries linked with target job levels in `query_cache.json`. |
+| **5** | `Core/job-search.py` | Executes multi-site scraping via JobSpy, filtering results by location, age ($\le$ 2 days), and target match. |
+
+---
+## 🏗 System HLD & Pipeline
+
+<img width="1174" height="514" alt="image" src="https://github.com/user-attachments/assets/653821e0-224e-4024-90ec-50dff1d73de9" /> <img width="1196" height="526" alt="image" src="https://github.com/user-attachments/assets/c5f6b3b3-0bba-4821-ac93-5c406995bafc" /> <img width="1093" height="485" alt="image" src="https://github.com/user-attachments/assets/d2fa9a94-d0e5-4373-aa92-89bbdc704f75" />
+
+---
+
+## 🏗 System Architecture
+
+```text
+               ┌───────────────────────┐
+               │    User Resume PDF    │
+               └───────────┬───────────┘
+                           │
+                           ▼
+          ┌─────────────────────────────────┐
+          │   Resume Parser & VLM Module    │
+          └────────────────┬────────────────┘
+                           │
+             ┌─────────────┴─────────────┐
+             ▼                           ▼
+  ┌────────────────────┐      ┌────────────────────┐
+  │ Structured Skills  │      │ Vector Embeddings  │
+  └──────────┬─────────┘      └──────────┬─────────┘
+             │                           │
+             └─────────────┬─────────────┘
+                           │
+                           ▼
+          ┌─────────────────────────────────┐
+          │   LLM Query Generation Engine   │
+          └────────────────┬────────────────┘
+                           │
+                           ▼
+          ┌─────────────────────────────────┐
+          │  Multi-Platform Job Searcher    │
+          │  (LinkedIn, Indeed, Glassdoor)  │
+          └────────────────┬────────────────┘
+                           │
+                           ▼
+          ┌─────────────────────────────────┐
+          │  Structured Output (JSON/Cache) │
+          └─────────────────────────────────┘
+
+  ---
+
+          
+
