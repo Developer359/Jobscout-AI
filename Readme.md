@@ -47,29 +47,49 @@ It systematically queries live job aggregators (LinkedIn, Indeed, Google Jobs) u
 | **5** | `Core/job-search.py` | Executes multi-site scraping via JobSpy, filtering results by location, age ($\le$ 2 days), and target match. |
 
 ---
-
-## 🏗 System Architecture & Pipeline
+## 🏗 System HLD & Pipeline
 
 <img width="1174" height="514" alt="image" src="https://github.com/user-attachments/assets/653821e0-224e-4024-90ec-50dff1d73de9" /> <img width="1196" height="526" alt="image" src="https://github.com/user-attachments/assets/c5f6b3b3-0bba-4821-ac93-5c406995bafc" /> <img width="1093" height="485" alt="image" src="https://github.com/user-attachments/assets/d2fa9a94-d0e5-4373-aa92-89bbdc704f75" />
 
+---
 
-
-
-## 📂 Project Hierarchy
+## 🏗 System Architecture
 
 ```text
-JobScout-AI/
-├── Core/
-│   ├── job-search.py           # Multi-platform job scraper & seniority filter
-│   ├── parser.py               # Resume text extraction utility
-│   ├── query-generation.py    # LLM-driven query builder
-│   ├── resume.pdf              # Input resume file
-│   └── vlm.py                  # Vision-Language model skill structurer
-├── Data/
-│   ├── chroma_store.py         # Vector DB embedding pipeline
-│   └── check_db.py             # ChromaDB inspection/debug tool
-├── utils/                      # Helper scripts and prompt templates
-├── .env                        # Environment configurations (API keys)
-├── .gitignore                  # Git exclusions (Caches, DBs, pycache)
-├── main.py                     # Master execution orchestration entry point
-└── Readme.md                   # Project documentation
+               ┌───────────────────────┐
+               │    User Resume PDF    │
+               └───────────┬───────────┘
+                           │
+                           ▼
+          ┌─────────────────────────────────┐
+          │   Resume Parser & VLM Module    │
+          └────────────────┬────────────────┘
+                           │
+             ┌─────────────┴─────────────┐
+             ▼                           ▼
+  ┌────────────────────┐      ┌────────────────────┐
+  │ Structured Skills  │      │ Vector Embeddings  │
+  └──────────┬─────────┘      └──────────┬─────────┘
+             │                           │
+             └─────────────┬─────────────┘
+                           │
+                           ▼
+          ┌─────────────────────────────────┐
+          │   LLM Query Generation Engine   │
+          └────────────────┬────────────────┘
+                           │
+                           ▼
+          ┌─────────────────────────────────┐
+          │  Multi-Platform Job Searcher    │
+          │  (LinkedIn, Indeed, Glassdoor)  │
+          └────────────────┬────────────────┘
+                           │
+                           ▼
+          ┌─────────────────────────────────┐
+          │  Structured Output (JSON/Cache) │
+          └─────────────────────────────────┘
+
+  ---
+
+          
+
