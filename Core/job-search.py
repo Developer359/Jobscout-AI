@@ -15,7 +15,7 @@ load_dotenv()
 CACHE_FILE = os.path.abspath(os.path.join(os.path.dirname(__file__), "../query_cache.json"))
 OUTPUT_FILE = os.path.abspath(os.path.join(os.path.dirname(__file__), "../job_results_cache.json"))
 
-MAX_AGE_DAYS = 2
+MAX_AGE_DAYS = 1
 HOURS_OLD = MAX_AGE_DAYS * 24  # jobspy filters server-side by hours
 
 # Focused strictly on the two most trusted and popular sites to avoid broker errors

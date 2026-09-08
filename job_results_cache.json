@@ -1,36 +1,19 @@
 {
     "jobs": [
         {
-            "url": "https://www.linkedin.com/jobs/view/4427915070",
-            "title": "Software Engineer",
-            "description": "GitKraken Software Engineer: The AI Problem Solver\n   \n\n  \n\n The Company\n   \n\n  \n\n GitKraken is the developer experience platform of choice for more than 40 million developers and 100,000 organizations globally. Combining built\\-in AI and powerful workflow orchestration, GitKraken empowers development teams to eliminate unnecessary toil, streamline collaboration, and accelerate productivity.\n   \n\n  \n\n GitKraken’s products support developers and engineering teams across desktop, command line, IDE, web, and mobile environments, with integrations across leading Git providers, issue tracking tools, and AI solutions.\n   \n\n  \n\n The Role\n   \n\n  \n\n GitKraken is hiring Full Stack Product Engineers to help build GitKraken Insights, our new engineering intelligence product for software teams.\n   \n\n  \n\n Insights helps engineering leaders understand how work actually moves through their organization: PR flow, DORA metrics, code quality, developer sentiment, AI tool adoption, agent impact, where teams are getting stuck, and how to track spend. It is a brand\\-new product with strong customer interest, which means there is a meaningful product surface to shape and real technical work to do.\n   \n\n  \n\n You will work across React, Go, PostgreSQL, AWS, and GitHub\\-based workflows. This role is for engineers who can take an ambiguous product problem, understand the user's needs, design the technical path, and ship the feature end to end.\n   \n\n  \n\n We are hiring across levels. What matters most is strong engineering judgment, product sense, clear communication, and the ability to build software that real developers and engineering leaders can trust.\n   \n\n  \n\n What You'll Do\n   \n\n  \n\n* Turn ambiguous product ideas into scoped technical plans and working software.\n* Build interfaces that make complex engineering data understandable, trustworthy, and actionable.\n* Help shape a new product area with active customer demand and plenty of room for product judgment.\n* Build full stack product fe",
-            "tags": [
-                "Software",
-                "Engineer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "GitKraken",
-            "website_name": "linkedin",
-            "posted_days_ago": 1,
-            "location": "Scottsdale, AZ",
-            "job_type": "Junior",
-            "query_index": 1,
-            "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4409115524",
-            "title": "Software Engineer 1 - Web Development/Applications",
-            "description": "**Overview**\n We are seeking a full\\-time\n **Software Engineer 1 \\- Web Development/Applications** \n at Garmin's U.S. headquarters in the Greater Kansas City area. In this role, you will have the opportunity to play a key role in the implementation of a new web application.\n   \n\n  \n\n**Essential Functions**\n* Works with Application Analysts to develop/implement unit and system testing processes\n* Reviews existing code, troubleshoots and modifies applications to debug/enhance\n* Identifies/resolves problems of basic scope using proper tools/techniques\n* Interacts with internal/external (non\\-IT) associates to gather specific requirements related to software issues and may be responsible for planning own technical work\n* Recommends improvements to existing applications to help support existing applications\n* Seeks input from Garmin IT Analysts or other technical resources as required\n* Applies standards and procedures to accomplish tasks, learns how to use/apply appropriate tools as needed, and documents work thoroughly in an organized manner\n* Applies the use of applicable technologies to achieve essential functions of this role and participates in project definition activities including feature analysis and system tradeoffs\n\n\n**Basic Qualifications**\n* Bachelor’s Degree in Computer Science, Information Technology, Management Information Systems, or related field OR an equivalent combination of education and relevant experience\n* Outstanding academics (cumulative GPA greater than or equal to 3\\.0 as a general rule)\n* Must demonstrate ability to learn/understand secure coding practices\n* Demonstrated strong and effective verbal, written, and interpersonal communication skills\n* Demonstrated understanding of frontend technologies such as JavaScript, Typescript, and frameworks like Vue, Express or React.\n\n\n**Desired Qualifications**\n* Outstanding academics (cumulative GPA greater than or equal to 3\\.5\\)\n* Previous experience working in a team environment\n\n\n*Garmin Interna",
+            "url": "https://www.linkedin.com/jobs/view/4463509453",
+            "title": "Software Engineer 1 (Full-Stack)",
+            "description": "About Us:\\-\n   \n\n  \n\n Prometheum is building the market infrastructure that brings securities onto the blockchain. Our SEC\\-registered broker\\-dealer network carries a digital asset through its entire life, from issuance and distribution to qualified custody, correspondent clearing, and secondary market trading, all within U.S. securities law.\n   \n\n  \n\n That work has put us first more than once. We became the first SEC\\-registered special purpose broker\\-dealer, and the first to trade ETH inside a traditional brokerage account. Those milestones rest on systems our engineers build every day, and we are searching for engineers like you to help us grow our team.\n   \n\n  \n\n Role:\\-\n   \n\n  \n\n Software Engineer 1 (Full\\-Stack) \\- Full Time W2\n   \n\n  \n\n Salary Range:\\-\n   \n\n  \n\n $90,000 to $120,000 \\+ stock options\n   \n\n  \n\n Overview:\\-\n   \n\n  \n\n This is an early\\-career role for an engineer who wants to grow quickly on a production system where quality matters and the regulatory stakes are real.\n   \n\n  \n\n As a Software Engineer 1, your job is to build and ship. You will work across our TypeScript/Node back end and React front end, starting with small, clearly defined pieces of work and taking on more as your understanding of the system grows. You will have a dedicated onboarding buddy, a team lead who meets with you weekly, and teammates who pair with you rather than leaving you to figure it out alone.\n   \n\n  \n\n Our engineering team is fully remote.\n   \n\n  \n\n Responsibilities:\\-\n   \n\n  \n\n* Ship work across the stack, from bug fixes and small features to test coverage and tech debt, with support from senior engineers\n* Use AI coding tools as a default part of your workflow, and review what they produce with the same rigor you would apply to your own code\n* Trace real requests end\\-to\\-end (front end, API, services, database) and build a working mental model of how custody, clearing, and trading fit together\n* Participate in code review, first as a learner asking questions, ",
             "tags": [
                 "Software",
                 "Engineer",
-                "Development/Applications"
+                "(Full-Stack)"
             ],
             "pay_info": "Not specified",
-            "company_name": "Garmin",
+            "company_name": "Prometheum",
             "website_name": "linkedin",
-            "posted_days_ago": 2,
-            "location": "Olathe, KS",
+            "posted_days_ago": null,
+            "location": "New York, NY",
             "job_type": "Junior",
             "query_index": 1,
             "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
@@ -48,41 +31,6 @@
             "website_name": "linkedin",
             "posted_days_ago": null,
             "location": "",
-            "job_type": "Junior",
-            "query_index": 1,
-            "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4462976151",
-            "title": "Web Developer",
-            "description": "Join Hiredbuddy as an Associate Web Developer and help build and maintain responsive, user\\-friendly websites. Work remotely with a collaborative team, learn modern web technologies, and grow your career in a supportive environment.\n \n\n\n\n Full Description\n \n\n\n\n About the Role\n \n\n\n\n Hiredbuddy is looking for an enthusiastic and motivated Associate Web Developer to join our remote engineering team. As an entry\\-level developer, you will work closely with senior developers and designers to create, update, and maintain web applications that deliver exceptional user experiences. This is an excellent opportunity to launch your career in web development while contributing to real\\-world projects used by clients across various industries.\n \n\n\n\n What You'll Do\n \n\n\n* Collaborate with cross\\-functional teams to understand project requirements and translate them into technical specifications.\n* Write clean, well\\-documented, and maintainable code using HTML, CSS, and JavaScript.\n* Develop responsive web pages that perform seamlessly across devices and browsers.\n* Assist in the implementation of front\\-end frameworks such as React or Vue.js under the guidance of senior developers.\n* Participate in code reviews to ensure code quality and adherence to best practices.\n* Troubleshoot, debug, and resolve issues reported by users or identified during testing.\n* Work with version control systems like Git to manage code changes and collaborate effectively.\n* Stay up\\-to\\-date with emerging web technologies and industry trends, applying new knowledge to ongoing projects.\n* Support the team in optimizing website performance, accessibility, and SEO.\n* Communicate progress, challenges, and solutions clearly with team members and stakeholders.\n\n\n\n What You'll Learn\n \n\n\n* Practical experience with modern front\\-end development tools and workflows.\n* Best practices for responsive design, cross\\-browser compatibility, and web accessibility.\n* How to work in an agile development environment with",
-            "tags": [
-                "Developer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "HiredBuddy",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "New York, United States",
-            "job_type": "Junior",
-            "query_index": 1,
-            "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4464626208",
-            "title": "Junior Full Stack Developer",
-            "description": "**Build Real Things. Grow Fast. Make an Impact.**\n**We're Giftogram**\n Since 2012, we've been quietly building something people actually love: a profitable B2B rewards and gifting platform trusted by everyone from scrappy nonprofits to Fortune 500 brands. We've put hundreds of millions of dollars into the hands of grateful recipients — and we're accelerating.\n   \n\n  \n\n We're a team that runs on creativity, optimism, and integrity. If you're someone who's curious by default, motivated by ownership, and energized by the idea of shipping code that real people use every day — keep reading.\n   \n\n  \n\n**The Opportunity**\n The position offers hands‑on experience across the stack, exposure to modern development practices, and mentorship from experienced engineers. You will work closely with product, design, and engineering teams to support the continued evolution of Giftogram's platform.\n   \n\n  \n\n**What You'll Work On**\n* Writing, testing, and debugging frontend and backend code in React \\& PHP\n* Contributing to real features — not just bug fixes — across the full stack\n* Troubleshooting issues and iterating on existing systems with senior engineers by your side\n* Participating in standups, code reviews, and team discussions\n* Maintaining technical documentation as the product evolves\n* Learning and applying best practices around code quality, testing, and clean architecture\n\n\n**What You Bring**\n Required:\n   \n\n  \n\n* Bachelor's degree in Computer Science, Information Technology, or a related field; or equivalent practical experience.\n* 0–2 years of professional experience, or relevant internships, bootcamps, or personal projects.\n* Familiarity with frontend development concepts and modern JavaScript.\n* Experience with React or another modern JavaScript framework (academic or project‑based experience acceptable).\n* Basic experience or exposure to backend development (PHP, SQL, or similar languages).\n* Understanding REST APIs and how frontend and backend systems interact.\n* Fa",
-            "tags": [
-                "Junior",
-                "Full",
-                "Stack",
-                "Developer"
-            ],
-            "pay_info": "$65,000 - $80,000 / yearly",
-            "company_name": "Giftogram",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "Whippany, NJ",
             "job_type": "Junior",
             "query_index": 1,
             "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
@@ -124,23 +72,7 @@
             "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4462964986",
-            "title": "Web Developer",
-            "description": "Join Hiredbuddy as an Associate Web Developer and help build and maintain responsive, user\\-friendly websites. Work remotely with a collaborative team, learn modern web technologies, and grow your career in a supportive environment.\n \n\n\n\n Full Description\n \n\n\n\n About the Role\n \n\n\n\n Hiredbuddy is looking for an enthusiastic and motivated Associate Web Developer to join our remote engineering team. As an entry\\-level developer, you will work closely with senior developers and designers to create, update, and maintain web applications that deliver exceptional user experiences. This is an excellent opportunity to launch your career in web development while contributing to real\\-world projects used by clients across various industries.\n \n\n\n\n What You'll Do\n \n\n\n* Collaborate with cross\\-functional teams to understand project requirements and translate them into technical specifications.\n* Write clean, well\\-documented, and maintainable code using HTML, CSS, and JavaScript.\n* Develop responsive web pages that perform seamlessly across devices and browsers.\n* Assist in the implementation of front\\-end frameworks such as React or Vue.js under the guidance of senior developers.\n* Participate in code reviews to ensure code quality and adherence to best practices.\n* Troubleshoot, debug, and resolve issues reported by users or identified during testing.\n* Work with version control systems like Git to manage code changes and collaborate effectively.\n* Stay up\\-to\\-date with emerging web technologies and industry trends, applying new knowledge to ongoing projects.\n* Support the team in optimizing website performance, accessibility, and SEO.\n* Communicate progress, challenges, and solutions clearly with team members and stakeholders.\n\n\n\n What You'll Learn\n \n\n\n* Practical experience with modern front\\-end development tools and workflows.\n* Best practices for responsive design, cross\\-browser compatibility, and web accessibility.\n* How to work in an agile development environment with",
-            "tags": [
-                "Developer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "HiredBuddy",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "San Francisco, CA",
-            "job_type": "Junior",
-            "query_index": 1,
-            "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4462991359",
+            "url": "https://www.linkedin.com/jobs/view/4463513607",
             "title": "Full Stack Engineer, New Grad",
             "description": "Jobright is your personal AI job search agent that transforms the way you do job search from solo, time\\-consuming efforts to a fast, expert\\-guided journey, simplifying every job search step and accelerating your route to the best job outcomes. As a Full Stack Engineer, New Grad, you will work across the product stack to build intuitive user experiences, scalable backend systems, and AI\\-powered features.\n \n\n\n\n  \n\n\n\n\n\n Why Join Us\n \n\n\n\n  \n\n\n\n\n\n • Build real, production AI agents used by real users\n \n\n\n\n • High ownership and impact\n \n\n\n\n • Work at the intersection of AI, agents, and product\n \n\n\n\n • Shape how people experience AI\\-driven job search\n \n\n\n\n  \n\n\n\n\n\n Responsibilities\n \n\n\n\n  \n\n\n\n\n\n • Build user\\-facing features across frontend and backend systems\n \n\n\n\n • Develop web interfaces and backend APIs\n \n\n\n\n • Connect product experiences with AI and recommendation capabilities\n \n\n\n\n • Improve application performance, accessibility, and reliability\n \n\n\n\n • Write tests and participate in code reviews\n \n\n\n\n • Collaborate with design, product, and engineering teams\n \n\n\n\n Qualification\n \n\n\n\n  \n\n\n\n\n\n Required\n \n\n\n\n  \n\n\n\n\n\n • Recent graduate or graduating soon in Computer Science, Engineering, or a related field\n \n\n\n\n • Experience with JavaScript or TypeScript, HTML, and CSS\n \n\n\n\n • Exposure to frontend and backend development\n \n\n\n\n • Familiarity with Git, APIs, databases, and software testing\n \n\n\n\n • Strong product sense and attention to detail\n \n\n\n\n • Ability to work remotely\n \n\n\n\n  \n\n\n\n\n\n Preferred\n \n\n\n\n  \n\n\n\n\n\n • Experience with React, Next.js, Node.js, or Python\n \n\n\n\n • Familiarity with SQL and relational databases\n \n\n\n\n • Experience integrating third\\-party APIs or AI services\n \n\n\n\n • Knowledge of responsive design and web performance\n \n\n\n\n • Previous internship or substantial personal project experience",
             "tags": [
@@ -179,41 +111,36 @@
             "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4446272962",
-            "title": "Frontend Software Engineer Graduate (Ads Interface) - 2027 Start",
-            "description": "**Responsibilities**\n We are TikTok Monetization Ads Interface Team, dedicated to creating an exceptional advertising experience and intelligent growth marketing strategies for global advertising clients. Here, you will engage with challenging technical domains such as large\\-scale user systems, diverse advertising fields (ad creation, material optimization, delivery strategy, attribution, measurement, etc.), AI\\-driven personalized recommendations and growth strategies, and massive client profiling powered by LLM and big data. We are seeking like\\-minded individuals to join us in leveraging technology to help global small and medium\\-sized business (SMB) advertisers effectively connect with customers, achieve business success, and drive the rapid growth of TikTok's advertising business!\n   \n\n  \n\n We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth.\n   \n\n  \n\n Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume.\n   \n\n  \n\n Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to our Company and its affiliates' jobs globally. Applications will be reviewed on a rolling basis \\- we encourage you to apply early.\n   \n\n  \n\n**Key Responsibilities**\n* Design, develop, test and continuously improve TikTok Ads software.\n* Optimize performance of Ads frontend interfaces.\n* Resolve JavaScript or layout cross\\-browser and compatibility problems.\n* Analyze product objectives to deliver results aligned with project goals.\n* Manage project priorities, deadlines, and deliverables.\n* Collaborate with PM and R\\&D teams globally, in a fast\\-paced environment.\n\n\n**Qualifications**\n Minimum Qualifications:\n   \n\n  \n\n* Individuals who are completing or have recently comp",
+            "url": "https://www.linkedin.com/jobs/view/4464626208",
+            "title": "Junior Full Stack Developer",
+            "description": "**Build Real Things. Grow Fast. Make an Impact.**\n**We're Giftogram**\n Since 2012, we've been quietly building something people actually love: a profitable B2B rewards and gifting platform trusted by everyone from scrappy nonprofits to Fortune 500 brands. We've put hundreds of millions of dollars into the hands of grateful recipients — and we're accelerating.\n   \n\n  \n\n We're a team that runs on creativity, optimism, and integrity. If you're someone who's curious by default, motivated by ownership, and energized by the idea of shipping code that real people use every day — keep reading.\n   \n\n  \n\n**The Opportunity**\n The position offers hands‑on experience across the stack, exposure to modern development practices, and mentorship from experienced engineers. You will work closely with product, design, and engineering teams to support the continued evolution of Giftogram's platform.\n   \n\n  \n\n**What You'll Work On**\n* Writing, testing, and debugging frontend and backend code in React \\& PHP\n* Contributing to real features — not just bug fixes — across the full stack\n* Troubleshooting issues and iterating on existing systems with senior engineers by your side\n* Participating in standups, code reviews, and team discussions\n* Maintaining technical documentation as the product evolves\n* Learning and applying best practices around code quality, testing, and clean architecture\n\n\n**What You Bring**\n Required:\n   \n\n  \n\n* Bachelor's degree in Computer Science, Information Technology, or a related field; or equivalent practical experience.\n* 0–2 years of professional experience, or relevant internships, bootcamps, or personal projects.\n* Familiarity with frontend development concepts and modern JavaScript.\n* Experience with React or another modern JavaScript framework (academic or project‑based experience acceptable).\n* Basic experience or exposure to backend development (PHP, SQL, or similar languages).\n* Understanding REST APIs and how frontend and backend systems interact.\n* Fa",
             "tags": [
-                "Frontend",
-                "Software",
-                "Engineer",
-                "Graduate",
-                "(Ads",
-                "Interface)",
-                "2027",
-                "Start"
+                "Junior",
+                "Full",
+                "Stack",
+                "Developer"
             ],
-            "pay_info": "Not specified",
-            "company_name": "TikTok",
+            "pay_info": "$65,000 - $80,000 / yearly",
+            "company_name": "Giftogram",
             "website_name": "linkedin",
             "posted_days_ago": null,
-            "location": "San Jose, CA",
+            "location": "Whippany, NJ",
             "job_type": "Junior",
             "query_index": 1,
             "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4462954815",
-            "title": "Software Engineer",
-            "description": "Software Engineer — LeafEnterprise\n \n  \n\n\n\n\n\n**Location:** \n Austin, Texas \\|\n **Type:** \n Full\\-time, on\\-site\n \n\n\n\n**Base salary:** \n $80,000–$100,000, based on experience and demonstrated capability\n \n\n\n\n  \n\n\n\n\n Employment Eligibility\n \n  \n\n\n\n\n\n Applicants must be legally authorized to work in the United States. Leaf Health is unable to sponsor or assume sponsorship of an employment visa for this position, now or in the future.\n \n\n\n\n  \n\n\n\n\n About Leaf Health\n \n  \n\n\n\n\n\n Leaf Health is a healthcare consulting and technology organization that helps clients control rising prescription\\-drug costs while maintaining high\\-quality patient care. With more than three decades of industry experience, we support plan sponsors, employers, PBMs, TPAs and brokers, managed\\-care organizations, and consumers through PBM consulting and audits, medical\\-benefit drug strategies, rebate operations, pharmacy\\-product development, sales support, consumer discount products, and healthcare\\-process consulting.\n \n\n\n\n  \n\n\n\n\n The Role\n \n  \n\n\n\n\n\n Leaf Health is seeking a product\\-minded Software Engineer to build and improve\n **LeafEnterprise** \n , our company\\-owned platform for pharmacy\\-benefit consulting, claims auditing, rebate operations, healthcare data workflows, internal operations, and client\\-facing products.\n \n\n\n\n  \n\n\n\n\n\n This hands\\-on, full\\-stack role spans Python command\\-line applications, back\\-end services, APIs, SQL, data processing, React interfaces, automated testing, and infrastructure. The engineer will translate authoritative materials—including contract amendments, vendor specifications, data definitions, and operating procedures—into clear requirements and correct, traceable software.\n \n\n\n\n  \n\n\n\n\n\n Engineers receive meaningful end\\-to\\-end ownership. You will become the internal technical authority for assigned products, understand their governing requirements and business purpose, and remain accountable for quality, reliability, delivery, operation, and continued ",
+            "url": "https://www.linkedin.com/jobs/view/4464602094",
+            "title": "Web Developer",
+            "description": "**About The Company**\n EMTAK LLC is a dynamic and innovative technology solutions provider dedicated to delivering high\\-quality software development and engineering services. With a focus on cutting\\-edge technologies and best practices, EMTAK LLC supports government agencies and private sector clients in achieving their digital transformation goals. Our team is committed to fostering a collaborative environment that encourages continuous learning, technical excellence, and impactful solutions. We pride ourselves on our integrity, professionalism, and our ability to adapt to the evolving technological landscape.\n   \n\n  \n\n**About The Role**\n We are seeking a Web Developer (SWE1\\) to join our small but highly skilled engineering team. This role offers a unique opportunity to work on enterprise web services deployed within AWS cloud environments, contributing across the entire technology stack. The ideal candidate will be a proactive, hands\\-on developer capable of taking ownership of features from initial development through to deployment and ongoing support. You will be instrumental in designing, developing, and maintaining scalable, secure, and reliable web applications that support mission\\-critical operations. This position requires a collaborative mindset, strong problem\\-solving skills, and a passion for delivering high\\-quality software solutions in a fast\\-paced environment.\n   \n\n  \n\n**Qualifications**\n The ideal candidate will possess professional experience with one or more of the following technologies: PHP, .NET / C\\#, Java, Node.js, Python, HTML / CSS, JavaScript, Vue.js, or React. Additionally, experience deploying and operating software on Linux environments is essential, including service configuration, log analysis, basic networking, and automation. A solid understanding of REST APIs, authentication and authorization mechanisms, and secure coding practices is required. Familiarity with relational databases, including index optimization and query perf",
             "tags": [
-                "Software",
-                "Engineer"
+                "Developer"
             ],
-            "pay_info": "$80,000 - $100,000 / yearly",
-            "company_name": "Leaf Health",
+            "pay_info": "Not specified",
+            "company_name": "Netrolynx AI",
             "website_name": "linkedin",
             "posted_days_ago": null,
-            "location": "Austin, TX",
+            "location": "",
             "job_type": "Junior",
             "query_index": 1,
             "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
@@ -236,18 +163,41 @@
             "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4464435328",
+            "url": "https://www.linkedin.com/jobs/view/4462954815",
             "title": "Software Engineer",
-            "description": "**Career Area**\n Strategy, Technology, Digital and Data\n   \n\n  \n\n**Job Description**\n**Your Work Shapes the World at Caterpillar Inc.**\n When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.\n   \n\n  \n\n Launch your software engineering career while helping build the connected technologies that power some of the world's most iconic machines. At Caterpillar, you'll work on products used around the globe, collaborate with talented engineers, and accelerate your growth through hands\\-on development, mentorship, and meaningful project ownership from day one.\n   \n\n  \n\n**Cat Digital** \n is the digital and technology focused organization within Caterpillar, Inc. Our global team is responsible for bringing digital capabilities to Caterpillar’s world\\-famous yellow iron. Working with your yellow partners and Cat Dealers, we execute key components of digital and marketing portfolios, including global marketing \\& brand, connectivity, enterprise data, analytics and AI, equipment management, eCommerce, digital marketing, rental \\& used digital solutions, and aftermarket leads \\& insights.\n   \n\n  \n\n Depending on team placement, you will play a key role in designing, developing, and deploying Caterpillar’s cutting\\-edge digital platform. You will contribute to building a world\\-class platform that supports a diverse range of digital applications. Your responsibilities will span across various functional areas, including new program development and the maintenance of existing mobile, web, and cloud systems.\n   \n\n  \n\n**What You Will Do**\n As a Software Engineer, you may:\n   \n\n  \n\n* Contribute to the design,",
+            "description": "Software Engineer — LeafEnterprise\n \n  \n\n\n\n\n\n**Location:** \n Austin, Texas \\|\n **Type:** \n Full\\-time, on\\-site\n \n\n\n\n**Base salary:** \n $80,000–$100,000, based on experience and demonstrated capability\n \n\n\n\n  \n\n\n\n\n Employment Eligibility\n \n  \n\n\n\n\n\n Applicants must be legally authorized to work in the United States. Leaf Health is unable to sponsor or assume sponsorship of an employment visa for this position, now or in the future.\n \n\n\n\n  \n\n\n\n\n About Leaf Health\n \n  \n\n\n\n\n\n Leaf Health is a healthcare consulting and technology organization that helps clients control rising prescription\\-drug costs while maintaining high\\-quality patient care. With more than three decades of industry experience, we support plan sponsors, employers, PBMs, TPAs and brokers, managed\\-care organizations, and consumers through PBM consulting and audits, medical\\-benefit drug strategies, rebate operations, pharmacy\\-product development, sales support, consumer discount products, and healthcare\\-process consulting.\n \n\n\n\n  \n\n\n\n\n The Role\n \n  \n\n\n\n\n\n Leaf Health is seeking a product\\-minded Software Engineer to build and improve\n **LeafEnterprise** \n , our company\\-owned platform for pharmacy\\-benefit consulting, claims auditing, rebate operations, healthcare data workflows, internal operations, and client\\-facing products.\n \n\n\n\n  \n\n\n\n\n\n This hands\\-on, full\\-stack role spans Python command\\-line applications, back\\-end services, APIs, SQL, data processing, React interfaces, automated testing, and infrastructure. The engineer will translate authoritative materials—including contract amendments, vendor specifications, data definitions, and operating procedures—into clear requirements and correct, traceable software.\n \n\n\n\n  \n\n\n\n\n\n Engineers receive meaningful end\\-to\\-end ownership. You will become the internal technical authority for assigned products, understand their governing requirements and business purpose, and remain accountable for quality, reliability, delivery, operation, and continued ",
             "tags": [
                 "Software",
                 "Engineer"
             ],
-            "pay_info": "Not specified",
-            "company_name": "Caterpillar Inc.",
+            "pay_info": "$80,000 - $100,000 / yearly",
+            "company_name": "Leaf Health",
             "website_name": "linkedin",
             "posted_days_ago": null,
-            "location": "Chicago, IL",
+            "location": "Austin, TX",
+            "job_type": "Junior",
+            "query_index": 1,
+            "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4446272962",
+            "title": "Frontend Software Engineer Graduate (Ads Interface) - 2027 Start",
+            "description": "**Responsibilities**\n We are TikTok Monetization Ads Interface Team, dedicated to creating an exceptional advertising experience and intelligent growth marketing strategies for global advertising clients. Here, you will engage with challenging technical domains such as large\\-scale user systems, diverse advertising fields (ad creation, material optimization, delivery strategy, attribution, measurement, etc.), AI\\-driven personalized recommendations and growth strategies, and massive client profiling powered by LLM and big data. We are seeking like\\-minded individuals to join us in leveraging technology to help global small and medium\\-sized business (SMB) advertisers effectively connect with customers, achieve business success, and drive the rapid growth of TikTok's advertising business!\n   \n\n  \n\n We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth.\n   \n\n  \n\n Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume.\n   \n\n  \n\n Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to our Company and its affiliates' jobs globally. Applications will be reviewed on a rolling basis \\- we encourage you to apply early.\n   \n\n  \n\n**Key Responsibilities**\n* Design, develop, test and continuously improve TikTok Ads software.\n* Optimize performance of Ads frontend interfaces.\n* Resolve JavaScript or layout cross\\-browser and compatibility problems.\n* Analyze product objectives to deliver results aligned with project goals.\n* Manage project priorities, deadlines, and deliverables.\n* Collaborate with PM and R\\&D teams globally, in a fast\\-paced environment.\n\n\n**Qualifications**\n Minimum Qualifications:\n   \n\n  \n\n* Individuals who are completing or have recently comp",
+            "tags": [
+                "Frontend",
+                "Software",
+                "Engineer",
+                "Graduate",
+                "(Ads",
+                "Interface)",
+                "2027",
+                "Start"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "TikTok",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "San Jose, CA",
             "job_type": "Junior",
             "query_index": 1,
             "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
@@ -276,40 +226,149 @@
             "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4427253418",
-            "title": "Geospatial Front End Developer – Multiple Positions at Junior/Mid/Senior Levels",
-            "description": "NV5 Geospatial (NV5G) is actively recruiting qualified and cleared Geospatial Front End Developers to support national security client sites in the Northern Virginia and St. Louis, MO areas. Candidates will develop visualization software to understand data where proximity and location matter. Your work will help developer communities re\\-imagine the capabilities of location\\-aware software applications that enable real\\-world improvements.\n **A Top Secret Clearance with SCI eligibility or an active TS/SCI are required conditions of employment.**\n**Work Environment:**\n* Location: St. Louis, MO Area (St. Louis, MO and/or St. Charles, MO)\n* Travel up to 15% of the time\n\n\n At NV5 , we are a collaboration of intelligent, innovative thinkers who care for each other, our communities, and the environment. We value both heart and head, the diversity of our people, and their experiences because that is how we continue to grow as a leader in our industry and expand our individual and collective potential.\n   \n\n  \n\n NV5 is a global technology solutions and consulting services company with a workforce of over 4,500 professionals in more than 100 offices worldwide. NV5’s continued growth has been spurred through strategic investments in firms with unique capabilities to help current and future customers solve the world’s toughest problems. The NV5 family brings together talent across a wide range of markets and fields, including Professional Engineers, Professional Land Surveyors, Architects, Photogrammetrists, GIS Professionals, Software Developers, IT, Project Management Professionals, and more.\n   \n\n  \n\n**Responsibilities**\n* Design, develop, and maintain front\\-end services and APIs\n* Collaborate with front\\-end developers and stakeholders to deliver end\\-to\\-end solutions\n* Build and enhance CI/CD pipelines to improve deployment speed and reliability\n* Ensure application performance, security, and scalability\n* Participate in code reviews and contribute to engineering best p",
+            "url": "https://www.linkedin.com/jobs/view/4464447480",
+            "title": "Software Engineer (New Grad)",
+            "description": "A New Grad Software Engineer role at Yara, connecting you with high\\-growth companies where you'll ship to production immediately and work closely with founders.\n \n\n\n\n  \n\n\n\n\n\n Responsibilities\n \n\n\n\n Ship to production in your first week\n \n\n\n\n Own a real surface end to end\n \n\n\n\n Sit near founders and contribute directly\n \n\n\n\n Build with AI tools daily\n \n\n\n\n Find out quickly if what you built worked\n \n\n\n\n  \n\n\n\n\n\n Requirements\n \n\n\n\n Graduated this year or within the last 18 months\n \n\n\n\n Strong GitHub portfolio showcasing your work\n \n\n\n\n Built something people have used\n \n\n\n\n Experience with TypeScript, Python, or Go\n \n\n\n\n Deployed and maintained a project\n \n\n\n\n  \n\n\n\n\n\n Qualifications\n \n\n\n\n CS degree, bootcamp with real projects, or strong body of work\n \n\n\n\n Internships, open\\-source contributions, or hackathon wins\n \n\n\n\n LLM\\-powered side projects beyond chat wrappers\n \n\n\n\n Enthusiasm for work\\-trial interviews\n \n\n\n\n Desire to be an early engineer at a startup\n \n\n\n\n  \n\n\n\n\n\n Location: Remote (US) · SF or NYC welcome",
             "tags": [
-                "Geospatial",
-                "Front",
-                "Developer",
-                "Multiple",
-                "Positions",
-                "Junior/Mid/Senior",
-                "Levels"
+                "Software",
+                "Engineer",
+                "(New",
+                "Grad)"
             ],
             "pay_info": "Not specified",
-            "company_name": "NV5",
+            "company_name": "Yara AI",
             "website_name": "linkedin",
-            "posted_days_ago": 1,
-            "location": "St Louis, MO",
+            "posted_days_ago": null,
+            "location": "",
+            "job_type": "Junior",
+            "query_index": 1,
+            "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4459524666",
+            "title": "Entry-Level / Junior Software Developer",
+            "description": "**💼 Entry\\-Level / Junior Software Developer@ BeaconFire** \n\n\n\n\n 📍\n **Location:** \n**East Windsor New Jersey** \n\n\n\n\n 📄\n **Visa Sponsorship Available \\| E\\-Verified Company** \n\n\n\n\n  \n\n\n\n\n\n 🔥\n **Kickstart Your Career with BeaconFire!** \n\n\n\n\n Are you passionate about coding and looking to grow your career in\n **Software Development** \n ?\n \n\n\n\n BeaconFire, based in Central NJ, is a leader in\n **Software Development, Web Development** \n , and\n **Business Intelligence** \n . We're on the lookout for dynamic individuals with a strong background in\n **Software Engineering** \n or\n **Computer Science** \n to join our team as\n **Entry\\-Level / Junior Software Developer Opportunity.** \n\n\n\n\n  \n\n\n\n\n\n 👨 💻\n **What You’ll Be Doing:** \n\n\n\n* Develop applications using\n **Java 8/JEE (and higher), Angular 2\\+, React.js, SQL, Spring, HTML5, CSS, JavaScript, TypeScript** \n , and more.\n* Write\n **scalable, secure, and maintainable** \n code for high\\-impact client platforms.\n* Create, deploy, and maintain\n **automated system tests** \n .\n* Collaborate with testers to understand and\n **resolve defects** \n efficiently.\n* Investigate new technologies and tools for\n **continuous improvement** \n and\n **architecture reviews** \n .\n* Work closely with team members to achieve shared\n **user story and sprint goals** \n .\n\n\n\n  \n\n\n\n\n\n ✅\n **What We’re Looking For:** \n\n\n\n* Experience in\n **Java** \n and\n **JavaScript** \n programming languages.\n* A good understanding of the\n **Software Development Life Cycle (SDLC)** \n .\n* Strong object\\-oriented programming (OOP) skills and knowledge of\n **Collections, Maps, Lists, Sets** \n , and common APIs.\n* Familiarity with\n **relational databases** \n like SQL Server or Oracle and\n **basic SQL queries** \n .\n\n\n\n  \n\n\n\n\n\n 🎓\n **Preferred Qualifications:** \n\n\n\n* **Master’s Degree** \n in Computer Science (CS).\n* **0–1 year** \n of hands\\-on experience in\n **Java coding** \n .\n* Experience with\n **Spring, Maven, Angular, HTML, and CSS** \n .\n* Knowledge of modern Java technologies ",
+            "tags": [
+                "Entry-Level",
+                "Junior",
+                "Software",
+                "Developer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "BeaconFire Inc.",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "New Jersey, United States",
+            "job_type": "Junior",
+            "query_index": 1,
+            "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4464440623",
+            "title": "Full Stack Engineer",
+            "description": "**About Yara** \n\n\n\n\n  \n\n\n\n\n\n Yara is building the future of finding work. Most hiring tools are stuck in the 90s and AI is making it worse, not better. More spam, more noise, more generic outreach that wastes everyone's time. We're reworking how people find their next role with one profile that actually shows your work, smart matching that puts you in front of the right companies, and a real person on the other side who cares about getting it right.\n \n\n\n\n  \n\n\n\n\n\n We work with companies across AI, developer tools, consumer, fintech, and health tech, ranging from teams that have raised $1B\\+ with 3,000\\+ employees to earlier stage companies at $50M\\+ with 100\\+ employees. We've helped talent from Google, Apple, Palantir, Uber, and Ramp connect with companies like Vercel, Paraform, Abridge, and Parallel.\n \n\n\n\n  \n\n\n\n\n\n**About this role** \n\n\n\n\n  \n\n\n\n\n\n Companies in the Yara Network are hiring Full Stack Engineers, from seed\\-stage teams hiring their first engineers to growth companies hiring twenty. One application puts your work in front of all of them. You'll build real products end to end: frontend, backend, data, and deploys, at AI\\-native startups that ship weekly.\n \n\n\n\n  \n\n\n\n\n\n**Who this is for** \n\n\n\n\n  \n\n\n\n\n* You build across the whole stack and like it that way. Frontend craft one day, API and database design the next.\n* You ship. Side projects, startup features, or production systems at scale. What matters is that real people used what you built.\n* You're AI\\-native in how you build. Claude Code, Cursor, or Codex are already part of your workflow.\n* You'd rather be judged on shipped work than on keyword\\-matching a resume.\n* You want a real human reviewing you. Every application here gets read by a person, and you see when they open it.\n\n\n\n  \n\n\n\n\n\n**You may be a good fit if you have** \n\n\n\n\n  \n\n\n\n\n* 3\\+ years building production web applications, or less with exceptional shipped work\n* TypeScript and React, plus a backend language like Node.js, Python, or Go\n* Da",
+            "tags": [
+                "Full",
+                "Stack",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Yara AI",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "job_type": "Junior",
+            "query_index": 1,
+            "query_used": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4445739062",
+            "title": "SDE - UIUX",
+            "description": "At Dragos, the mission is personal. The systems we protect deliver the water you drink, power your home, and keep the hospitals your community depends on running. Those critical infrastructure systems that power our civilization around the world are under attack every day by adversaries. When those systems fail, people are immediately at risk. We are the global leader in xOT cybersecurity, combining technology, threat intelligence, and expert services. The people here chose this work because they understand what is at stake. Here, you will find a remote\\-first mission\\-driven team across North America, Europe, the Middle East, and APAC built on authenticity, transparency, and trust. If safeguarding the systems that protect your family, friends, and community is the kind of work that matters to you, you are in the right place.\n   \n\n  \n\n**About The Role**\n Every day, the world depends on critical infrastructure. As those systems become increasingly connected, protecting them from cyber threats has never been more important.\n   \n\n  \n\n At Dragos, we build software that gives defenders the visibility and capabilities they need to detect, investigate, and respond to cyber threats before they disrupt the systems people depend on every day.\n   \n\n  \n\n As a Software Engineer, you'll build the experiences security professionals rely on. You'll solve meaningful problems, simplify complex data, and create intuitive workflows that enable users to detect, investigate, and act on cyber threats.\n   \n\n  \n\n Success in this role means taking ownership beyond implementation. You'll solve meaningful problems, make thoughtful engineering decisions, and continuously improve the software, engineering practices, and teams around you.\n   \n\n  \n\n**What You'll Own**\n* Own the design, implementation, and evolution of features from concept through delivery.\n* Make sound engineering decisions by balancing user experience, technical quality, delivery, and long\\-term maintainability.\n* Collaborate wi",
+            "tags": [
+                "UIUX"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Dragos, Inc.",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
             "job_type": "Junior",
             "query_index": 2,
             "query_used": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4462204807",
-            "title": "React Engineer",
-            "description": "**About Air Apps**\n At Air Apps, we believe in thinking bigger—and moving faster. We’re a family\\-founded company on a mission to create the world’s first AI\\-powered Personal \\& Entrepreneurial Resource Planner (PRP), and we need your passion and ambition to help us change how people plan, work, and live. Born in Lisbon, Portugal in 2018—and now with offices in both Lisbon and San Francisco—we’ve remained self\\-funded while reaching over 100 million downloads worldwide.\n   \n\n Our long\\-term focus drives us to challenge the status quo every day, pushing the boundaries of AI\\-driven solutions that truly make a difference. Here, you’ll be a creative force, shaping products that empower people across the globe.\n   \n\n Join us on this journey to redefine resource management—and change lives along the way.\n   \n\n**The Role**\n As a\n **React Engineer** \n , you will focus on building responsive and accessible user interfaces for our web applications. You will collaborate closely with designers, product managers, and backend engineers to translate wireframes and prototypes into elegant, stable, and scalable front\\-end experiences that delight our users.\n   \n\n Please note that this post serves the purpose of enhancing our talent pool while we prepare to launch the official job. As soon as it gets posted we will get in touch with you.\n   \n\n**Responsibilities**\n* UI/UX Implementation: Implement high\\-quality, responsive user interfaces following design specifications, ensuring compatibility across multiple browsers and devices.\n* Frontend Technologies: Develop and maintain code using modern JavaScript frameworks and libraries (e.g., React, Vue.js, Angular), as well as HTML5, CSS3, and responsive design principles.\n* Performance Optimization: Continuously improve page load times, rendering performance, and overall user experience.\n* Integration with APIs: Collaborate with backend teams to integrate with RESTful/GraphQL APIs and ensure smooth data flow between client and server.\n* ",
+            "url": "https://www.linkedin.com/jobs/view/4446137243",
+            "title": "Software Engineer, Frontend (Agentic AI)",
+            "description": "**About Sift**\n Sift is the data infrastructure platform for hardware engineering teams. We turn high\\-frequency telemetry into engineering insights for mission\\-critical machines: rockets, satellites, autonomous vehicles, energy systems, and defense platforms. Founded by former SpaceX engineers, we are building the review and analysis layer for the AI era of physical systems.\n   \n\n  \n\n**About The Role**\n Hardware programs generate far more telemetry than any team can review by hand. Sift Agents is our answer: AI agents that work alongside hardware engineers, investigating anomalies, reviewing test and flight data, and answering in minutes questions that used to take a day of scripting.\n   \n\n  \n\n This role comes with real product ownership and autonomy. You will talk directly to customers to understand how they review their machines, decide what to build, and own it from first MVP through every iteration after it ships. The surface area is wide: one day you might be polishing the micro\\-interactions that make the chat experience feel great, the next you might be building a bespoke caching layer for the chat messages off the main JS thread. We’re heavy users of frontier agentic products ourselves and have strong opinions about what makes them great. Sift Agents is where we put those opinions to work.\n   \n\n  \n\n This is a product engineering role, not a research role. Most of the work is the hard part of making agents feel dependable in the browser: streaming interactions, long\\-running tasks, rendering agent output over large real\\-time datasets, and showing engineers exactly what an agent did and why.\n   \n\n  \n\n**In This Role, You'll**\n* Talk directly to customers and partner with product to turn real review workflows into agent capabilities: generating dashboards, writing analysis scripts, and surfacing insights buried in their telemetry\n* Build the frontend surfaces where Sift Agents live, and make them feel great\n* Design the interaction patterns of agentic UX: str",
             "tags": [
-                "React",
+                "Software",
+                "Engineer,",
+                "Frontend",
+                "(Agentic"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Sift",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "San Francisco, CA",
+            "job_type": "Junior",
+            "query_index": 2,
+            "query_used": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4455380202",
+            "title": "Associate Web Development Software Engineer (SDK)",
+            "description": "*Eulerity is a fast\\-growing marketing technology company transforming how franchises and small businesses approach digital advertising. Built by former leaders from Google, Facebook, and Yahoo!, our platform combines decades of experience in engineering and marketing to deliver an industry\\-leading, automated solution. We make it easy to plan, launch, and analyze paid campaigns across Google Search, Meta (Facebook/Instagram), Display, Video, and organic social \\- all from one intuitive platform. We believe breakthrough results happen when technology, strategy, and creativity come together. By combining automation with human insight, we empower brands to scale smarter, move faster, and grow stronger. Internally, we're just as committed to growth. We cultivate a culture where ambitious, curious, and driven individuals are empowered to lead, learn, and elevate those around them.*\n**Your Role**\n* Designing, building, and shipping developer\\-facing SDKs consumed by other engineers.\n* Owning the SDK as a product: the public API surface, TypeScript types, semantic versioning, packaging/distribution, backwards compatibility, and documentation.\n* Building and maintaining AI\\-powered automation workflows that connect our product to internal and external systems.\n* Developing and testing new features using AI\\-assisted tooling and autonomous agents, maintaining the codebase, integrating with APIs and data models, and owning the PR lifecycle (writing, reviewing, and incorporating feedback).\n* Collaborating across web, mobile, and backend teams to align on best practices, shared architecture, and product direction.\n* Partnering with Product and Design to translate designs and prototypes into shipped solutions for our users and the engineers who build on our SDK.\n\n\n**About You**\n* SDK/library builder. You design clean, intuitive, hard\\-to\\-misuse APIs and think about the developer on the other side of your interface.\n* AI\\-first engineer. You've set up custom automation workflow",
+            "tags": [
+                "Associate",
+                "Development",
+                "Software",
+                "Engineer",
+                "(SDK)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Eulerity",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "job_type": "Junior",
+            "query_index": 2,
+            "query_used": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4461187800",
+            "title": "Associate Software Engineer",
+            "description": "**Job Title: Sr Associate Software Engineer (AWS, GCP, Angular)** \n\n\n\n\n**Job Location: Columbus, OH / Hybrid (1\\-2 Times Per Week)** \n\n\n\n\n**Project Duration: 12 months with possible extension and Contract to HIRE** \n\n\n\n\n**Shift: Normal Business Hours: 9:00AM\\-5:00PM** \n\n\n\n\n**Experience: 2\\-4 Years of Experience** \n\n\n\n\n**Worker Must Live Within A 60\\-Mile Radius of The Columbus, OH Location** \n\n\n\n\n**Worker Must Have One of The Below Certifications (Active certificate)** \n\n\n\n\n  \n\n\n\n\n\n**Job Summary** \n\n\n\n\n This role is\n **primarily front\\-end development** \n , with a\n **secondary** \n expectation for\n **backend** \n flexibility.\n \n\n\n\n  \n\n\n\n\n\n**Worker Must Have One of The Below Certifications (Active certificate)** \n\n\n\n\n  \n\n\n\n\n\n 1\\.\n **AWS** \n cloud practitioner,\n \n\n\n\n 2\\. Microsoft\n **Azure** \n Fundamentals\n \n\n\n\n 3\\.\n **Google Cloud** \n \\- Cloud Digital Leader\n \n\n\n\n  \n\n\n\n\n\n**Top 3 Must Haves** \n\n\n\n\n 1\\. Expert in\n **Angular Framework** \n , able to deliver quality code and understand different patterns.\n \n\n\n\n 2\\. Experienced enough to operate individually with minimum guidance\n \n\n\n\n 3\\. seek clarification on the requirements and then develop by closely coordinating with the team\n \n\n\n\n  \n\n\n\n\n\n**Top 3 Nice to Haves** \n\n\n\n\n 1\\. Team player\n \n\n\n\n 2\\. knowledge on\n **APIs** \n and\n \n backend\n **systems** \n to be ready to work as full stack developer if there is a need, but primary responsibility will be front end development.\n \n\n\n\n  \n\n\n\n\n\n Expert in Angular framework for\n **front end app development** \n , knowledge about\n **AWS or Azure cloud platforms** \n , experience in delivering enterprise/customer facing applications, flexible to work as full stack developer but primary expertise in angular framework.",
+            "tags": [
+                "Associate",
+                "Software",
                 "Engineer"
             ],
             "pay_info": "Not specified",
-            "company_name": "Air Apps",
+            "company_name": "TPI Global Solutions",
             "website_name": "linkedin",
-            "posted_days_ago": 1,
-            "location": "San Francisco, CA",
+            "posted_days_ago": null,
+            "location": "Columbus, OH",
+            "job_type": "Junior",
+            "query_index": 2,
+            "query_used": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4446140208",
+            "title": "Software Engineer, Frontend (Agentic AI)",
+            "description": "**About Sift**\n Sift is the data infrastructure platform for hardware engineering teams. We turn high\\-frequency telemetry into engineering insights for mission\\-critical machines: rockets, satellites, autonomous vehicles, energy systems, and defense platforms. Founded by former SpaceX engineers, we are building the review and analysis layer for the AI era of physical systems.\n   \n\n  \n\n**About The Role**\n Hardware programs generate far more telemetry than any team can review by hand. Sift Agents is our answer: AI agents that work alongside hardware engineers, investigating anomalies, reviewing test and flight data, and answering in minutes questions that used to take a day of scripting.\n   \n\n  \n\n This role comes with real product ownership and autonomy. You will talk directly to customers to understand how they review their machines, decide what to build, and own it from first MVP through every iteration after it ships. The surface area is wide: one day you might be polishing the micro\\-interactions that make the chat experience feel great, the next you might be building a bespoke caching layer for the chat messages off the main JS thread. We’re heavy users of frontier agentic products ourselves and have strong opinions about what makes them great. Sift Agents is where we put those opinions to work.\n   \n\n  \n\n This is a product engineering role, not a research role. Most of the work is the hard part of making agents feel dependable in the browser: streaming interactions, long\\-running tasks, rendering agent output over large real\\-time datasets, and showing engineers exactly what an agent did and why.\n   \n\n  \n\n**In This Role, You'll**\n* Talk directly to customers and partner with product to turn real review workflows into agent capabilities: generating dashboards, writing analysis scripts, and surfacing insights buried in their telemetry\n* Build the frontend surfaces where Sift Agents live, and make them feel great\n* Design the interaction patterns of agentic UX: str",
+            "tags": [
+                "Software",
+                "Engineer,",
+                "Frontend",
+                "(Agentic"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Sift",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "Marina del Rey, CA",
             "job_type": "Junior",
             "query_index": 2,
             "query_used": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")"
@@ -324,6 +383,62 @@
             ],
             "pay_info": "Not specified",
             "company_name": "Jobright.ai",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "job_type": "Junior",
+            "query_index": 2,
+            "query_used": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4464486381",
+            "title": "Front-End Developer (React.js, Vue.js)",
+            "description": "**About Everglade Works**\n Everglade Works is a leading information technology company committed to developing innovative solutions that enable businesses to grow and scale effortlessly. Our expertise centers around delivering secure, scalable, and reliable technology infrastructures and software solutions tailored to various industries across the United States. As a remote\\-first organization, we prioritize flexibility and foster a dynamic work environment that encourages collaboration, innovation, and personal development. Our team is dedicated to pushing the boundaries of technology to create impactful solutions that drive success for our clients.\n   \n\n  \n\n**About The Role**\n We are seeking a passionate and skilled Front\\-End Developer to join our talented team. In this role, you will be instrumental in designing and implementing engaging, user\\-centric web applications that deliver seamless and intuitive user experiences. You will work closely with UX/UI designers, back\\-end engineers, and product teams to translate visual designs into functional, high\\-performance web interfaces. Your contributions will directly influence the usability and aesthetic appeal of our digital products, ensuring they are responsive, accessible, and optimized for all devices. This position offers the opportunity to work remotely within the United States, providing flexibility and a healthy work\\-life balance.\n   \n\n  \n\n**Qualifications**\n* Minimum of 2\\+ years of professional experience as a Front\\-End Developer or similar role\n* Proficiency with front\\-end frameworks such as React.js, Vue.js, or Angular\n* Strong understanding of RESTful APIs and integration with back\\-end services\n* Experience with CSS preprocessors like Sass or LESS\n* Knowledge of state management tools such as Redux, Vuex, or similar\n* Familiarity with version control systems like Git\n* Good eye for design and attention to detail\n* Ability to work effectively in an Agile environment\n* Excellent problem\\-solving and ",
+            "tags": [
+                "Front-End",
+                "Developer",
+                "(React.js,",
+                "Vue.js)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Sundayy",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "job_type": "Junior",
+            "query_index": 2,
+            "query_used": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4464621041",
+            "title": "Software Engineer, Growth Conversion",
+            "description": "**The mission of The New York Times is to seek the truth and help people understand the world. That means independent journalism is at the heart of all we do as a company. It’s why we have a world\\-renowned newsroom that sends journalists to report on the ground from nearly 160 countries. It’s why we focus deeply on how our readers will experience our journalism, from print to audio to a world\\-class digital and app destination. And it’s why our business strategy centers on making journalism so good that it’s worth paying for.**\n**About The Role**\n New York Times Conversion helps customers understand subscription benefits from NYT's US, International news and standalone applications through to the purchase and onboarding flows. The team consists of engineers, designers, data analysts and product managers focusing on shipping user\\-centered, experiment\\-driven features.\n   \n\n  \n\n As a Full Stack Software engineer on Conversion, your work will have a directly quantifiable impact on the bottom line of the Times, ensuring the work of our world\\-leading journalists. You will engineer features across desktop and mobile that promote understanding of subscription benefits no matter where they are in the user experience. Web Conversion approaches this by optimizing conversion surfaces through sales, free trial and directing users to high value surfaces such as native apps.\n   \n\n  \n\n You will work in React and TypeScript on the frontend, Node.js for web applications, and Go\\-based APIs, all running on the AWS cloud platform. You will help develop, test, and operate features end\\-to\\-end, from idea to production, alongside a collaborative team that values learning and continuous improvement.\n   \n\n  \n\n We value collaboration, transparency and openness, diversity, learning, community and continuous improvement. Our team builds great things through collaboration with other team members and with our partners on platform teams. You will report to the Engineering Manager of the Subs",
+            "tags": [
+                "Software",
+                "Engineer,",
+                "Growth",
+                "Conversion"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "The New York Times",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "New York, NY",
+            "job_type": "Junior",
+            "query_index": 2,
+            "query_used": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4462192106",
+            "title": "Full Stack Engineer",
+            "description": "**Job Title: Full Stack Engineer, Product Experience** \n\n\n\n\n**Location:** \n Remote (United States)\n \n\n\n\n**Team:** \n Engineering\n \n\n\n\n**Partner:** \n The fast\\-growing sports gaming platform in the U.S., backed by top\\-tier investors.\n \n\n\n\n  \n\n\n\n\n\n**About** \n\n\n\n\n Our hiring partner is on a mission to build the best products and the biggest company in the fastest\\-growing consumer industry in America. They believe sports are for everyone and are creating a new tomorrow for every fan. Founded just a few years ago, this innovative company has already built some of the most widely played fantasy games in the market and uniquely launched its own sportsbook on proprietary, homegrown technology—a first in the industry. This allows them to craft distinct, engaging, and seamless experiences that competitors cannot match.\n \n\n\n\n Their thesis is simple but powerful: build the best products and the fans will follow. They unite fantasy sports, sports betting, and prediction markets within one intuitive app, constantly pushing the boundaries of what a sports technology company can be.\n \n\n\n\n  \n\n\n\n\n\n**Why This is a Unique Opportunity** \n\n\n\n* **Impact at Scale:** \n Build features used by millions of passionate sports fans. Your work will directly shape the daily experience of a massive, engaged user base.\n* **Own Cutting\\-Edge Products:** \n Contribute to a unified platform that spans multiple high\\-growth verticals (fantasy, sportsbook, predictions), all built on unique, proprietary technology.\n* **High\\-Agency Culture:** \n Your voice matters. You will have real influence in technical discussions and product direction from day one.\n* **Remote\\-First Excellence:** \n Join a connected, virtual\\-first culture with a highly engaged distributed workforce, representing one of the most dynamic remote startup jobs in tech today.\n\n\n\n  \n\n\n\n\n\n**About the Role** \n\n\n\n\n We are looking for a Frontend Engineer to work on cutting\\-edge projects that gamify and enhance the user experience across our flag",
+            "tags": [
+                "Full",
+                "Stack",
+                "Engineer"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Underdog.io -Apply to top tech jobs in 60 seconds. A place where companies apply to you",
             "website_name": "linkedin",
             "posted_days_ago": null,
             "location": "",
@@ -349,24 +464,6 @@
             "query_used": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4455329984",
-            "title": "Jr. Android Engineer (RFID)",
-            "description": "**Overview**\n We’re hiring an\n **Android Engineer** \n to join our growing mobile team. You’ll work alongside our principal engineer and backend platform teams to build and improve our RFID mobile app for Zebra Android devices.\n   \n\n  \n\n This is a hands\\-on engineering role where you’ll write Kotlin, Jetpack Compose, integrate hardware SDKs, and help us ship secure, stable features into production. You’ll work on real\\-world device interactions like barcode scanning, RFID reads, and offline caching, all while learning how to develop within DoD environments.\n   \n\n  \n\n Remote (U.S. Based) \\| Some Travel Required\n   \n\n  \n\n LMI is a new breed of digital solutions provider dedicated to accelerating government impact with innovation and speed. Investing in technology and prototypes ahead of need, LMI brings commercial\\-grade platforms and mission\\-ready AI to federal agencies at commercial speed.\n   \n\n  \n\n Leveraging our mission\\-ready technology and solutions, proven expertise in federal deployment, and strategic relationships, we enhance outcomes for the government, efficiently and effectively. With a focus on agility and collaboration, LMI serves the defense, space, healthcare, and energy sectors—helping agencies navigate complexity and outpace change. Headquartered in Tysons, Virginia, LMI is committed to delivering impactful results that strengthen missions and drive lasting value.\n   \n\n  \n\n**Responsibilities**\n**What You'll Do**\n* Build new features and help maintain our Android application for rugged Zebra handheld devices.\n* Work within an existing multi\\-module Android codebase alongside more experienced developers.\n* Write clean, reliable Kotlin and Jetpack Compose code that interacts with RFID, barcode, and sensor data.\n* Help implement offline data handling, local caching, and secure storage solutions.\n* Collaborate with our backend teams to support reliable application syncing and a consistent user experience.\n* Assist with testing, debugging, and troubleshoot",
-            "tags": [
-                "Android",
-                "Engineer",
-                "(RFID)"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "LMI",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "",
-            "job_type": "Junior",
-            "query_index": 2,
-            "query_used": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")"
-        },
-        {
             "url": "https://www.linkedin.com/jobs/view/4462956662",
             "title": "Web Developer",
             "description": "We're hiring on behalf of a Haystack partner!\n \n\n\n\n  \n\n\n\n\n\n The Role\n \n\n\n\n • Develop and maintain enterprise web experiences using modern frameworks like NextJS, React, and TypeScript, integrated with headless CMS platforms.\n \n\n\n\n • Build reusable, scalable, and maintainable UI components that support a robust digital design system.\n \n\n\n\n • Translate UX and visual designs into responsive, accessible, and performant web experiences across various devices and browsers.\n \n\n\n\n • Partner closely with designers, content authors, business analysts, and fellow engineers to deliver high\\-quality digital solutions.\n \n\n\n\n • Optimize websites for performance, accessibility standards (WCAG), SEO, and responsive behavior.\n \n\n\n\n • Actively participate in code reviews, technical discussions, and Agile team ceremonies.\n \n\n\n\n  \n\n\n\n\n\n What You'll Need\n \n\n\n\n • Proficient, hands\\-on experience building modern web applications using React and/or NextJS.\n \n\n\n\n • Experience developing reusable components and maintainable front\\-end code.\n \n\n\n\n • Experience integrating headless CMS platforms to populate frontend environments.\n \n\n\n\n • Familiarity with TypeScript and modern JavaScript development patterns.\n \n\n\n\n • Understanding of accessibility standards (WCAG) and semantic HTML practices.\n \n\n\n\n • Experience using Git for source control and collaborative development workflows.\n \n\n\n\n  \n\n\n\n\n\n What's On Offer\n \n\n\n\n • Competitive salary\n \n\n\n\n • Opportunity to shape high\\-quality digital experiences for millions of users.\n \n\n\n\n • Blend technical prowess with a deep understanding of user experience.\n \n\n\n\n • Contribute to the strategic direction of digital marketing and deliver best\\-in\\-class customer journeys.\n \n\n\n\n  \n\n\n\n\n\n Apply via Haystack today!",
@@ -378,62 +475,6 @@
             "website_name": "linkedin",
             "posted_days_ago": null,
             "location": "Austin, Texas Metropolitan Area",
-            "job_type": "Junior",
-            "query_index": 2,
-            "query_used": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4446140208",
-            "title": "Software Engineer, Frontend (Agentic AI)",
-            "description": "**About Sift**\n Sift is the data infrastructure platform for hardware engineering teams. We turn high\\-frequency telemetry into engineering insights for mission\\-critical machines: rockets, satellites, autonomous vehicles, energy systems, and defense platforms. Founded by former SpaceX engineers, we are building the review and analysis layer for the AI era of physical systems.\n   \n\n  \n\n**About The Role**\n Hardware programs generate far more telemetry than any team can review by hand. Sift Agents is our answer: AI agents that work alongside hardware engineers, investigating anomalies, reviewing test and flight data, and answering in minutes questions that used to take a day of scripting.\n   \n\n  \n\n This role comes with real product ownership and autonomy. You will talk directly to customers to understand how they review their machines, decide what to build, and own it from first MVP through every iteration after it ships. The surface area is wide: one day you might be polishing the micro\\-interactions that make the chat experience feel great, the next you might be building a bespoke caching layer for the chat messages off the main JS thread. We’re heavy users of frontier agentic products ourselves and have strong opinions about what makes them great. Sift Agents is where we put those opinions to work.\n   \n\n  \n\n This is a product engineering role, not a research role. Most of the work is the hard part of making agents feel dependable in the browser: streaming interactions, long\\-running tasks, rendering agent output over large real\\-time datasets, and showing engineers exactly what an agent did and why.\n   \n\n  \n\n**In This Role, You'll**\n* Talk directly to customers and partner with product to turn real review workflows into agent capabilities: generating dashboards, writing analysis scripts, and surfacing insights buried in their telemetry\n* Build the frontend surfaces where Sift Agents live, and make them feel great\n* Design the interaction patterns of agentic UX: str",
-            "tags": [
-                "Software",
-                "Engineer,",
-                "Frontend",
-                "(Agentic"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Sift",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "Marina del Rey, CA",
-            "job_type": "Junior",
-            "query_index": 2,
-            "query_used": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4464621041",
-            "title": "Software Engineer, Growth Conversion",
-            "description": "**The mission of The New York Times is to seek the truth and help people understand the world. That means independent journalism is at the heart of all we do as a company. It’s why we have a world\\-renowned newsroom that sends journalists to report on the ground from nearly 160 countries. It’s why we focus deeply on how our readers will experience our journalism, from print to audio to a world\\-class digital and app destination. And it’s why our business strategy centers on making journalism so good that it’s worth paying for.**\n**About The Role**\n New York Times Conversion helps customers understand subscription benefits from NYT's US, International news and standalone applications through to the purchase and onboarding flows. The team consists of engineers, designers, data analysts and product managers focusing on shipping user\\-centered, experiment\\-driven features.\n   \n\n  \n\n As a Full Stack Software engineer on Conversion, your work will have a directly quantifiable impact on the bottom line of the Times, ensuring the work of our world\\-leading journalists. You will engineer features across desktop and mobile that promote understanding of subscription benefits no matter where they are in the user experience. Web Conversion approaches this by optimizing conversion surfaces through sales, free trial and directing users to high value surfaces such as native apps.\n   \n\n  \n\n You will work in React and TypeScript on the frontend, Node.js for web applications, and Go\\-based APIs, all running on the AWS cloud platform. You will help develop, test, and operate features end\\-to\\-end, from idea to production, alongside a collaborative team that values learning and continuous improvement.\n   \n\n  \n\n We value collaboration, transparency and openness, diversity, learning, community and continuous improvement. Our team builds great things through collaboration with other team members and with our partners on platform teams. You will report to the Engineering Manager of the Subs",
-            "tags": [
-                "Software",
-                "Engineer,",
-                "Growth",
-                "Conversion"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "The New York Times",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "New York, NY",
-            "job_type": "Junior",
-            "query_index": 2,
-            "query_used": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4463509453",
-            "title": "Software Engineer 1 (Full-Stack)",
-            "description": "About Us:\\-\n   \n\n  \n\n Prometheum is building the market infrastructure that brings securities onto the blockchain. Our SEC\\-registered broker\\-dealer network carries a digital asset through its entire life, from issuance and distribution to qualified custody, correspondent clearing, and secondary market trading, all within U.S. securities law.\n   \n\n  \n\n That work has put us first more than once. We became the first SEC\\-registered special purpose broker\\-dealer, and the first to trade ETH inside a traditional brokerage account. Those milestones rest on systems our engineers build every day, and we are searching for engineers like you to help us grow our team.\n   \n\n  \n\n Role:\\-\n   \n\n  \n\n Software Engineer 1 (Full\\-Stack) \\- Full Time W2\n   \n\n  \n\n Salary Range:\\-\n   \n\n  \n\n $90,000 to $120,000 \\+ stock options\n   \n\n  \n\n Overview:\\-\n   \n\n  \n\n This is an early\\-career role for an engineer who wants to grow quickly on a production system where quality matters and the regulatory stakes are real.\n   \n\n  \n\n As a Software Engineer 1, your job is to build and ship. You will work across our TypeScript/Node back end and React front end, starting with small, clearly defined pieces of work and taking on more as your understanding of the system grows. You will have a dedicated onboarding buddy, a team lead who meets with you weekly, and teammates who pair with you rather than leaving you to figure it out alone.\n   \n\n  \n\n Our engineering team is fully remote.\n   \n\n  \n\n Responsibilities:\\-\n   \n\n  \n\n* Ship work across the stack, from bug fixes and small features to test coverage and tech debt, with support from senior engineers\n* Use AI coding tools as a default part of your workflow, and review what they produce with the same rigor you would apply to your own code\n* Trace real requests end\\-to\\-end (front end, API, services, database) and build a working mental model of how custody, clearing, and trading fit together\n* Participate in code review, first as a learner asking questions, ",
-            "tags": [
-                "Software",
-                "Engineer",
-                "(Full-Stack)"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Prometheum",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "New York, NY",
             "job_type": "Junior",
             "query_index": 2,
             "query_used": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")"
@@ -457,71 +498,19 @@
             "query_used": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")"
         },
         {
-            "url": "https://www.indeed.com/viewjob?jk=d0dc87863da4f376",
-            "title": "Quality Engineer (AI Automation)",
-            "description": "About Cognizant’s Quality Engineering \\& Assurance Team\n  \nOur Quality Engineering \\& Assurance team is the innovative engine at our company. We are a dedicated group of builders and problem\\-solvers responsible for the most critical, customer\\-facing platforms. Within this team, the Quality practice is not a downstream function but a fully integrated partner in development. Our mission is to embed quality into every stage of the lifecycle, and as a Quality Engineer, you will be on the front lines of this effort. Position Overview\n  \nAre you a driven Quality Engineer passionate about building the future of testing? We are seeking a creative and hands\\-on QE to be a key contributor to our quality practice. This is an exciting opportunity to move beyond traditional QA and dive into the world of AI\\-driven testing, helping us build and maintain robust quality standards for our mission\\-critical intelligent applications that are redefining customer interaction. Key Responsibilities\n  \nDesign, develop, and maintain test automation frameworks using Java and Python. Write clean, efficient, and scalable automation scripts for new features to ensure robust test coverage across all deliverables.\n  \n**Perform API testing:** Understand API concepts, develop and execute functional tests, interpret Swagger YAML files, and validate endpoints using Postman or Rest Assured automation frameworks.\n  \n**Conduct database testing:** Write and execute SQL queries to retrieve, update, and delete data, ensuring database integrity and reliability.\n  \n**Own quality for assigned features and components:** Collaborate with product managers and developers on requirements analysis, create detailed test cases, execute comprehensive test suites (functional, integration, regression), and provide final quality sign\\-off.\n  \n**Track and report testing progress:** Use tools such as JIRA, ADO, or ALM for defect logging and reporting, ensuring transparency of feature quality to the team and stakeholders.",
-            "tags": [
-                "Quality",
-                "Engineer",
-                "Automation)"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Cognizant",
-            "website_name": "indeed",
-            "posted_days_ago": 2,
-            "location": "Teaneck, NJ, US",
-            "job_type": "Junior",
-            "query_index": 3,
-            "query_used": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4458479567",
-            "title": "JR. AI Engineer",
-            "description": "**Job Responsibilities:** \n\n\n\n\n ● Collaborate with the team to design and develop high quality Web applications using Python, Flask, Django, and related technologies.\n \n\n\n\n ● Write clean and efficient code, and ensure code maintainability and reusability.\n \n\n\n\n ● Design and implement RAG pipelines on Google Cloud / Vertex AI (chunking, embeddings, indexing, retrieval, reranking, grounding).\n \n\n\n\n ● Build agentic workflows (tool use, planning, reflection/guardrails, structured outputs) using Python\\-first frameworks.\n \n\n\n\n ● Perform code reviews to ensure code quality and consistency.\n \n\n\n\n ● Conduct testing to ensure application quality and reliability.\n \n\n\n\n ● Create and maintain technical documentation for web applications.\n \n\n\n\n ● Participate in project planning, estimation, and prioritization.\n \n\n\n\n ● Stay up to date with the latest technologies for Python development.\n \n\n\n\n ● Define and run evaluation (retrieval metrics, answer quality, hallucination/grounding checks), and improve system quality iteratively.\n \n\n\n\n ● Ship to production: APIs, monitoring/observability, cost/performance optimization, CI/CD, and security best practices.\n \n\n\n\n  \n\n\n\n\n\n**Requirement:** \n\n\n\n\n ● Experience in software development in Python3\\.\n \n\n\n\n ● Decent understanding of the software development/testing life cycle.\n \n\n\n\n ● Knowledge of relational databases (e.g. MySQL, PostgreSQL, etc)slanguage skills\n \n\n\n\n ● Experience with version control tools, such as Git.\n \n\n\n\n ● Experience building RAG solutions (hybrid search, reranking, chunking strategies, embeddings, prompt \\+ schema design).\n \n\n\n\n ● Familiar with at least one agentic framework (e.g., LangGraph/LangChain, LlamaIndex, Semantic Kernel, AutoGen) and tool/function calling patterns.\n \n\n\n\n  \n\n\n\n\n\n**Preferred Qualifications:** \n\n\n\n\n ● 1\\+ year professional experience in Python web application development with either Flask or Django.\n \n\n\n\n ● Experience in RESTful API development in Python.\n \n\n\n\n ● Understanding of Python web applic",
-            "tags": [
-                "Engineer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "BeaconFire Inc.",
-            "website_name": "linkedin",
-            "posted_days_ago": 1,
-            "location": "New York, United States",
-            "job_type": "Junior",
-            "query_index": 3,
-            "query_used": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4462223649",
-            "title": "Backend Engineer",
-            "description": "**About Air Apps**\n At Air Apps, we believe in thinking bigger—and moving faster. We’re a family\\-founded company on a mission to create the world’s first AI\\-powered Personal \\& Entrepreneurial Resource Planner (PRP), and we need your passion and ambition to help us change how people plan, work, and live. Born in Lisbon, Portugal in 2018—and now with offices in both Lisbon and San Francisco—we’ve remained self\\-funded while reaching over 100 million downloads worldwide.\n   \n\n Our long\\-term focus drives us to challenge the status quo every day, pushing the boundaries of AI\\-driven solutions that truly make a difference. Here, you’ll be a creative force, shaping products that empower people across the globe.\n   \n\n Join us on this journey to redefine resource management—and change lives along the way.\n   \n\n The Role\n   \n\n As a Backend Software Engineer, you will be responsible for designing, building, and maintaining the server\\-side components of our applications. You will collaborate closely with product managers, frontend developers, and other cross\\-functional teams to deliver robust and scalable backend services that power critical features and support rapid growth.\n   \n\n Please note that this post serves the purpose of enhancing our talent pool while we prepare to launch the official job. As soon as it gets posted we will get in touch with you.\n   \n\n**Responsibilities**\n* Architect and Develop Services: Design, implement, and maintain RESTful and/or GraphQL APIs, microservices, and server\\-side logic to support a variety of products and platforms.\n* Database Management: Collaborate on schema design, query optimization, and data modeling to ensure efficient, reliable data storage and retrieval.\n* System Scalability and Performance: Develop solutions that scale to millions of users, optimizing code for throughput, latency, and cost\\-effectiveness.\n* Security and Compliance: Implement security best practices (authentication, authorization, encryption) and ensure c",
+            "url": "https://www.linkedin.com/jobs/view/4463509560",
+            "title": "Backend Engineer, New Grad",
+            "description": "Jobright is your personal AI job search agent that transforms the way you do job search from solo, time\\-consuming efforts to a fast, expert\\-guided journey, simplifying every job search step and accelerating your route to the best job outcomes. As a Backend Engineer, New Grad, you will help build scalable services, APIs, data systems, and infrastructure that support the next generation of career technology.\n \n\n\n\n  \n\n\n\n\n\n Why Join Us\n \n\n\n\n  \n\n\n\n\n\n • Build real, production AI agents used by real users\n \n\n\n\n • High ownership and impact\n \n\n\n\n • Work at the intersection of AI, agents, and product\n \n\n\n\n • Shape how people experience AI\\-driven job search\n \n\n\n\n  \n\n\n\n\n\n Responsibilities\n \n\n\n\n  \n\n\n\n\n\n • Design and implement backend services and APIs\n \n\n\n\n • Build reliable data models, integrations, and internal tools\n \n\n\n\n • Improve system scalability, performance, and observability\n \n\n\n\n • Write automated tests and maintain high code quality\n \n\n\n\n • Debug production issues and contribute to incident resolution\n \n\n\n\n • Collaborate with frontend, AI, data, and product teams\n \n\n\n\n Qualification\n \n\n\n\n  \n\n\n\n\n\n Required\n \n\n\n\n  \n\n\n\n\n\n • Recent graduate or graduating soon in Computer Science, Engineering, or a related field\n \n\n\n\n • Strong programming skills in Python, Java, Go, TypeScript, or a similar language\n \n\n\n\n • Understanding of databases, APIs, networking, and backend fundamentals\n \n\n\n\n • Familiarity with Git, testing, and software development workflows\n \n\n\n\n • Strong problem\\-solving and communication skills\n \n\n\n\n • Ability to work remotely\n \n\n\n\n  \n\n\n\n\n\n Preferred\n \n\n\n\n  \n\n\n\n\n\n • Experience with FastAPI, Django, Node.js, Java Spring, or similar frameworks\n \n\n\n\n • Familiarity with PostgreSQL, Redis, Docker, or cloud platforms\n \n\n\n\n • Understanding of distributed systems, queues, or asynchronous processing\n \n\n\n\n • Interest in AI infrastructure and developer tools",
             "tags": [
                 "Backend",
-                "Engineer"
+                "Engineer,",
+                "Grad"
             ],
             "pay_info": "Not specified",
-            "company_name": "Air Apps",
+            "company_name": "Jobright.ai",
             "website_name": "linkedin",
-            "posted_days_ago": 1,
-            "location": "San Francisco, CA",
-            "job_type": "Junior",
-            "query_index": 3,
-            "query_used": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4441070698",
-            "title": "Junior Full Stack Developer",
-            "description": "**Role Description**\n**Junior Full Stack Developer**\n**Associate I \\- Data Engineering**\n**Who We Are**\n Born digital, UST transforms lives through the power of technology. We walk alongside our clients and partners, embedding innovation and agility into everything they do. We help them create transformative experiences and human\\-centered solutions for a better world.\n   \n\n  \n\n UST is a mission\\-driven group of 29,000\\+ practical problem solvers and creative thinkers in more than 30 countries. Our entrepreneurial teams are empowered to innovate, act nimbly, and create a lasting and sustainable impact for our clients, their customers, and the communities in which we live.\n   \n\n  \n\n With us, you’ll create a boundless impact that transforms your career—and the lives of people across the world.\n   \n\n  \n\n Visit us at UST.com.\n   \n\n  \n\n**You Are**\n We are searching for a high\\-potential Junior Full Stack Developer to join our Data CoE, focused on building data\\-driven applications and platforms. This role is ideal for candidates with strong fundamentals and a passion for working at the intersection of application development and data engineering.\n   \n\n  \n\n**The Opportunity**\n* Develop and maintain end\\-to\\-end full stack applications (frontend \\+ backend)\n* Build scalable data\\-driven applications and APIs\n* Integrate applications with enterprise data platforms (data lakes, warehouses, APIs)\n* Collaborate with data engineers, data scientists, and architects\n* Participate in design discussions, code reviews, and debugging\n* Ensure code quality, testing, and adherence to modern engineering practices (CI/CD)\n\n\n This position description identifies the responsibilities and tasks typically associated with the performance of the position. Other relevant essential functions may be required.\n   \n\n  \n\n**What You Need**\n* Graduation Year: 2024, 2025 or 2026\n* GPA: 3\\.5\n* Experience: 0\\-3 years\n* Frontend: React / Angular / Vue.js, HTML, CSS, JavaScript/TypeScript\n* Backend: Java /",
-            "tags": [
-                "Junior",
-                "Full",
-                "Stack",
-                "Developer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "UST",
-            "website_name": "linkedin",
-            "posted_days_ago": 1,
-            "location": "Atlanta, GA",
+            "posted_days_ago": null,
+            "location": "",
             "job_type": "Junior",
             "query_index": 3,
             "query_used": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")"
@@ -536,6 +525,24 @@
             ],
             "pay_info": "Not specified",
             "company_name": "TalentHop",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "job_type": "Junior",
+            "query_index": 3,
+            "query_used": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4463505601",
+            "title": "Python Engineer, New Grad",
+            "description": "Jobright is your personal AI job search agent that transforms the way you do job search from solo, time\\-consuming efforts to a fast, expert\\-guided journey, simplifying every job search step and accelerating your route to the best job outcomes. As a Python Engineer, New Grad, you will contribute to backend services, data pipelines, APIs, and AI\\-powered workflows used by real job seekers.\n \n\n\n\n  \n\n\n\n\n\n Why Join Us\n \n\n\n\n  \n\n\n\n\n\n • Build real, production AI agents used by real users\n \n\n\n\n • High ownership and impact\n \n\n\n\n • Work at the intersection of AI, agents, and product\n \n\n\n\n • Shape how people experience AI\\-driven job search\n \n\n\n\n  \n\n\n\n\n\n Responsibilities\n \n\n\n\n  \n\n\n\n\n\n • Build and maintain Python services, APIs, and data pipelines\n \n\n\n\n • Develop reliable integrations with AI and third\\-party services\n \n\n\n\n • Write clean, testable, and maintainable code\n \n\n\n\n • Debug issues and improve system performance and reliability\n \n\n\n\n • Collaborate with engineers, product managers, and data scientists\n \n\n\n\n • Contribute to technical documentation and code reviews\n \n\n\n\n Qualification\n \n\n\n\n  \n\n\n\n\n\n Required\n \n\n\n\n  \n\n\n\n\n\n • Recent graduate or graduating soon in Computer Science, Engineering, or a related field\n \n\n\n\n • Strong Python programming skills\n \n\n\n\n • Understanding of data structures, algorithms, and software engineering fundamentals\n \n\n\n\n • Familiarity with REST APIs, Git, databases, and debugging\n \n\n\n\n • Strong communication skills and ability to work remotely\n \n\n\n\n  \n\n\n\n\n\n Preferred\n \n\n\n\n  \n\n\n\n\n\n • Experience with FastAPI, Django, Flask, or similar frameworks\n \n\n\n\n • Familiarity with PostgreSQL, Docker, cloud platforms, or CI/CD\n \n\n\n\n • Experience working with asynchronous systems or data pipelines\n \n\n\n\n • Interest in LLMs, AI agents, or recommendation systems",
+            "tags": [
+                "Python",
+                "Engineer,",
+                "Grad"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Jobright.ai",
             "website_name": "linkedin",
             "posted_days_ago": null,
             "location": "",
@@ -561,29 +568,30 @@
             "query_used": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4462975718",
-            "title": "Backend Engineer, New Grad",
-            "description": "Jobright is your personal AI job search agent that transforms the way you do job search from solo, time\\-consuming efforts to a fast, expert\\-guided journey, simplifying every job search step and accelerating your route to the best job outcomes. As a Backend Engineer, New Grad, you will help build scalable services, APIs, data systems, and infrastructure that support the next generation of career technology.\n \n\n\n\n  \n\n\n\n\n\n Why Join Us\n \n\n\n\n  \n\n\n\n\n\n • Build real, production AI agents used by real users\n \n\n\n\n • High ownership and impact\n \n\n\n\n • Work at the intersection of AI, agents, and product\n \n\n\n\n • Shape how people experience AI\\-driven job search\n \n\n\n\n  \n\n\n\n\n\n Responsibilities\n \n\n\n\n  \n\n\n\n\n\n • Design and implement backend services and APIs\n \n\n\n\n • Build reliable data models, integrations, and internal tools\n \n\n\n\n • Improve system scalability, performance, and observability\n \n\n\n\n • Write automated tests and maintain high code quality\n \n\n\n\n • Debug production issues and contribute to incident resolution\n \n\n\n\n • Collaborate with frontend, AI, data, and product teams\n \n\n\n\n Qualification\n \n\n\n\n  \n\n\n\n\n\n Required\n \n\n\n\n  \n\n\n\n\n\n • Recent graduate or graduating soon in Computer Science, Engineering, or a related field\n \n\n\n\n • Strong programming skills in Python, Java, Go, TypeScript, or a similar language\n \n\n\n\n • Understanding of databases, APIs, networking, and backend fundamentals\n \n\n\n\n • Familiarity with Git, testing, and software development workflows\n \n\n\n\n • Strong problem\\-solving and communication skills\n \n\n\n\n • Ability to work remotely\n \n\n\n\n  \n\n\n\n\n\n Preferred\n \n\n\n\n  \n\n\n\n\n\n • Experience with FastAPI, Django, Node.js, Java Spring, or similar frameworks\n \n\n\n\n • Familiarity with PostgreSQL, Redis, Docker, or cloud platforms\n \n\n\n\n • Understanding of distributed systems, queues, or asynchronous processing\n \n\n\n\n • Interest in AI infrastructure and developer tools",
-            "tags": [
-                "Backend",
-                "Engineer,",
-                "Grad"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Jobright.ai",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "",
-            "job_type": "Junior",
-            "query_index": 3,
-            "query_used": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")"
-        },
-        {
             "url": "https://www.linkedin.com/jobs/view/4461409683",
             "title": "Junior AI Developer- Python",
             "description": "**Agentic AI Developer (Python)** \n\n\n\n\n**BeaconFire** \n is based in Central NJ, specializing in Software Development, Web Development, and Business Intelligence; looking for a strong agentic AI developer who can build and productionize Vertex AI–based RAG systems (Vertex AI Search / Vertex AI RAG patterns), design reliable tool\\-using agents, and work comfortably with vector databases and graph databases. You’ll own end\\-to\\-end delivery: ingestion, retrieval, agent orchestration, evaluation, and deployment.\n \n\n\n\n**Job Responsibilities** \n\n\n\n* Collaborate with the team to design and develop high quality Web applications using Python, Flask, Django, and related technologies\n* Write clean and efficient code, and ensure code maintainability and reusability\n* Design and implement RAG pipelines on Google Cloud / Vertex AI (chunking, embeddings, indexing, retrieval, reranking, grounding)\n* Build agentic workflows (tool use, planning, reflection/guardrails, structured outputs) using Python\\-first frameworks\n* Perform code reviews to ensure code quality and consistency\n* Conduct testing to ensure application quality and reliability\n* Create and maintain technical documentation for web applications\n* Participate in project planning, estimation, and prioritization\n* Stay up to date with the latest technologies for Python development\n* Define and run evaluation (retrieval metrics, answer quality, hallucination/grounding checks), and improve system quality iteratively\n* Ship to production: APIs, monitoring/observability, cost/performance optimization, CI/CD, and security best practices\n\n\n\n**Requirements** \n\n\n\n* Experience in software development in Python3\n* Decent understanding of the software development/testing life cycle\n* Knowledge of relational databases (e.g. MySQL, PostgreSQL, etc)\n* Experience with version control tools, such as Git\n* Experience building RAG solutions (hybrid search, reranking, chunking strategies, embeddings, prompt \\+ schema design)\n* Familiar with a",
             "tags": [
                 "Junior",
+                "Developer-",
+                "Python"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "BeaconFire Inc.",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "California, United States",
+            "job_type": "Junior",
+            "query_index": 3,
+            "query_used": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4459551192",
+            "title": "Entry Level AI Developer- Python",
+            "description": "**Agentic AI Developer (Python)** \n\n\n\n\n**BeaconFire** \n is based in Central NJ, specializing in Software Development, Web Development, and Business Intelligence; looking for a strong agentic AI developer who can build and productionize Vertex AI–based RAG systems (Vertex AI Search / Vertex AI RAG patterns), design reliable tool\\-using agents, and work comfortably with vector databases and graph databases. You’ll own end\\-to\\-end delivery: ingestion, retrieval, agent orchestration, evaluation, and deployment.\n \n\n\n\n**Job Responsibilities** \n\n\n\n* Collaborate with the team to design and develop high quality Web applications using Python, Flask, Django, and related technologies\n* Write clean and efficient code, and ensure code maintainability and reusability\n* Design and implement RAG pipelines on Google Cloud / Vertex AI (chunking, embeddings, indexing, retrieval, reranking, grounding)\n* Build agentic workflows (tool use, planning, reflection/guardrails, structured outputs) using Python\\-first frameworks\n* Perform code reviews to ensure code quality and consistency\n* Conduct testing to ensure application quality and reliability\n* Create and maintain technical documentation for web applications\n* Participate in project planning, estimation, and prioritization\n* Stay up to date with the latest technologies for Python development\n* Define and run evaluation (retrieval metrics, answer quality, hallucination/grounding checks), and improve system quality iteratively\n* Ship to production: APIs, monitoring/observability, cost/performance optimization, CI/CD, and security best practices\n\n\n\n**Requirements** \n\n\n\n* Experience in software development in Python3\n* Decent understanding of the software development/testing life cycle\n* Knowledge of relational databases (e.g. MySQL, PostgreSQL, etc)\n* Experience with version control tools, such as Git\n* Experience building RAG solutions (hybrid search, reranking, chunking strategies, embeddings, prompt \\+ schema design)\n* Familiar with a",
+            "tags": [
+                "Entry",
+                "Level",
                 "Developer-",
                 "Python"
             ],
@@ -614,16 +622,36 @@
             "query_used": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4462977484",
-            "title": "Python Engineer, New Grad",
-            "description": "Jobright is your personal AI job search agent that transforms the way you do job search from solo, time\\-consuming efforts to a fast, expert\\-guided journey, simplifying every job search step and accelerating your route to the best job outcomes. As a Python Engineer, New Grad, you will contribute to backend services, data pipelines, APIs, and AI\\-powered workflows used by real job seekers.\n \n\n\n\n  \n\n\n\n\n\n Why Join Us\n \n\n\n\n  \n\n\n\n\n\n • Build real, production AI agents used by real users\n \n\n\n\n • High ownership and impact\n \n\n\n\n • Work at the intersection of AI, agents, and product\n \n\n\n\n • Shape how people experience AI\\-driven job search\n \n\n\n\n  \n\n\n\n\n\n Responsibilities\n \n\n\n\n  \n\n\n\n\n\n • Build and maintain Python services, APIs, and data pipelines\n \n\n\n\n • Develop reliable integrations with AI and third\\-party services\n \n\n\n\n • Write clean, testable, and maintainable code\n \n\n\n\n • Debug issues and improve system performance and reliability\n \n\n\n\n • Collaborate with engineers, product managers, and data scientists\n \n\n\n\n • Contribute to technical documentation and code reviews\n \n\n\n\n Qualification\n \n\n\n\n  \n\n\n\n\n\n Required\n \n\n\n\n  \n\n\n\n\n\n • Recent graduate or graduating soon in Computer Science, Engineering, or a related field\n \n\n\n\n • Strong Python programming skills\n \n\n\n\n • Understanding of data structures, algorithms, and software engineering fundamentals\n \n\n\n\n • Familiarity with REST APIs, Git, databases, and debugging\n \n\n\n\n • Strong communication skills and ability to work remotely\n \n\n\n\n  \n\n\n\n\n\n Preferred\n \n\n\n\n  \n\n\n\n\n\n • Experience with FastAPI, Django, Flask, or similar frameworks\n \n\n\n\n • Familiarity with PostgreSQL, Docker, cloud platforms, or CI/CD\n \n\n\n\n • Experience working with asynchronous systems or data pipelines\n \n\n\n\n • Interest in LLMs, AI agents, or recommendation systems",
+            "url": "https://www.linkedin.com/jobs/view/4464452422",
+            "title": "Software Engineer (New Grad)",
+            "description": "A New Grad Software Engineer role at Yara, connecting you with high\\-growth companies where you'll ship to production immediately and work closely with founders.\n \n\n\n\n  \n\n\n\n\n\n**Responsibilities** \n\n\n\n* Ship to production in your first week\n* Own a real surface end to end\n* Sit near founders and contribute directly\n* Build with AI tools daily\n* Find out quickly if what you built worked\n\n\n\n**Requirements** \n\n\n\n* Graduated this year or within the last 18 months\n* Strong GitHub portfolio showcasing your work\n* Built something people have used\n* Experience with TypeScript, Python, or Go\n* Deployed and maintained a project\n\n\n\n**Qualifications** \n\n\n\n* CS degree, bootcamp with real projects, or strong body of work\n* Internships, open\\-source contributions, or hackathon wins\n* LLM\\-powered side projects beyond chat wrappers\n* Enthusiasm for work\\-trial interviews\n* Desire to be an early engineer at a startup",
             "tags": [
-                "Python",
-                "Engineer,",
-                "Grad"
+                "Software",
+                "Engineer",
+                "(New",
+                "Grad)"
             ],
             "pay_info": "Not specified",
-            "company_name": "Jobright.ai",
+            "company_name": "Yara AI",
+            "website_name": "linkedin",
+            "posted_days_ago": null,
+            "location": "",
+            "job_type": "Junior",
+            "query_index": 3,
+            "query_used": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")"
+        },
+        {
+            "url": "https://www.linkedin.com/jobs/view/4464602822",
+            "title": "Junior Software Engineer (Remote)",
+            "description": "* **Role** \n : Junior Software Engineer (Remote)\n* **Location** \n : Remote (Work from Anywhere)\n* **Job Type** \n : Full\\-Time\n* **Payout** \n : $180K \\- $250K/yr\n\n\n\n  \n\n\n\n\n\n**Role Overview:** \n\n\n\n\n We are hiring for one of our clients, seeking a Software Engineer, New Grad to work on a full\\-time basis. You will collaborate across teams to deliver scalable solutions, with a focus on modern cloud infrastructure. The role involves contributing to core product development while learning from senior engineers.\n \n\n\n\n  \n\n\n\n\n\n**Key Responsibilities:** \n\n\n\n\n • Design, develop, and maintain software systems using Python, Java, or Go.\n \n\n\n\n • Write clean, efficient, and maintainable code following best practices.\n \n\n\n\n • Participate in code reviews to ensure adherence to technical standards.\n \n\n\n\n • Debug and resolve issues in production and development environments.\n \n\n\n\n • Contribute to architectural decisions and system design discussions.\n \n\n\n\n  \n\n\n\n\n\n**Required Skills \\& Qualifications:** \n\n\n\n\n • Proficiency in at least one programming language such as Python, Java, or Go.\n \n\n\n\n • Experience with data structures, algorithms, and problem\\-solving.\n \n\n\n\n • Familiarity with version control systems like Git.\n \n\n\n\n • Basic understanding of cloud platforms and DevOps practices.\n \n\n\n\n • Strong communication skills to collaborate with cross\\-functional teams.\n \n\n\n\n  \n\n\n\n\n\n**More About the Opportunity:** \n\n\n\n\n This role offers a unique opportunity to work with a global leader in the Technology, Information and Internet industry, contributing to scalable software solutions. You will gain exposure to cutting\\-edge technologies and mentorship from experienced engineers.\n \n\n\n\n  \n\n\n\n\n\n**Equal Opportunity Employer:** \n\n\n\n\n We hire based on skills and expertise. All qualified candidates are welcome regardless of background, experience, or prior employment history. Applications are reviewed solely on demonstrated technical ability and qualifications.\n \n\n\n\n  \n\n\n\n\n\n**Apply Now!**",
+            "tags": [
+                "Junior",
+                "Software",
+                "Engineer",
+                "(Remote)"
+            ],
+            "pay_info": "Not specified",
+            "company_name": "Hire Feed",
             "website_name": "linkedin",
             "posted_days_ago": null,
             "location": "",
@@ -649,11 +677,12 @@
             "query_used": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4464452422",
-            "title": "Software Engineer (New Grad)",
+            "url": "https://www.linkedin.com/jobs/view/4464439774",
+            "title": "Full Stack Engineer (New Grad)",
             "description": "A New Grad Software Engineer role at Yara, connecting you with high\\-growth companies where you'll ship to production immediately and work closely with founders.\n \n\n\n\n  \n\n\n\n\n\n**Responsibilities** \n\n\n\n* Ship to production in your first week\n* Own a real surface end to end\n* Sit near founders and contribute directly\n* Build with AI tools daily\n* Find out quickly if what you built worked\n\n\n\n**Requirements** \n\n\n\n* Graduated this year or within the last 18 months\n* Strong GitHub portfolio showcasing your work\n* Built something people have used\n* Experience with TypeScript, Python, or Go\n* Deployed and maintained a project\n\n\n\n**Qualifications** \n\n\n\n* CS degree, bootcamp with real projects, or strong body of work\n* Internships, open\\-source contributions, or hackathon wins\n* LLM\\-powered side projects beyond chat wrappers\n* Enthusiasm for work\\-trial interviews\n* Desire to be an early engineer at a startup",
             "tags": [
-                "Software",
+                "Full",
+                "Stack",
                 "Engineer",
                 "(New",
                 "Grad)"
@@ -668,33 +697,13 @@
             "query_used": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")"
         },
         {
-            "url": "https://www.linkedin.com/jobs/view/4436261665",
-            "title": "Associate Software Engineer / Software Engineer",
-            "description": "**Job Description**\n**Amazing Career Moments Happen Here**\n Transforming the insurance industry is ambitious, we know. That’s why at Applied, we’re building a team that shows up every day ready to learn, willing to try new things, and driven to deliver innovative software and services that make us indispensable to our customers – all within a culture built on values that make us indispensable to each other too. With 40\\+ years of experience in the Insurtech game, we’re not just redefining what’s achievable; we’re creating a place where amazing career moments are made possible.\n   \n\n  \n\n**About Epic Engineering**\n Epic Engineering is building robust, scalable software solutions as we continue to improve system quality, accelerate delivery, and ensure maintainability across the ecosystem. We’re hiring an Associate Software Engineer interested in continuous learning, innovation, and making a measurable impact on our technology landscape.\n   \n\n  \n\n**Role Overview**\n As an Associate Software Engineer, you will contribute to projects to modernize and optimize our codebase. You’ll work closely with experienced engineers to identify, address, and reduce technical debt to ensure systems remain reliable and efficient.\n   \n\n  \n\n**Key Responsibilities**\n* Contribute to development tasks focused on reducing technical debt and improving code quality, with guidance from senior team members\n* Solve defined technical problems and seek support from the team as needed\n* Participate in code reviews, receive feedback, and build technical skills while gaining experience with modern technologies and AI tools\n* Apply foundational knowledge of software development practices, including documentation, testing, debugging, and data structures\n* Maintain metrics and complete tasks in alignment with defined processes.\n* Exhibit behaviors that exemplify Applied Systems’ Values in Action.\n\n\n**Qualifications**\n* Degree in Computer Science, related fields, or equivalent combination of education and e",
+            "url": "https://www.linkedin.com/jobs/view/4464493805",
+            "title": "Software Engineer - E-Commerce (Remote)",
+            "description": "* **Role** \n : Software Engineer \\- E\\-Commerce (Remote)\n* **Location** \n : Remote (Work from Anywhere)\n* **Job** \n**Type** \n : Full\\-Time\n* **Payout** \n : $180K \\- $250K/yr\n\n\n\n  \n\n\n\n\n\n**Role Overview:** \n\n\n\n\n We are hiring for one of our clients, seeking a Software Engineer, New Grad (Zara) to work on a full\\-time basis. The role involves developing scalable backend systems, optimizing algorithms, and collaborating with cross\\-functional teams to deliver high\\-performance solutions. You will contribute to mission\\-critical infrastructure supporting real\\-time user experiences across global platforms.\n \n\n\n\n  \n\n\n\n\n\n**Key Responsibilities:** \n\n\n\n\n • Design, develop, and maintain scalable backend services in distributed systems.\n \n\n\n\n • Write clean, efficient, and maintainable code following best practices and testing standards.\n \n\n\n\n • Optimize system performance through profiling, debugging, and algorithmic improvements.\n \n\n\n\n • Participate in code reviews, architectural discussions, and technical design sessions.\n \n\n\n\n • Work closely with product managers, designers, and other engineers to ship features.\n \n\n\n\n  \n\n\n\n\n\n**Required Skills \\& Qualifications:** \n\n\n\n\n • Proficiency in programming languages such as Go, Python, or Java.\n \n\n\n\n • Experience with distributed systems, microservices, or cloud\\-native development.\n \n\n\n\n • Familiarity with databases (SQL and NoSQL) and performance tuning.\n \n\n\n\n • Understanding of data structures, algorithms, and system design principles.\n \n\n\n\n • Experience with version control systems (e.g., Git) and CI/CD pipelines.\n \n\n\n\n  \n\n\n\n\n\n**More About the Opportunity:** \n\n\n\n\n This role offers a unique opportunity to work with a global leader in the Technology, Information and Internet industry, contributing to high\\-traffic platforms serving millions of users. You will solve complex technical challenges while growing your skills in a collaborative, results\\-driven environment.\n \n\n\n\n  \n\n\n\n\n\n**Equal Opportunity Employer:** \n\n\n\n\n We hire based",
             "tags": [
-                "Associate",
                 "Software",
                 "Engineer",
-                "Software",
-                "Engineer"
-            ],
-            "pay_info": "Not specified",
-            "company_name": "Applied Systems",
-            "website_name": "linkedin",
-            "posted_days_ago": null,
-            "location": "Chicago, IL",
-            "job_type": "Junior",
-            "query_index": 3,
-            "query_used": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")"
-        },
-        {
-            "url": "https://www.linkedin.com/jobs/view/4464602822",
-            "title": "Junior Software Engineer (Remote)",
-            "description": "* **Role** \n : Junior Software Engineer (Remote)\n* **Location** \n : Remote (Work from Anywhere)\n* **Job Type** \n : Full\\-Time\n* **Payout** \n : $180K \\- $250K/yr\n\n\n\n  \n\n\n\n\n\n**Role Overview:** \n\n\n\n\n We are hiring for one of our clients, seeking a Software Engineer, New Grad to work on a full\\-time basis. You will collaborate across teams to deliver scalable solutions, with a focus on modern cloud infrastructure. The role involves contributing to core product development while learning from senior engineers.\n \n\n\n\n  \n\n\n\n\n\n**Key Responsibilities:** \n\n\n\n\n • Design, develop, and maintain software systems using Python, Java, or Go.\n \n\n\n\n • Write clean, efficient, and maintainable code following best practices.\n \n\n\n\n • Participate in code reviews to ensure adherence to technical standards.\n \n\n\n\n • Debug and resolve issues in production and development environments.\n \n\n\n\n • Contribute to architectural decisions and system design discussions.\n \n\n\n\n  \n\n\n\n\n\n**Required Skills \\& Qualifications:** \n\n\n\n\n • Proficiency in at least one programming language such as Python, Java, or Go.\n \n\n\n\n • Experience with data structures, algorithms, and problem\\-solving.\n \n\n\n\n • Familiarity with version control systems like Git.\n \n\n\n\n • Basic understanding of cloud platforms and DevOps practices.\n \n\n\n\n • Strong communication skills to collaborate with cross\\-functional teams.\n \n\n\n\n  \n\n\n\n\n\n**More About the Opportunity:** \n\n\n\n\n This role offers a unique opportunity to work with a global leader in the Technology, Information and Internet industry, contributing to scalable software solutions. You will gain exposure to cutting\\-edge technologies and mentorship from experienced engineers.\n \n\n\n\n  \n\n\n\n\n\n**Equal Opportunity Employer:** \n\n\n\n\n We hire based on skills and expertise. All qualified candidates are welcome regardless of background, experience, or prior employment history. Applications are reviewed solely on demonstrated technical ability and qualifications.\n \n\n\n\n  \n\n\n\n\n\n**Apply Now!**",
-            "tags": [
-                "Junior",
-                "Software",
-                "Engineer",
+                "E-Commerce",
                 "(Remote)"
             ],
             "pay_info": "Not specified",
