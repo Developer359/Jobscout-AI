@@ -50,7 +50,9 @@ It systematically queries live job aggregators (LinkedIn, Indeed, Google Jobs) u
 
 ## 🏗 System Architecture & Pipeline
 
-<img width="1174" height="514" alt="image" src="https://github.com/user-attachments/assets/653821e0-224e-4024-90ec-50dff1d73de9" />
+<img width="1174" height="514" alt="image" src="https://github.com/user-attachments/assets/653821e0-224e-4024-90ec-50dff1d73de9" /> <img width="1196" height="526" alt="image" src="https://github.com/user-attachments/assets/c5f6b3b3-0bba-4821-ac93-5c406995bafc" /> <img width="1093" height="485" alt="image" src="https://github.com/user-attachments/assets/d2fa9a94-d0e5-4373-aa92-89bbdc704f75" />
+
+
 
 
 ## 📂 Project Hierarchy
