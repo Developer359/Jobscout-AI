@@ -1,8 +1,17 @@
 {
-    "source": "temp_organized_resume.json -> skills (short & popular)",
+    "source": "temp_organized_resume.json -> skills (seniority-targeted)",
     "queries": [
-        "(\"Full Stack\" OR Fullstack) AND (\"Next.js\" OR React) AND (\"Node.js\" OR Express)",
-        "(\"React Native\" OR Next.js OR React) AND (Tailwind OR TypeScript)",
-        "(\"Node.js\" OR Express OR Python) AND (MongoDB OR Supabase) AND (API OR Backend)"
+        {
+            "query": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")",
+            "job_type": "Junior"
+        },
+        {
+            "query": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")",
+            "job_type": "Junior"
+        },
+        {
+            "query": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")",
+            "job_type": "Junior"
+        }
     ]
 }

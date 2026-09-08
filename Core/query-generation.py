@@ -29,7 +29,7 @@ def get_skills_from_json() -> str:
     skills_data = data.get("skills", {})
     return json.dumps(skills_data, indent=2)
 
-def generate_search_queries() -> list[str]:
+def generate_search_queries() -> dict:
     skills_json_str = get_skills_from_json()
     client = genai.Client()
     
@@ -40,43 +40,64 @@ Analyze the candidate's skills JSON object provided below:
 Skills JSON:
 {skills_json_str}
 
-Your task is to generate EXACTLY 3 short, punchy, and highly popular job search queries using Boolean operators (AND, OR) and parentheses. 
-Keep them concise—use only the top 3-4 most popular industry keywords per query:
+Your task is to generate EXACTLY 3 job search queries using Boolean operators (AND, OR) and parentheses. 
+Because the candidate is at a junior/entry level, you MUST explicitly include target job seniority keywords (such as "Junior", "Entry-Level", or "Associate") in the queries so that job boards filter out senior or advanced roles automatically during search.
 
-- Query 1: Short **Full Stack** query (e.g., combining Full Stack with React/Next.js and Node).
-- Query 2: Short **Frontend / Mobile** query (e.g., React, Next.js, or React Native).
-- Query 3: Short **Backend / API / DB** query (e.g., Node, Express, Python, or Database).
+Return your response strictly as a valid JSON object with a single key "queries" containing a list of 3 objects. Each object must have:
+- "query": The Boolean search string containing seniority level and skills.
+- "job_type": The seniority level intended for that query (e.g., "Junior", "Entry-Level", "Intermediate").
 
-STRICT FORMATTING RULES:
-1. Return ONLY the 3 search queries separated by newlines.
-2. No extra text, bullet points, numbers, explanations, or markdown code blocks.
-3. Keep each query short, concise, and focused strictly on top market keywords.
+Example format:
+{{
+  "queries": [
+    {{
+      "query": "(\"Junior Developer\" OR \"Junior Engineer\") AND (\"React\" OR \"Next.js\") AND (\"Node\")",
+      "job_type": "Junior"
+    }}
+  ]
+}}
+
+Return ONLY valid JSON. No markdown code blocks, no extra conversational text.
 """
 
-    print("[*] Generating short, market-optimized search queries with Gemini 3.5 Flash-Lite...")
+    print("[*] Generating seniority-filtered search queries with Gemini 3.5 Flash-Lite...")
     response = client.models.generate_content(
         model='gemini-3.5-flash-lite',
         contents=prompt
     )
     
-    queries = [q.strip() for q in response.text.split("\n") if q.strip()][:3]
+    raw_response = response.text.strip()
+    # Clean markdown code blocks if Gemini adds them
+    clean_json_str = raw_response.replace("```json", "").replace("```", "").strip()
     
-    # Store queries in structured JSON format inside temporary storage
+    try:
+        data = json.loads(clean_json_str)
+    except json.JSONDecodeError:
+        # Fallback dictionary if formatting fails slightly
+        data = {
+            "source": "temp_organized_resume.json -> skills (seniority-targeted)",
+            "queries": [
+                {"query": "(\"Junior Developer\" OR \"Entry-Level\") AND (\"React\" OR \"Next.js\") AND (\"Node\")", "job_type": "Junior"},
+                {"query": "(\"Junior Frontend Developer\") AND (\"React Native\" OR \"Tailwind\") AND (\"JavaScript\")", "job_type": "Junior"},
+                {"query": "(\"Junior Backend Developer\" OR \"Associate\") AND (\"Node.js\" OR \"Python\") AND (\"Express\")", "job_type": "Junior"}
+            ]
+        }
+
+    # Ensure structured cache format
+    if "source" not in data:
+        data["source"] = "temp_organized_resume.json -> skills (seniority-targeted)"
+
+    # Store structured queries and job types in query_cache.json
     os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
-    structured_cache = {
-        "source": "temp_organized_resume.json -> skills (short & popular)",
-        "queries": queries
-    }
     with open(CACHE_FILE, "w", encoding="utf-8") as f:
-        json.dump(structured_cache, f, indent=4, ensure_ascii=False)
+        json.dump(data, f, indent=4, ensure_ascii=False)
         
-    return queries
+    return data
 
 if __name__ == "__main__":
-    # Clear out old cache so it immediately recalculates with the shorter format
     if os.path.exists(CACHE_FILE):
         os.remove(CACHE_FILE)
         
-    queries = generate_search_queries()
-    for i, q in enumerate(queries):
-        print(f"Query {i+1}: {q}")
+    result = generate_search_queries()
+    for i, item in enumerate(result.get("queries", [])):
+        print(f"Query {i+1} [{item.get('job_type')}]: {item.get('query')}")
