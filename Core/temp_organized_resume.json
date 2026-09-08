@@ -51,21 +51,33 @@
     "projects": [
         {
             "name": "AI Resume Checker",
-            "technologies": "React + AI",
+            "technologies": [
+                "React",
+                "AI"
+            ],
             "date": "NOV -2025",
             "description": "Developed a web application to analyze resumes and provide actionable feedback. Implemented AI scoring for tone, style, and content. Deployed live for students and job seekers to optimize CVs."
         },
         {
             "name": "Donation Website",
-            "technologies": "Next.js, Framer",
+            "technologies": [
+                "Next.js",
+                "Framer"
+            ],
             "date": "Feb -2026",
             "description": "Built a responsive Client Donate Website for donation. Implemented contact form and dynamic mutiples pages ."
         },
         {
             "name": "Ai-Assistance (Jarvis)",
-            "technologies": "Js, Html, CSS, AI, Gemini AI",
+            "technologies": [
+                "Js",
+                "Html",
+                "CSS",
+                "AI",
+                "Gemini AI"
+            ],
             "date": "OCT -2025",
-            "description": "Jarvis is a smart AI assistant built using Gemini AI, designed to make daily tasks effortless and interactive. It can talk & chat with users naturally, open applications on your device using voice commands, provide real-time information like current date, time, or news, and fetch knowledge from Wikipedia and AI-powered sources instantly. Built with a focus on voice interactivity, automation, and AI integration."
+            "description": "Jarvis is a smart AI assistant built using Gemini AI, designed to make daily tasks effortless and interactive. It can talk & chat with users naturally, open applications on your device using voice commands, provide real-time information like current date, time, or news, and fetch knowledge from Wikipedia and AI-powered sources instantly. Built with a focus on voice interactivity, automation, and AI integration, Jarvis demonstrates how modern AI can streamline tasks and assist."
         }
     ],
     "about_me": "Full-Stack Developer with over a year of experience specializing in the MERN stack and High-Level Design (HLD). Strong in problem-solving, logical thinking, and independent learning. Currently expanding my expertise into AI Engineering by learning Python, automation, and LangChain. Actively seeking remote or freelance opportunities to build scalable solutions.",
