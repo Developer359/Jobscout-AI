@@ -4,7 +4,7 @@ warnings.filterwarnings("ignore", category=UserWarning)
 import os
 import sys
 import re
-import fitz  # PyMuPDF
+import pymupdf as fitz
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 # Add project root to path so it can successfully import from the Data folder
