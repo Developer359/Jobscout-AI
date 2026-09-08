@@ -2,17 +2,15 @@ import warnings
 warnings.filterwarnings("ignore", category=UserWarning)
 
 import os
-import sys
 import re
 import pymupdf as fitz
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-# Add project root to path so it can successfully import from the Data folder
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-from Data.chroma_store import store_cv_in_chroma
-
 # 2. Raw Text Extraction (PyMuPDF)
 def extract_raw_text(pdf_path: str) -> str:
+    if not os.path.exists(pdf_path):
+        raise FileNotFoundError(f"Could not find resume PDF at: {pdf_path}")
+        
     doc = fitz.open(pdf_path)
     raw_text = ""
     for page in doc:
@@ -38,7 +36,6 @@ def chunk_cv_data(raw_text: str) -> list[str]:
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=500,
         chunk_overlap=50,
-        separators=["\n\n", "\n", ". ", " "]
     )
     
     general_chunks = text_splitter.split_text(raw_text)
@@ -62,9 +59,7 @@ if __name__ == "__main__":
     chunks = chunk_cv_data(raw_text)
     
     print(f"\n--- Output ({len(chunks)} total chunks generated) ---")
-    if chunks:
-        print(f"[First Chunk Preview]:\n{chunks[0][:150]}...\n")
-    
-    # Store text chunks into ChromaDB
-    print("[*] Storing text chunks into ChromaDB...")
-    store_cv_in_chroma(chunks)
+    for i, chunk in enumerate(chunks, 1):
+        print(f"\n[Chunk {i} Preview]:")
+        print(chunk[:200] + "..." if len(chunk) > 200 else chunk)
+        print("-" * 40)
