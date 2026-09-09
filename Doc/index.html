@@ -9,6 +9,55 @@
     <link rel="icon" href="logo.svg" type="image/svg+xml">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Added Styles for the Copy-Paste Code Blocks -->
+    <style>
+        .copy-code-block {
+            background-color: #f0f4f9;
+            border-radius: 8px;
+            margin-top: 12px;
+            margin-bottom: 24px;
+            overflow: hidden;
+            font-family: 'Inter', sans-serif;
+            color: #001d35;
+        }
+        .copy-code-block .code-header {
+            padding: 16px 16px 8px 16px;
+            font-weight: 600;
+            font-size: 1em;
+        }
+        .copy-code-block pre {
+            margin: 0;
+            padding: 0 16px 16px 16px;
+            font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+            font-size: 0.9em;
+            overflow-x: auto;
+            color: #001d35;
+        }
+        .copy-code-block .code-footer {
+            background-color: #f4f6f8;
+            padding: 10px 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-top: 3px solid #ffffff; 
+            font-size: 0.85em;
+            color: #001d35;
+        }
+        .copy-code-block .copy-icon {
+            cursor: pointer;
+            color: #444746;
+            font-size: 1.2em;
+            transition: color 0.2s ease;
+        }
+        .copy-code-block .copy-icon:hover {
+            color: #0b57d0;
+        }
+        /* Adjusted list styles to accommodate blocks nicely */
+        .doc-section ul li {
+            margin-bottom: 24px;
+        }
+    </style>
 </head>
 
 <body>
@@ -146,7 +195,17 @@ pip install -r requirements.txt</code></pre>
                         </div>
                         <h3>Libraries & Downloads</h3>
                         <ul>
-                            <li><strong>Python Dotenv:</strong> Used to securely load environment variables from the `.env` file into your Python application. <a href="https://pypi.org/project/python-dotenv/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                            <li>
+                                <strong>Python Dotenv:</strong> Used to securely load environment variables from the `.env` file into your Python application.
+                                <div class="copy-code-block">
+                                    <div class="code-header">bash</div>
+                                    <pre><code>pip install python-dotenv</code></pre>
+                                    <div class="code-footer">
+                                        <span class="caution-text">Use code with caution.</span>
+                                        <i class="fa-regular fa-copy copy-icon" title="Copy code"></i>
+                                    </div>
+                                </div>
+                            </li>
                         </ul>
                     </section>
 
@@ -169,10 +228,31 @@ pip install -r requirements.txt</code></pre>
                         <p>The first critical step in the JobScout-AI pipeline is reliably extracting unstructured text from candidate CVs.</p>
                         <h3>Overview</h3>
                         <p>This module scans the <code>Data/inputs/</code> directory for user resumes (supporting `.pdf` and `.docx` formats). It carefully reads the document layer by layer, extracting raw text while maintaining the original flow. Once the raw text is extracted, it intelligently chunks the document into smaller, semantically meaningful segments so that the VLM can process the data without exceeding context windows.</p>
+                        
                         <h3>Libraries & Downloads</h3>
                         <ul>
-                            <li><strong>PyMuPDF:</strong> High-performance library for PDF rendering and text extraction. <a href="https://pypi.org/project/PyMuPDF/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
-                            <li><strong>LangChain Text Splitters:</strong> Used specifically for the <code>RecursiveCharacterTextSplitter</code> to chunk text efficiently. <a href="https://pypi.org/project/langchain-text-splitters/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                            <li>
+                                <strong>PyMuPDF:</strong> High-performance library for PDF rendering and text extraction.
+                                <div class="copy-code-block">
+                                    <div class="code-header">bash</div>
+                                    <pre><code>pip install PyMuPDF</code></pre>
+                                    <div class="code-footer">
+                                        <span class="caution-text">Use code with caution.</span>
+                                        <i class="fa-regular fa-copy copy-icon" title="Copy code"></i>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <strong>LangChain Text Splitters:</strong> Used specifically for the <code>RecursiveCharacterTextSplitter</code> to chunk text efficiently.
+                                <div class="copy-code-block">
+                                    <div class="code-header">bash</div>
+                                    <pre><code>pip install langchain-text-splitters</code></pre>
+                                    <div class="code-footer">
+                                        <span class="caution-text">Use code with caution.</span>
+                                        <i class="fa-regular fa-copy copy-icon" title="Copy code"></i>
+                                    </div>
+                                </div>
+                            </li>
                         </ul>
                     </section>
 
@@ -181,9 +261,20 @@ pip install -r requirements.txt</code></pre>
                         <p>Once the raw text is extracted, it is passed to a powerful Vector Language Model (VLM) for deep semantic structuring.</p>
                         <h3>Overview</h3>
                         <p>Raw text is messy. The VLM agent takes the chaotic chunks of resume text and uses a highly constrained prompt to restructure it into a strict JSON format. It categorizes the text into explicit fields like <code>personal_info</code>, <code>skills</code>, <code>projects</code>, and <code>experience</code>. This guarantees that the downstream embedding process has clean, normalized data to work with.</p>
+                        
                         <h3>Libraries & Downloads</h3>
                         <ul>
-                            <li><strong>Google GenAI:</strong> The official Google SDK used to connect to the Gemini Flash-Lite model for ultra-fast, structured JSON generation. <a href="https://pypi.org/project/google-genai/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                            <li>
+                                <strong>Google GenAI:</strong> The official Google SDK used to connect to the Gemini Flash-Lite model for ultra-fast, structured JSON generation.
+                                <div class="copy-code-block">
+                                    <div class="code-header">bash</div>
+                                    <pre><code>pip install google-genai</code></pre>
+                                    <div class="code-footer">
+                                        <span class="caution-text">Use code with caution.</span>
+                                        <i class="fa-regular fa-copy copy-icon" title="Copy code"></i>
+                                    </div>
+                                </div>
+                            </li>
                         </ul>
                     </section>
 
@@ -192,11 +283,42 @@ pip install -r requirements.txt</code></pre>
                         <p>The structured CV sections are converted into high-dimensional vectors and stored locally.</p>
                         <h3>Overview</h3>
                         <p>By embedding the resume data into a local ChromaDB instance, the system creates a "memory" of the candidate. This persistent vector store allows the agent to perform blazing-fast semantic similarity searches. When a job description is evaluated later, the system can instantly measure the mathematical distance between the candidate's embedded skills and the job's requirements.</p>
+                        
                         <h3>Libraries & Downloads</h3>
                         <ul>
-                            <li><strong>ChromaDB:</strong> The open-source embedding database for building AI applications locally. <a href="https://pypi.org/project/chromadb/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
-                            <li><strong>LangChain HuggingFace:</strong> Wrapper to easily use HuggingFace embedding models locally without external API calls. <a href="https://pypi.org/project/langchain-huggingface/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
-                            <li><strong>Sentence Transformers:</strong> The underlying engine required to compute the dense vector embeddings locally. <a href="https://pypi.org/project/sentence-transformers/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                            <li>
+                                <strong>ChromaDB:</strong> The open-source embedding database for building AI applications locally.
+                                <div class="copy-code-block">
+                                    <div class="code-header">bash</div>
+                                    <pre><code>pip install chromadb</code></pre>
+                                    <div class="code-footer">
+                                        <span class="caution-text">Use code with caution.</span>
+                                        <i class="fa-regular fa-copy copy-icon" title="Copy code"></i>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <strong>LangChain HuggingFace:</strong> Wrapper to easily use HuggingFace embedding models locally without external API calls.
+                                <div class="copy-code-block">
+                                    <div class="code-header">bash</div>
+                                    <pre><code>pip install langchain-huggingface</code></pre>
+                                    <div class="code-footer">
+                                        <span class="caution-text">Use code with caution.</span>
+                                        <i class="fa-regular fa-copy copy-icon" title="Copy code"></i>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <strong>Sentence Transformers:</strong> The underlying engine required to compute the dense vector embeddings locally.
+                                <div class="copy-code-block">
+                                    <div class="code-header">bash</div>
+                                    <pre><code>pip install sentence-transformers</code></pre>
+                                    <div class="code-footer">
+                                        <span class="caution-text">Use code with caution.</span>
+                                        <i class="fa-regular fa-copy copy-icon" title="Copy code"></i>
+                                    </div>
+                                </div>
+                            </li>
                         </ul>
                     </section>
 
@@ -205,9 +327,20 @@ pip install -r requirements.txt</code></pre>
                         <p>The AI generates highly targeted job search queries based entirely on the parsed candidate profile.</p>
                         <h3>Overview</h3>
                         <p>Instead of relying on the user to guess the best search terms, the AI agent dynamically formulates complex, optimized search queries. It looks at the candidate's seniority, core technologies, and industry experience to generate strings like <em>"Junior Python Backend Developer React"</em>. This ensures the scraping phase is highly effective.</p>
+                        
                         <h3>Libraries & Downloads</h3>
                         <ul>
-                            <li><strong>Google GenAI:</strong> Used again to orchestrate the prompt logic that converts candidate JSON into optimized search terms. <a href="https://pypi.org/project/google-genai/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                            <li>
+                                <strong>Google GenAI:</strong> Used again to orchestrate the prompt logic that converts candidate JSON into optimized search terms.
+                                <div class="copy-code-block">
+                                    <div class="code-header">bash</div>
+                                    <pre><code>pip install google-genai</code></pre>
+                                    <div class="code-footer">
+                                        <span class="caution-text">Use code with caution.</span>
+                                        <i class="fa-regular fa-copy copy-icon" title="Copy code"></i>
+                                    </div>
+                                </div>
+                            </li>
                         </ul>
                     </section>
 
@@ -216,10 +349,31 @@ pip install -r requirements.txt</code></pre>
                         <p>The generated queries are executed against real-time job boards to fetch live opportunities.</p>
                         <h3>Overview</h3>
                         <p>Using the optimized queries, the system scrapes Indeed and LinkedIn simultaneously. It bypasses the need for expensive API keys by parsing the HTML of live job boards directly. It filters out stale jobs (e.g., older than 24 hours), handles pagination, and returns a clean, structured dataframe of fresh opportunities. These jobs are then scored against the candidate's ChromaDB vectors to find the perfect match.</p>
+                        
                         <h3>Libraries & Downloads</h3>
                         <ul>
-                            <li><strong>Python JobSpy:</strong> A robust, anti-ban scraper designed specifically to extract job listings from LinkedIn, Indeed, Glassdoor, etc. <a href="https://pypi.org/project/python-jobspy/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
-                            <li><strong>Pandas:</strong> The industry standard for data manipulation, used here to clean, filter, and structure the scraped job data. <a href="https://pypi.org/project/pandas/" target="_blank" class="lib-link"><i class="fa-solid fa-download"></i> PyPI Link</a></li>
+                            <li>
+                                <strong>Python JobSpy:</strong> A robust, anti-ban scraper designed specifically to extract job listings from LinkedIn, Indeed, Glassdoor, etc.
+                                <div class="copy-code-block">
+                                    <div class="code-header">bash</div>
+                                    <pre><code>pip install python-jobspy</code></pre>
+                                    <div class="code-footer">
+                                        <span class="caution-text">Use code with caution.</span>
+                                        <i class="fa-regular fa-copy copy-icon" title="Copy code"></i>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <strong>Pandas:</strong> The industry standard for data manipulation, used here to clean, filter, and structure the scraped job data.
+                                <div class="copy-code-block">
+                                    <div class="code-header">bash</div>
+                                    <pre><code>pip install pandas</code></pre>
+                                    <div class="code-footer">
+                                        <span class="caution-text">Use code with caution.</span>
+                                        <i class="fa-regular fa-copy copy-icon" title="Copy code"></i>
+                                    </div>
+                                </div>
+                            </li>
                         </ul>
                     </section>
 
