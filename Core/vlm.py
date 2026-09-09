@@ -22,15 +22,20 @@ from Data.chroma_store import store_cv_in_chroma
 
 
 def organize_with_gemini(chunks: list[str]) -> dict:
-    """Uses Google Gemini 3.5 Flash-Lite to read chunks and structure them into clean multi-line JSON with auto-retry."""
+    """Uses Google Gemini to read chunks, evaluate seniority level, and structure data into clean multi-line JSON with auto-retry."""
     combined_text = "\n\n".join(chunks)
 
     print("[*] Initializing Google GenAI client...")
     client = genai.Client()
 
-    prompt = f"""You are an expert data extractor and resume parser. Read the resume text below carefully and extract the real applicant data into a strict JSON object.
+    prompt = f"""You are an expert data extractor, resume parser, and technical recruiter. Read the resume text below carefully and extract the real applicant data into a strict JSON object.
 You must categorize the information into these EXACT keys: 
-"personal_info", "skills", "projects", "about_me", and "internships_and_experience".
+"personal_info", "skills", "projects", "about_me", "internships_and_experience", and "seniority_level".
+
+SPECIAL EVALUATION INSTRUCTION FOR "seniority_level":
+- Deeply scan the full resume text for total years of experience, depth of technical implementation, architectural ownership, and leadership responsibilities.
+- Accurately categorize the candidate's career level as one of: "Junior", "Intermediate", or "Senior" (you may also specify a precise leaning if applicable, e.g., "Junior-Intermediate" or "Mid-Senior"). 
+- Provide a brief 1-2 sentence justification or key indicator inside this field alongside the level.
 
 STRICT RULES:
 1. Extract ONLY information explicitly present in the text below. 
@@ -46,9 +51,9 @@ Resume Text:
 
     for attempt in range(1, max_retries + 1):
         try:
-            print(f"[*] Sending text to Gemini 3.5 Flash-Lite (Attempt {attempt}/{max_retries})...")
+            print(f"[*] Sending text to Gemini (Attempt {attempt}/{max_retries})...")
             response = client.models.generate_content(
-                model='gemini-3.5-flash-lite',  # Updated to the new active model ID
+                model='gemini-2.5-flash',  # Adjust model identifier if needed
                 contents=prompt,
             )
             raw_response = response.text.strip()
@@ -100,7 +105,7 @@ if __name__ == "__main__":
     raw_text = extract_raw_text(pdf_file_path)
     raw_chunks = chunk_cv_data(raw_text)
 
-    # Structure data using Gemini 3.5 Flash-Lite
+    # Structure data and evaluate seniority using Gemini
     structured_json = organize_with_gemini(raw_chunks)
 
     print(f"[*] Saving structured data to temporary JSON: {temp_json_path}")
