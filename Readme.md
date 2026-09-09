@@ -22,6 +22,17 @@ An intelligent, multi-stage pipeline that parses candidate resumes, organizes sk
 It systematically queries live job aggregators (LinkedIn, Indeed, Google Jobs) using **JobSpy**, enforcing strict age and seniority rules to deliver high-intent, recent opportunities directly into structured local caches.
 
 ---
+## 📚 Docs & Architecture
+
+A complete guide covering the full project architecture and setup instructions can be explored directly in the interactive documentation page (`index.html`). 
+
+### Core Pipeline Modules
+* **`parser.py`**: Handles document ingestion, text extraction, and structural preprocessing.
+* **`vlm.py`**: Coordinates the Vision-Language Model interface for multimodal analysis.
+* **`chroma_store.py`**: Manages the ChromaDB vector database, embedding generation, and storage.
+* **`query-generation.py`**: Formulates and optimizes search queries based on user intent.
+* **`job-search.py`**: Connects to external APIs to fetch and filter live career listings.
+---
 
 ## ✨ Key Features
 
