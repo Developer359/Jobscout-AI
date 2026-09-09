@@ -22,6 +22,27 @@ An intelligent, multi-stage pipeline that parses candidate resumes, organizes sk
 It systematically queries live job aggregators (LinkedIn, Indeed, Google Jobs) using **JobSpy**, enforcing strict age and seniority rules to deliver high-intent, recent opportunities directly into structured local caches.
 
 ---
+<br>
+
+## 📚 Docs & Architecture
+
+A complete guide covering the full project architecture and individual pipeline module breakdowns can be explored directly in the interactive documentation page (`index.html`).
+
+### Core Pipeline Modules
+* **`parser.py`**: Handles document ingestion, text extraction, and structural preprocessing.
+* **`vlm.py`**: Coordinates the Vision-Language Model interface for multimodal analysis.
+* **`chroma_store.py`**: Manages the ChromaDB vector database, embedding generation, and storage.
+* **`query-generation.py`**: Formulates and optimizes search queries based on user intent.
+* **`job-search.py`**: Connects to external APIs to fetch and filter live career listings.
+
+<br>
+
+For a professionally formatted, step-by-step walkthrough of the entire setup process, please refer to our live documentation site:
+
+🔗 **[JobScout-AI Deployment & Installation Docs](https://vercel.app)**
+
+---
+<br>
 
 ## ✨ Key Features
 
@@ -34,9 +55,11 @@ It systematically queries live job aggregators (LinkedIn, Indeed, Google Jobs) u
 - 🔄 **Orchestrated Execution**: Single-command execution via `main.py` with non-destructive, auto-updating cache management.
 
 ---
+<br>
 
+## 📊 Pipeline Flow & Responsibilities
 
-📊 job_results_cache.json
+### `job_results_cache.json` Execution Flow
 
 | Step | Module | Function / Responsibility |
 | :--- | :--- | :--- |
@@ -44,16 +67,23 @@ It systematically queries live job aggregators (LinkedIn, Indeed, Google Jobs) u
 | **2** | `Core/vlm.py` | Processes resume content to extract domain skills into `temp_organized_resume.json`. |
 | **3** | `Data/chroma_store.py` | Generates vector embeddings and stores chunks inside local ChromaDB storage. |
 | **4** | `Core/query-generation.py` | Formulates optimized Boolean search queries linked with target job levels in `query_cache.json`. |
-| **5** | `Core/job-search.py` | Executes multi-site scraping via JobSpy, filtering results by location, age ($\le$ 2 days), and target match. |
+| **5** | `Core/job-search.py` | Executes multi-site scraping via JobSpy, filtering results by location, age (\(\le\) 2 days), and target match. |
 
 ---
-## 🏗 System HLD & Pipeline
+<br>
 
-<img width="1174" height="514" alt="image" src="https://github.com/user-attachments/assets/653821e0-224e-4024-90ec-50dff1d73de9" /> <img width="1196" height="526" alt="image" src="https://github.com/user-attachments/assets/c5f6b3b3-0bba-4821-ac93-5c406995bafc" /> <img width="1093" height="485" alt="image" src="https://github.com/user-attachments/assets/d2fa9a94-d0e5-4373-aa92-89bbdc704f75" />
+## 🏗️ System HLD & Pipelines
+
+<img width="1174" height="514" alt="CV Processing Pipeline" src="https://github.com/user-attachments/assets/653821e0-224e-4024-90ec-50dff1d73de9" /> 
+<br><br>
+<img width="1196" height="526" alt="Data Organize Pipeline" src="https://github.com/user-attachments/assets/c5f6b3b3-0bba-4821-ac93-5c406995bafc" /> 
+<br><br>
+<img width="1093" height="485" alt="Tavily Search Pipeline" src="https://github.com/user-attachments/assets/d2fa9a94-d0e5-4373-aa92-89bbdc704f75" />
 
 ---
+<br>
 
-## 🏗 System Architecture
+## 🛠️ System Architecture
 
 ```text
                ┌───────────────────────┐
@@ -81,15 +111,11 @@ It systematically queries live job aggregators (LinkedIn, Indeed, Google Jobs) u
                            ▼
           ┌─────────────────────────────────┐
           │  Multi-Platform Job Searcher    │
-          │  (LinkedIn, Indeed, Glassdoor)  │
+          │  (LinkedIn, Indeed, Google)     │
           └────────────────┬────────────────┘
                            │
                            ▼
           ┌─────────────────────────────────┐
           │  Structured Output (JSON/Cache) │
           └─────────────────────────────────┘
-
-  ---
-
-          
-
+```
